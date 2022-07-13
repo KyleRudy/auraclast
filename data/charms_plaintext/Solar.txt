@@ -1,0 +1,1830 @@
+General Solar Charms
+The following Charms count as Caste Charms for all Solars.
+Excellence of the Blazing Sun: (Ability) (•)
+By feeding raw Essence into focused endeavor, the Solar may perform feats far beyond the
+human norm.
+System: Select one Ability when purchasing this Charm. At any time, the player may reflexively
+spend 1 Mote to add (the Attribute being rolled + the Ability in question) dice to all rolls using
+this Ability for (Essence rating + 1) rounds in combat, or minutes outside of combat.
+This Charm can be repurchased to unlock additional Abilities, but Motes must be spent to add
+dice to each Ability separately. Solars begin play with all versions of Excellence of the
+Blazing Sun which correspond to their Caste and Favored Abilities.
+Should the Sun Not Rise (•)
+The Solar’s legend and legacy are her own, and though the candle of her life may gutter out, her
+works will not vanish when she does.
+System: Should the Solar die with at least one point of Willpower remaining to her, the guttering
+sparks of her vitality restore her to fitful life at some point during the next three days. She has
+only a short time — a few hours at most — before her injuries reclaim her, but may use this very
+brief reprieve to locate a hand-selected successor, and, with her final breath, pass her Exaltation
+on to the mortal inheritor of her choice. Her chosen successor need not be physically present
+when she expires, but if he is not, she must spend a point of Willpower to send her Exaltation to
+him.
+The newly-Exalted Solar automatically gains Mentor 3 (in the form of the Exaltation’s former
+bearer instructing and advising him in his dreams).
+A Solar must have Essence 3+ to purchase this Charm.
+Final Ray of Light (•••)
+Though even her very flesh and divinity falters under the blades and maledictions of a fallen age
+turned against her, the Solar rises up one last time in defense of those she loves.
+System: If the Solar dies in the course of protecting or fighting for one of her Intimacies, she
+immediately returns to life in a blaze of golden Essence. Her Essence pool restores itself to full,
+and she heals (Essence rating) levels of damage immediately. Final Ray of Light can only
+activate once per story.
+Supernal Effect: Upon her resurrection, the Solar swallows her anima into herself, transforming
+into an idealized incarnation of her own godhood. She may manifest new clothing, glowing
+tattoos, alterations to the appearance and coloration of her hair and eyes, and similarly outlandish
+indications that she is far more than mortal. While wearing this ascendant visage, can move two
+zones by paying a point of Willpower, and can cut ahead in the battle order (Essence rating)
+times per fight without paying Willpower. She increases all of her Attributes by three dots. The
+transformation lasts for one scene, then abates.
+After assuming her ascendant visage once, the Solar may activate it again in the future with a
+turn’s concentration (doing so heals her and replenishes her Essence as though she had revived
+with Final Ray of Light), but only once per story, and doing so negates the possibility of using
+Final Ray of Light to avoid death during that story. Alternately, she may attempt to enact this
+transformation without “using up” the Charm for the rest of the story by spending 2 Motes and
+then making a difficulty 9 Essence roll, but in this case she does not heal or replenish her
+Essence.
+A Solar must have Essence 3+ to purchase this Charm.
+Dawn Charms
+Accuracy Without Distance (•)
+Resonance: Archery, Martial Arts
+The Solar may close her eyes before striking, if she desires; she aims with her heart, kills with
+her will.
+System: Reflexively spend 1 Mote before making an attack. The attack automatically hits, no
+matter how well the opponent defends or how poorly the Exalt rolls; if the dice indicate that the
+attack should not strike true, then it hits anyway, with no threshold damage. Accuracy Without
+Distance can’t strike through a perfect defense such as Heavenly Guardian Defense, however,
+nor can it strike a target if there’s simply no way to reach them (such as if they’re on the other
+side of a wall, or outside of a weapon’s maximum range).
+Supernal Effect: The first time in a scene the Solar uses this Charm, its normal limitations do
+not apply: if she is certain of her target’s location, she may strike him even through solid walls so
+long as he is within the weapon’s maximum striking range.
+Dipping Swallow Defense (•)
+Resonance: Brawl, Martial Arts, Melee, War
+The Solar lets instinct guide her defenses, and finds that her blade or fist intercepts every attack
+in the moment before it strikes her.
+System: Reflexively spend 1 Mote to activate this Charm. For next (2 + Essence rating) rounds,
+each result of 1 rolled on attacks against the Solar by a protagonist subtracts one from that
+attack’s base damage while this Charm is active, if she attempts to Parry the attack. Attacks
+aimed at her by antagonists which she attempts to Parry instead increase their damage by one
+point per three successes rolled rather than the usual two.
+Finally, all group attacks that the Solar attempts to Parry while this Charm is active do not add
+Size to their Expertise pool or base damage.
+Divine Executioner Stance (•)
+Resonance: Empathy, Melee
+The Solar swears to protect that which she holds most dear, and Heaven stands officiant in
+recognition of her convictions. Her attacks ignite with holy fire, rendering wicked men into
+wailing ghosts.
+System: Reflexively spend 1 Willpower and select one of the Solar’s Intimacies. For the rest of
+the scene, whenever the Solar attacks someone who threatens that Intimacy or whose actions or
+agenda violates it, her attack and damage rolls lower their difficulty by –1 and increase their base
+damage by +3. If she incapacitates or kills such a foe, she gains 1 Mote of Essence.
+This Charm may only be activated to protect a particular Intimacy once per story. The Solar may
+waive the Willpower cost if she sees a creature of darkness threatening the Intimacy she activates
+this Charm to protect.
+Supernal Effect: If a Solar strikes someone with an attack enhanced by this Charm, and they do
+not move at least one zone away from her on their next turn, then at the end of that round after all
+other characters have acted, she may make an extra attack against them, and may keep doing so
+in each subsequent round until they attempt to flee from her.
+Dragon Coil Technique (•)
+Resonance: Brawl, Martial Arts
+Those caught in the Solar’s grasp find that it is like being enwrapped in iron chains.
+System: The Solar locks herself in a deadly embrace with an opponent, immobilizing them and
+wrenching apart their joints one by one. By reflexively paying 1 Mote upon landing a successful
+unarmed attack, the Exalt locks herself and her target in place. Unless she voluntarily
+relinquishes the power of this Charm, neither can move from the zone they currently occupy
+until the Solar has taken another (higher of 1 or Brawl rating) turns. The initial attack inflicts
+lethal damage with a bonus to its base damage equal to the Solar’s Strength rating, as do all
+subsequent unarmed attacks during the duration of Dragon Coil Technique. While Dragon Coil
+Technique persists, the Solar may opt not to roll to attack her target if she desires, instead
+automatically scoring (Essence rating) successes with an unarmed attack on each of her turns.
+Attacking anyone other than her grappled target immediately ends Dragon Coil Technique. Each
+time the Solar is struck by an attack, the duration of Dragon Coil Technique is cut short by one
+round.
+Supernal Effect: This Charm inflicts aggravated damage against creatures of darkness. At the
+end of its duration, the Solar and her target make a reflexive, contested roll of Strength + (Brawl
+or Martial Arts) at difficulty 6. If the target doesn’t accumulate more successes, the Solar may
+immediately renew Dragon Coil Technique at no cost.
+Edge of Morning Sunlight (•)
+Resonance: Archery, Melee, Presence
+The Solar’s attacks burn the undead, the unholy, and other such creatures of darkness like fire.
+System: The Solar may reflexively spend 1 Mote to make all of her attacks for the next (1+
+Essence rating) rounds inflict aggravated damage against all creatures of darkness.
+Creatures of Darkness
+Creatures of darkness include all beings of Hell and the Underworld, such as ghosts
+and demons, or whose nature is intrinsically tied to darkness or death. Abyssal,
+Infernal, and Liminal Exalted are considered creatures of darkness.
+Hauberk-Summoning Gesture (•)
+Resonance: Resistance
+The Solar extends her limbs and closes her eyes, remembering the weight of her armor, and a
+moment later memory becomes reality as she becomes enwrapped in steel.
+System: The Solar either spends one turn in concentration to summon a suit of armor she owns
+onto herself, regardless of how far away it may be, causing it to appear and enwrap her in a
+matter of moments; or else she may reflexively spend 1 Mote to instantly don the armor in a
+flash of light, so quickly that it can protect her from a spear already being thrust at her body.
+Heaven Thunder Hammer (•)
+Resonance: Brawl, Martial Arts
+The Solar’s blows land with a crash that sends foes flying like leaves in a hurricane.
+System: When the Solar launches a hand-to-hand attack, she may reflexively spend 1 Mote
+before rolling to imbue her strike with the latent power of the heavens. The first time in a scene
+she uses this Charm, if the strike connects, she regains the expended Mote. The attack increases
+its base damage by +3, sends her opponent flying into an adjacent zone, and knocks him prone;
+he must climb back to his feet on his next turn, a form of complex movement that leaves him
+unable to move to another zone. Additionally, any 10s on the damage roll count as two
+successes, as the Solar fortuitously aims her enemy at something hard or dangerous.
+Supernal Effect: When in the grip of righteous fury or similar deep passions, the Exalt’s fists
+crackle with lightning. Her hands are hard as iron, capable of blocking blades, and her punches
+can inflict lethal damage if she wishes. Whenever she makes a Brawl attack against a target in
+line with one of her Intimacies (such as to protect the subject of an Intimacy, or to defeat a foe
+she truly hates), her blows writhe with lightning, and Heaven Thunder Hammer automatically
+triggers at no cost if the attack succeeds. These Heaven Thunder activations are particularly
+potent: the opponent can be launched up to one zone per dot of the Solar’s Strength, smashing
+through intervening walls and other scenery. 10s count as three successes unless the Solar
+deliberately pulls her punches and employs the normal version of the Charm, or opts not to
+unleash it at all.
+Immortal Armory of the Sun (•)
+Resonance: Archery, Melee, Thrown, War
+The Solar becomes absolute master of all weaponry, and may even sculpt weapons from her own
+anima.
+System: With a moment’s concentration and a Wits + (relevant combat Ability) roll (difficulty
+6), the Solar can call any weapon she can see into her hand, so long as it’s not actively in
+someone else’s possession; by spending a point of Willpower, she can retrieve a weapon in this
+fashion reflexively and without the need for a roll. By taking an action and spending 1 Mote, she
+can forge any personal-scale mundane weapon she desires out of raw Essence; this weapon
+persists for the rest of the scene, but becomes ephemeral and useless in any hands save the
+Solar’s own. Created weapons may be anything from a great sword to a brace of throwing
+hatchets. Created ranged weapons enjoy effectively limitless ammunition. Alternately, a Solar
+may reflexively spend 1 Mote to charge an existing ranged weapon with power, granting it
+infinite ammunition for the rest of the scene. Firewands form an exception. Created firewands, or
+those firing phantom firedust, require a turn spent in concentration to create additional packets of
+phantom firedust after every (Essence rating) shots.
+Supernal Effect: The Solar shapes a weapon from the foundations of her very soul, one that
+perfectly expresses and encapsulates her as a person and a warrior. She may reflexively call this
+weapon to hand at any time, or dismiss it back into the depths of her Essence at no cost. This
+weapon is completely indestructible, has the traits of an artifact rather than mundane weapon.
+The weapon is always the same every time; if she wishes to create a different weapon (a bow in a
+situation where her soul-daiklave will be of little use, for example) she must use Immortal
+Armory of the Sun normally.
+Rout-Stemming Inspiration (•)
+Resonance: War
+Leading from the front, the Solar’s example gives heart to her troops and stiffens their resolve
+when it wavers.
+System: A number of times per scene equal to (her War rating), the Solar may treat a successful
+attack against an enemy as also being a successful rally or rally for numbers action (see p. XX),
+with a number of successes equal to her successes rolled against her enemy.
+Thunderclap Rush Attack (•)
+Resonance: Athletics, Brawl, War
+The Solar’s Essence rises in reaction to killing intent projected against it, giving her the edge on
+her foes.
+System: The Solar may reflexively spend 1 Mote to cut ahead and attack before any of her
+opponents for the next (highest of Brawl, Martial Arts, or Melee, minimum 1) rounds.
+Unassailable Guardian Posture (•)
+Resonance: Melee, Resistance
+Setting herself to the protection of comrades and innocents alike, the Solar forges herself into an
+unbreakable bulwark.
+System: When the Solar uses the protect action to defend someone, it is no longer possible for
+the first person who attacks her ward in each round to choose to press the attack through to its
+original target. They must strike the Solar instead.
+Empty Palm Technique (••)
+Resonance: Martial Arts, Melee, Thrown
+The Solar strikes with the speed of a cobra and the shock of an earthquake, neatly disarming an
+opponent and throwing his weapon away.
+System: Once per scene, after successfully striking a target, the Solar may forfeit two dice of
+damage and declare the target disarmed. Retrieving a disarmed weapon is considered a form of
+complex movement that forfeits the target’s ability to move to another zone that round, and
+cannot be done if the target is unable to move to another zone for any other reason (such as
+having been attacked before his turn). If the Solar forfeits four dice of damage, she may hurl the
+disarmed weapon into an adjacent zone, instead.
+Disarmed antagonists generally reduce their base damage to 1B. Natural weapons such as claws
+and fangs cannot be disarmed.
+Supernal Effect: The Solar may simply pay 1 Willpower upon successfully striking an opponent
+to disarm her. If she does so, she bypasses the limit of one disarm per scene and needs not
+sacrifice damage dice. If she opts to sacrifice two damage dice anyway, the weapon is hurled one
+zone away.
+Excellent Strike (••)
+Resonance: Archery, Martial Arts, Melee, Thrown
+The Solar’s attack is simply without flaw, slashing through her enemy’s defenses and cutting
+deep or striking true.
+System: After successfully striking a target, the player may reflexively spend 1 Mote to lower
+the difficulty of the damage roll by –2.
+Fire and Stones Strike (••)
+Resonance: Brawl, Martial Arts, Thrown
+The Solar’s blows burn with the roaring heat of her Essence, striking grievous wounds through
+the strongest armor and the most potent defenses.
+System: The Solar reflexively spends 1 Mote. For the rest of the round, all of her attacks
+increase their base damage by the Solar’s (highest of Strength, Dexterity, or the Ability used to
+launch the attack).
+Supernal Effect: When the Solar defeats an opponent with Fire and Stones Strike (either by
+knocking them unconscious or slaying them), she may opt to describe the ludicrously overkill
+method by which they suffer defeat (spiraling through the air and crashing through a pile of
+crates, for example; or exploding into four segments separated by a bloody cross hanging in the
+air for a moment in the wake of the Solar’s cuts). All enemies who witness this spectacle
+increase the difficulty of all actions they take by +1 for the rest of the battle and suffer a –2
+penalty to all dice pools. Repeated demonstrations of the Solar’s prowess do not intensify this
+penalty.
+Hail-Shattering Practice (••)
+Resonance: Brawl, Martial Arts, Melee
+The Solar pitches herself into her foes’ attacks, meeting aggression with aggression. A clumsy
+thrust cannot harm her.
+System: Reflexively spend 1 Mote to activate this Charm. For the rest of the scene, all attacks
+directed at the Solar must discard one rolled success, and all attacks by antagonists must roll one
+more success than they otherwise would before adding a point to the attack’s damage (usually
+meaning that attacks must roll three successes per point of damage added).
+Hammer on Iron Technique (••)
+Resonance: Brawl
+The Exalt seizes up her foe and strikes him with triphammer repetition until there is nothing left
+in her grasp.
+System: Upon attacking and damaging a foe in the same zone with a hand-to-hand attack, the
+Solar sets up a shattering rhythm of repetitious blows. On each subsequent turn in which she
+successfully attacks the same target again, cumulatively reduce the difficulty of the attack by one
+and add her Essence rating to the attack’s base damage. Thus, on the third consecutive turn of
+damaging her foe with a Hammer on Iron sequence, an Essence 3 Solar would attack at –2
+difficulty and enjoy a +6 bonus to her base damage. On the fourth turn, she would enjoy a –3
+difficulty reduction and a +9 base damage bonus.
+Supernal Effect: The Solar’s bare-handed blows also enjoy Hammer on Iron Technique’s
+mounting damage bonus when she repeatedly strikes inanimate objects or structures, and may
+continue growing indefinitely, so that with enough persistence the Solar may punch through a
+fortress wall or smash a vast crater into the middle of the street.
+Heavenly Guardian Defense (••)
+Resonance: Brawl, Martial Arts, Melee
+Focusing her Essence into an unassailable barrier, the Solar may block or parry any single attack
+of which she is aware.
+System: Once per scene, when faced with an attack or similar form of danger, the Solar may
+declare that she perfectly parries it. The attack fails to strike the Solar without any further dice
+rolls. Area-of-effect attacks and the like harmlessly splash around her Essence-fueled defense. If
+she parries with a mortal weapon, and the attack is either unblockable or ludicrously powerful
+(the war-spear of the Unconquered Sun, a Solar Circle death spell, a meteor torn from the
+heavens and hurled upon her) then her weapon shatters unless it is itself imperishable. This
+defense cannot be invoked against unexpected attacks.
+The Solar may reset the limitation of this Charm and make it available again by rolling three or
+more results of “10” on a single damage roll. It also resets after she has spent three points of
+Willpower during the course of the scene (usually on attack rolls; she can’t spend Willpower on
+nothing but resetting Heavenly Guardian Defense).
+Supernal Effect: The Solar does not merely protect herself, but rebuffs those so bold as to strike
+at her immaculate defenses. Anyone whose attack is quashed by Heavenly Guardian Defense is
+knocked prone by an Essence shockwave if they are in the same zone as the Solar; they must
+climb back to their feet on their next turn, a form of complex movement that leaves them unable
+to move to another zone. The Solar may also reset Heavenly Guardian Defense once per scene
+after spending only a single point of Willpower.
+Hungry Tiger Technique (••)
+Resonance: Archery, Brawl, Melee
+When the Solar focuses all her attention on a single foe, her strikes become peerlessly deadly.
+System: Reflexively spend 1 Mote. Whenever an attack the Solar makes during the rest of the
+round succeeds, count its successes twice when adding them to the attack’s threshold damage.
+Supernal Effect: When the Solar takes a moment to concentrate her skills and Essence into a
+blow, no mere object of the world may withstand it. The Solar never needs to roll to strike at an
+object with a bladed weapon; her blow cleaves through the object as though it were made of
+mist, inflicting damage appropriate to the angle of her strike and the length of her blade. This
+effect has no regard for how hard an object is, or how strongly warded against damage by magic,
+though it will still only cut physical objects, not patterns of magic, logic of the world, or other
+ephemera. Her attacks enhanced with Hungry Tiger Technique become unblockable:
+protagonists cannot apply their Parry defense, while antagonists lower their Defense by –2
+against such attacks.
+Sandstorm Wind Attack (••)
+Resonance: Brawl, Martial Arts, Melee
+The Solar strikes with such swiftness and power that a blur of force erupts from her hand or
+weapon, striking down foes far beyond her reach.
+System: Reflexively spend 1 Mote. For the rest of the scene, the Solar may direct Brawl, Martial
+Arts, and Melee attacks against enemies up to one zone away.
+Supernal Effect: The Solar may concentrate all of her power into a particular Sandstorm Wind
+Attack. For each Mote she pays, she may extend its range by an additional zone, and may cause
+it to target one enemy in each zone it passes through (make one attack roll against the highest
+Defense of any targeted enemy). There doesn’t have to be a clear path of attack through the
+zones: this attack cuts through walls and obstacles with ease. Furthermore, she may ignore her
+normal limitations on Motes spent per round when powering this attack, enabling her to
+potentially punch a hole through several buildings or split a ship in twain with a sufficiently
+extravagant Essence expenditure.
+There Is No Wind (••)
+Resonance: Archery, Thrown
+Summoning the totality of her concentration, the Solar delivers her attack along a divinely
+ordained vector. Distance, wind resistance: these things are of no consequence.
+System: If the character spends a point of Willpower to lower the difficulty of a ranged attack,
+then that attack gains unlimited range and can strike a target any number of zones away. If the
+Solar can see her target, she can kill him.
+Supernal Effect: By paying 1 Mote upon making an attack enhanced by this Charm, the Solar
+may imbue it with a ferocious payload of destructive Essence. Her shot flashes with lightning
+and blazing sunlight, and if it connects, rolls damage against difficulty 4.
+War Lion Stance (••)
+Resonance: Martial Arts, Melee, Resistance, War
+Dedicating herself to the protection of an ally, the Solar becomes a steel-edged shadow, striking
+down everything which threatens her comrade.
+System: Reflexively spend 1 Mote to apply a protect action to a comrade in the same zone. This
+protection continues until one of the characters moves to a different zone.
+Fivefold Bulwark Stance (•••)
+Resonance: Martial Arts, Melee
+Focusing her battle awareness into a preternatural trance, the Solar beholds the violent intent of
+her foes as golden traceries forecasting where their attacks will occur.
+System: Reflexively spend 1 Mote to activate this Charm. For the rest of the scene, all attacks
+which the Solar attempts to Parry subtract one success from their total rolled, and the Solar’s
+Parry value is increased by +2. If this would raise her Defense above 9, her attackers are forced
+to discard an additional success from their attacks.
+Supernal Effect: The Solar may close her eyes and sense the killing intent of her foes, even
+when violence has not yet ensued. Take a turn to concentrate and shut out extraneous stimuli,
+then roll Perception + (highest of Archery, Brawl, Martial Arts, Melee, or Thrown) against a
+difficulty depending on how hectic and distracting the Solar’s surroundings are (a quiet room
+would be difficulty 5, the middle of the Nexus Little Market at noon could be difficulty 8).
+Success allows her to open her eyes and perceive anyone who would see her hurt or dead if given
+the opportunity as surrounded by a writhing red-black anima.
+Lightning Strikes Twice (•••)
+Resonance: Brawl, Martial Arts, Thrown
+The Solar strikes at a single opponent again and again, shattering their defenses, their bones,
+their hopes of victory, until only she remains standing.
+System: Reflexively spend 2 Motes upon attacking a target but failing to defeat them. The Solar
+may take a second turn after all other characters have acted, using it to launch a second attack at
+that target. This Charm costs only 1 Mote if used against a group.
+Meteor Storm Affray (•••)
+Resonance: Archery, Thrown
+Pouring her Essence into a ranged attack, the Solar causes one projectile to become dozens,
+blanketing an area in arrows or blades.
+System: Spend 1 Mote, 1 Willpower and make an Archery or Thrown attack. The Solar makes a
+single attack roll against the highest Defense rating in the zone she targets, and applies its result
+to everyone in that zone.
+Alternately, spend 1 Mote and use the Solar’s turn to launch an Archery or Thrown attack
+against a group. Double the attack’s base damage.
+Supernal Effect: The Solar may spend three consecutive turns concentrating her Essence into a
+single arrow or throwing weapon, spending 2 Motes per turn. At the end of the third and final
+turn, after everyone else has acted, she fires her shot or unleashes her weapon, sending it arcing
+high into the sky. Any clouds overhead are torn apart and hurled to the distant horizon.
+Something gleams like stars in the distant heavens.
+The Solar may then define an area as large or as small as she likes, so long as the entirety of the
+area is within her immediate line of sight. A storm of golden arrows or blades fall like rain into
+that area. For the next (Essence rating) rounds, everyone not under hardened cover in the
+condemned area must succeed at a reflexive roll of Dexterity + Athletics against difficulty 9 (or 8
+if the character has a shield or is under partial cover) on each of their turns, or else be forced to
+soak (half the weapon’s base damage, round up) levels of automatic damage. This damage is
+multiplied by four against battle groups, who get no roll to avoid the attack.
+Peony Blossom Technique (•••)
+Resonance: Archery, Melee, Thrown
+The Solar moves like ice on hot metal, like a deadly mirage, like an angry god amidst flying
+arrows, bright flashes of steel, and hanging trails of blood spatter.
+System: Reflexively spend 1 Mote upon making an attack that marks off its target’s
+Incapacitated health box. The Solar may launch another attack at an enemy within reach of her
+weapon at the end of the round, after all other characters have acted. If she incapacitates that
+enemy as well, she might potentially invoke Peony Blossom Technique again, attacking
+immediately. It can be used a number of times per round equal to the Exalt’s Essence rating.
+Alternately, spend 2 Motes and use the Solar’s turn to launch an attack against a battle group.
+The difficulty of this attack is lowered by two, and if successful, it adds (rating of Ability used to
+attack) levels after rolling damage, before the target applies soak.
+Ready in Eight Directions Stance (•••)
+Resonance: Martial Arts, Melee, Thrown
+The Solar directs Essence into her killing intent until it becomes a deadly guardian angel guiding
+her motions by sheer instinct, cutting down those who would strike at her.
+System: Spend 1 Mote reflexively to activate this Charm. For the next (1 + Essence rating) turns,
+the Solar reflexively counterattacks in response to every attack launched against her: For every 1
+rolled on attacks directed against the Solar, the attacker must soak two levels of damage of a type
+appropriate to the Solar’s currently-equipped weapon after the attack resolves, if they are within
+striking range of the Solar’s weapon. This Charm can’t deal out more damage in response to an
+attack than lower of (the Solar’s Essence rating + 2) or the Ability governing the weapon the
+Solar is fighting with.
+Shockwave Technique (•••)
+Resonance: Brawl, Martial Arts
+The Solar strikes or throws her opponent, sending them hurtling unto the distant horizon.
+System: The Solar spends 2 Motes and makes a Brawl, close-range Martial Arts, or Melee attack
+against an opponent within the same zone. For each success rolled, the opponent is knocked one
+zone away, smashing through any intervening walls or other obstacles as though they were made
+of matchsticks. The attack increases its base damage by +2 per zone traveled, and the target is
+knocked prone; he must climb back to his feet on his next turn, a form of complex movement
+that leaves him unable to move to another zone.
+Supernal Effect: The Solar may reflexively spend 1 Mote, 1 Willpower at the end of a round in
+which she sent someone flying with Shockwave Technique, after all other characters have acted,
+to accelerate at lightning speed through the trail of broken walls and debris left in her target’s
+wake, appearing at his feet and immediately targeting him with a second Shockwave Technique.
+Tiger Warrior Training Technique (•••)
+Resonance: War
+By putting groups of soldiers through a dedicated training regimen, the Solar can transform even
+a ragtag mob of peasants into Creation’s deadliest fighters in short order.
+System: The Solar dedicates herself to leading a group of would-be soldiers through a daily
+regimen of drills and training exercises taking up at least one hour over the course of two weeks.
+She can dedicate her efforts to the training of a group of up to Size (current Essence rating + 1,
+maximum 5) at a time. While she’s actively training a group of Tiger Warriors, her maximum
+Mote pool is reduced by one. She can reclaim this capacity by abandoning her students’ training,
+but if she does this and returns to their tutelage later, she must start their training over from
+scratch.
+After two weeks, clueless farmers gain the battle profile of professional soldiers (see p. XX), and
+when fighting as a unit enjoy Drill 8. Already-qualified soldiers, even green ones, gain the battle
+profile of elite troops and when fighting as a unit enjoy Drill 8. Elite troops subjected to this
+training gain the battle profile of Tiger Warriors, and when fighting as a unit enjoy Drill 9. A
+group of fighters may be run through this training regimen repeatedly to hone them from
+civilians to Tiger Warriors, if the Solar has sufficient time and inclination.
+If a protagonist partakes of Tiger Warrior training, then after two weeks of training they may
+purchase one dot of Athletics, Archery, Brawl, Martial Arts, Melee, Resistance, Ride, Thrown,
+or War as though it were a Favored Ability.
+Supernal Effect: Whenever the Solar leads her Tiger Warriors in battle, they treat their Size as
+though it were one higher than it truly is for the purpose of all Size-derived modifiers, and enjoy
+perfect morale.
+Zenith Charms
+Clear Mind Discipline (•)
+Resonance: Resistance, Survival
+Emptying her mind for a few brief and refreshing minutes, the Solar sinks into the deep pool of
+her own Essence, and emerges renewed.
+System: The Solar may substitute 15 minutes of meditation for a full night’s sleep, leaving her
+refreshed and well-rested. She may regain Willpower by this method, but only once per day, and
+she cannot “double up” and regain Willpower later by sleeping as well.
+Supernal Effect: The Solar is a self-supporting bastion. She may go for up to a month without
+food, water, or rest with no ill effects, and 15 minutes of meditation at any point fulfills all of
+these needs for up to a month.
+Enemy-Castigating Solar Judgment (•)
+Resonance: Performance, Presence, War
+The Solar’s words burn and sear with righteous truth, laying bare the souls of the enemies of
+Creation before her sermons.
+System: Creatures of darkness suffer a –3 penalty to all dice pools to resist the Solar’s social and
+mind-affecting Charms. Whenever one of the Solar’s social rolls uses a creature of darkness’s
+Willpower as its difficulty, reduce the difficulty by –3. If a creature of darkness spends
+Willpower to resist or oppose the Solar in any way, they must double the usual Willpower cost to
+get any benefit from doing so.
+Harmony with Nature Approach (•)
+Resonance: Survival
+The Solar becomes as one with the natural world. Even the most savage of predators will avoid
+rather than attack her. The world offers up shelter from extreme environments merely for the
+asking, and finding forage is effortless.
+System: The Solar needs never make a Survival roll to remain safe, comfortable, and fed in the
+wilderness. The difficulty to feed and protect others in such environments is reduced by –3
+(minimum of 3). By spending 1 Mote, she becomes completely immune to environmental
+damage for the rest of the scene.
+Supernal Effect: All of the effects of Harmony with Nature Approach are permanently active at
+no cost, and the Solar has no difficulty operating in environments with no breathable air, or
+sensing her surroundings in environments that make doing so difficult or nearly impossible (such
+as lightless trenches at the bottom of the sea, or when burrowing deep into a sandy dune). The
+Solar may understand animals as though they were able to speak her native language, and beasts
+similarly understand her when she speaks.
+Iron Kettle Body (•)
+Resonance: Resistance
+Infusing her body with her sense of discipline, the Solar treats even grievous injuries as mere
+nuisances.
+System: Reflexively spend 1 Mote. For the rest of the scene, all aggravated damage the Solar
+suffers becomes lethal damage instead; all lethal damage becomes bashing damage; and when
+she suffers bashing damage, she halves it (round down) after soak.
+Listener-Swaying Argument (•)
+Resonance: Empathy, Presence, Socialize
+The Solar’s words burn with conviction, striking through the cynicism and doubt of any who
+listen.
+System: By spending 1 Mote, the Solar’s words become impossible to ignore, and she reduces
+the difficulty of all social rolls by –2 (to a minimum of 3) for the rest of the scene.
+Supernal Effect: Select a social Attribute (Charisma, Manipulation, or Appearance). The Solar
+is a living exemplar of beauty, or of being larger-than-life, or of finding exactly the right thing to
+say at exactly the right time. All rolls using the selected Attribute permanently reduce their
+difficulty by –2.
+Ox-Body Technique (•)
+Resonance: Athletics, Resistance, War
+The Solar’s body is fortified with divine power, enabling her to survive grievous injuries.
+System: The character permanently gains an additional set of (–0), (–1), and (–2) health levels.
+This Charm can be purchased a number of times equal to the higher of the character’s Stamina or
+Resistance ratings.
+Phantom-Conjuring Performance (•)
+Resonance: Performance
+When the Solar tells a story, enacts a performance, or simply engages in dramatic actions while
+her anima is flaring, it spawns brief-lived and clearly unreal golden phantoms to play out her
+tale, emphasize her actions, or otherwise act as props. She might conjure a phantom partner for a
+dance, emphasize a mighty blow by surrounding herself with a larger-than-life roaring tiger, or
+cause her anima to unfold behind her as blazing golden wings to emphasize her divine nature.
+System: This Charm is active whenever the Exalt’s anima is flaring. Creative use of PhantomConjuring Performance can lower the difficulty of some Performance actions by one when
+accompanied by a dramatic stunt at the Storyteller’s discretion; it is otherwise simply a means of
+visual emphasis and roleplaying.
+Respect Commanding Attitude (•)
+Resonance: Performance, Presence
+The Solar fixes her audience’s attention upon her with the golden nail of her Essence. While they
+may not like or believe what she has to say, nor enjoy her performance, they will neither leave
+her presence, heckle her, nor cease paying attention to her before she’s had her say.
+System: Spend 1 Mote and roll (Charisma or Appearance) + Performance against difficulty 3.
+Anyone whose Willpower or Resolve rating is equal to or lower than the successes rolled falls
+under this Charm’s sway until the end of the Solar’s performance. They can still be distracted by
+violence or urgent demands such as someone stealing their coinpurse.
+Righteous Lion Defense (•)
+Resonance: Presence, Resistance
+The Solar fortifies her convictions with the very fabric of the cosmos, making an invincible
+fortress of her heart.
+System: Any attempt to cause or force the Solar to betray, undermine, or abandon her Intimacies
+automatically fails.
+Rose-Lipped Seduction Style (•)
+Resonance: Performance, Presence, Socialize
+The Solar’s movements answer the needs of those around her. Her smile evokes carnal dreams
+whose fulfilment seemed impossible until that moment. She becomes a figure of intense desire,
+breaking every heart that beholds her and remaking it anew in the next moment, twice what it
+was before.
+System: Spend 1 Mote. For the rest of the scene, all Appearance rolls are made at –2 difficulty.
+Anyone the Solar favors with a smile or a kind word may voluntarily accept a temporary
+Intimacy of lust for her for the rest of the story, so long as they don’t already have one; doing so
+restores two points of Willpower to protagonists, and increases the Resolve of antagonists by +1
+for the rest of the story.
+Body-Mending Meditation (••)
+Resonance: Resistance
+The Solar may heal at an accelerated rate by resting.
+System: So long as she takes no strenuous activity, the Solar heals all bashing damage or one
+level of lethal damage per hour of rest. Twelve hours of rest mends one level of aggravated
+damage.
+Supernal Effect: The Solar’s body knits itself back together quickly enough to be seen by the
+naked eye. She heals one level of bashing damage per turn, and one level of lethal damage per
+minute if exerting herself, or all lethal damage if she rests and takes no actions for a full minute.
+Every 15 minutes, she heals one level of aggravated damage, regardless of her activity levels.
+Hypnotic Tongue Technique (••)
+Resonance: Empathy, Linguistics, Performance, Presence
+By using nothing more than a steady patter of dialogue, the Solar can lull someone into a
+hypnotic trance and then talk them into doing whatever she wishes.
+System: Spend 2 Motes and roll Manipulation + (Empathy or Presence) against a difficulty of
+the target’s Willpower rating. One or two successes will allow the Solar to command her target
+to do anything that doesn’t seem tremendously unusual or out of character. With three or four
+successes, she can command the target to do anything that doesn’t endanger himself or a loved
+one. With five or more successes, the target will risk his life and the lives of others at the Solar’s
+command. The target will be aware his actions are unusual and inexplicable afterwards, unless
+the Solar spends an additional 1 Willpower. In this case, the target will rationalize his actions to
+the best of his ability.
+Hypnotic Tongue Technique cannot hypnotize a target into harming or killing himself, compel
+him into certain death, or force him to betray his Nature. Protagonists targeted by this Charm
+may spend 1 Willpower to escape its effects for a scene if they can cite an Intimacy that it is
+forcing them to act against. Spending a number of points of Willpower equal to the Solar’s
+Essence rating breaks the Charm’s hold.
+Supernal Effect: With five or more successes, the Solar can hypnotize her victim into harming
+or killing himself, compel him into certain death, or force him to betray his Nature.
+Immunity to Everything Technique (••)
+Resonance: Resistance
+The Solar gains the hardiness of the very gods themselves.
+System: Poison and disease can no longer harm the character in any way whatsoever.
+Integrity-Protecting Prana (••)
+Resonance: Empathy, Resistance
+Fortifying her will with Essence, the Solar throws off any attempt to control or beguile her.
+System: Reflexively spend 2 Motes to become immune to all thought and emotion-altering
+magic for the rest of the scene. If used in response to an attempt to use such magic upon the
+character, the Solar gains 1 Limit.
+Inviolable Essence Bastion (••)
+Resonance: Empathy, Lore, Resistance
+Sinking into a meditative state, the Solar becomes utterly immune to worldly concerns. So long
+as her concentration remains unbroken, she is invincible.
+System: The Solar takes a moment to sink into a lotus posture, empty her mind, and close out the
+world around her. Spend 2 Motes and roll Willpower against difficulty 8. Success allows the
+Solar to maintain an invincible meditative state for one hour. While meditating, she cannot take
+any voluntary actions, including deliberate thought or planning, and is completely immune to all
+damage of any kind. Attempts to strike her deflect harmlessly off of the momentarily-visible
+golden barrier of her anima. She cannot drown, suffocate, or otherwise suffer any physical harm
+of any kind. If the Solar wishes to extend her meditation beyond the first hour, she must pay 1
+Willpower point at the beginning of each additional hour.
+This Charm doesn’t protect the Solar from attacks on her mind or spirit, such as possession by a
+ghost, a sorcerer attempting to control her mind, or even an ordinary person attempting to talk
+her into abandoning her meditations to act upon some pressing concern.
+Supernal Effect: Inviolable Essence Bastion lasts for a number of hours equal to the successes
+rolled on the Willpower roll. By paying a point of Willpower, the Solar may extend this Charm’s
+duration for as long as she can go without food, drink, or sleep. One Zenith holy man survived
+for three years during the Usurpation under the auspices of this Charm, until the head of his
+Lunar wife was presented before him and he accepted at last that no help would ever come. In
+the moment that a tear formed at the corner of his eye, he was beheaded by Rakan Thulio.
+Iron Skin Concentration (••)
+Resonance: Resistance
+The Solar fortifies her body with Essence, making her skin as tough as steel.
+System: Reflexively spending 1 Mote allows the Solar to change her soak pool calculation to
+(Stamina + Resistance + armor’s Soak value) for the rest of the scene. She may also reflexively
+spend 1 Mote, 1 Willpower to make soak rolls at –2 difficulty (generally meaning she rolls at
+difficulty 4 rather than the normal 6) until the end of the round.
+Supernal Effect: The Solar’s hardened flesh simply shrugs off all incidental wear and tear as
+she moves through the world. If an attack or effect would inflict only a single level of bashing or
+lethal damage on the Solar (either before or after soak), then she receives no damage at all.
+Ruin-Abasing Shrug (••)
+Resonance: Resistance
+Suppressing merely mortal limitations with a forceful circulation of Essence and harnessed
+breathing techniques, the Solar rises above the pain of her injuries.
+System: Reduce all wound penalties by –1. Reflexively pay 1 Mote or 1 Willpower to ignore all
+wound penalties for the rest of the scene.
+Saga Beast Virtue (••)
+Resonance: Empathy, Survival
+The Solar may pour the might of her Essence into her Familiar, briefly transforming it into a
+god-beast of the battlefield.
+System: Reflexively spend 1 Mote to trigger a dramatic transformation in the Solar’s Familiar,
+causing it to swell into a divine beast of legend. The transformation grants the familiar +2 to its
+Expertise pool, +1 base damage, and +1 soak, along with three –0 health levels, which do not
+heal or record damage received, but rather are simply destroyed for the rest of its current
+transformation if damaged.
+Undying Solar Resolve (••)
+Resonance: Empathy, Presence, Resistance
+The Solar roots her sense of self deep in her Essence, fortifying her will against all that might
+assail it.
+System: Reflexively spend 1 Mote. For the rest of the scene, Willpower rolls are not subject to
+the rule of 1s, and count results of 9 and 10 as two successes. If such a roll fails anyway (or is
+defeated in a contested roll), the Solar gains a point of Limit as the pillar of her confidence is
+cracked.
+Unshakeable Bloodhound Technique (••)
+Resonance: Awareness, Survival
+No force can evade the Solar once she’s picked up her quarry’s trail.
+System: Once the character finds some evidence of a trail to follow, her player may spend 1
+Mote to perfectly track the target for the next 24 hours. No roll is needed. If she knows she’s
+tracking a creature of darkness, this Charm’s Mote cost falls to 0.
+Adamant Skin Technique (•••)
+Resonance: Resistance
+Focusing her Essence into her body, the Solar becomes momentarily indestructible.
+System: Once per scene, after being struck by an attack or similar form of danger, the Solar may
+declare that she is unharmed by it. The Solar suffers no damage from the attack or hazard, but is
+still considered to have been hit.
+The Solar may reset the limitation of this Charm and make it available again by incapacitating an
+opponent or causing a group to lose a point of Size.
+Supernal Effect: The Solar’s perfect form breaks whatever has the temerity to strike her. If she
+uses this Charm and the attack’s base damage is lower than the Solar’s Resistance, then the
+weapon used to strike her shatters into a million pieces (for antagonists, double their base
+damage before making this comparison). Unarmed blows which meet these criteria instead inflict
+one level of bashing damage to the attacker.
+Demon-Wracking Shout (•••)
+Resonance: Performance, Presence
+The Solar can bellow forth a wordless but divine cry of condemnation, shattering the resolve of
+the unholy.
+System: Spend 1 Mote and roll Charisma + Performance against difficulty 6. All creatures of
+darkness who hear the Demon-Wracking Shout lose 1 point of Willpower (or 1 Resolve) per
+success rolled. If this reduces them to 0 Willpower (or Resolve) or less, they must flee from the
+Solar in a blind stew of panic and self-loathing for at minimum the Solar’s Essence rating in
+minutes. If the Solar’s Essence rating is higher than the creature of darkness, they run until they
+collapse of exhaustion.
+This Charm can only be used once per scene.
+Essence-Gathering Temper (•••)
+Resonance: Resistance
+The Solar learns to take the pain and fury she feels when wounded and strike them against her
+Exaltation, producing brilliant sparks of power.
+System: Whenever the Solar suffers three or more levels of bashing damage at once, or two or
+more levels of lethal damage, or any aggravated damage, she may reflexively spend a point of
+Willpower and gain her Essence rating in Motes of Essence.
+Fervent Missionary-Uplifting Practice (•••)
+Resonance: Presence, Performance
+By putting a mortal through a dedicated training regimen, the Solar can prepare him to carry out
+works of faith and inspiration. In little more than a week, a Solar with this Charm can transform
+a group of criminal wastrels into devout holy men, mendicants, eremites, preachers, priests,
+leaders, and propagandists.
+System: The Solar dedicates herself to educating a group of students, stoking the fires of their
+fervor with her sermons and challenging their dedication through ordeals which she oversees.
+This takes up at least one hour every day over the course of two weeks. She can dedicate her
+efforts to the training of a group of up to Size (current Essence rating, maximum 5) at a time.
+While she’s actively training a group of students, her maximum Mote pool is reduced by one.
+She can reclaim this capacity by abandoning her students’ training, but if she does this and
+returns to their tutelage later, she must start their training over from scratch.
+After two weeks, disorganized rabble gain an Expertise pool of 5 and an Aptitude for one of the
+following: Demonstrations of faith, leadership, oratory, prayer, propaganda, sermons, or
+spreading the faith. Already-competent priests, missionaries, dogmatics, and so on instead gain
+an Expertise pool of 7. Experts in the Solar’s class advance to an Expertise pool of 9. A group of
+students may be run through this training regimen repeatedly to hone them from complete
+indolence to Fervent Missionaries, or to branch them out into multidisciplinary mastery, if the
+Solar has sufficient time and inclination.
+If a protagonist partakes of Fervent Missionary training, then after two weeks of training they
+may purchase one dot of Empathy, Presence, Performance, Lore, Survival, or Resistance as
+though it were a Favored Ability.
+Majestic Radiant Presence (•••)
+Resonance: Presence
+The Solar dons the authority of kings and burns with the incandescent glory of the sun. It
+becomes nigh-unthinkable to belittle or deny her in any way, much less actively oppose her in or
+raise a hand against her.
+System: The Solar spends 2 Motes. For the rest of the scene, whenever anyone seeks to oppose
+her in any respect, either socially or physically, they must make a Willpower roll against a
+difficulty of the Solar’s (Charisma + Presence) or else abort their action and bow their head in
+shame at their own temerity, ending their current turn. Characters may still defend against the
+Solar’s attacks.
+Supernal Effect: Majestic Radiant Presence is always in effect when the Solar directly acts to
+support or defend an Intimacy.
+Memory-Reweaving Discipline (•••)
+Resonance: Empathy, Performance
+Focusing her will and her words, the Solar may rewrite the memories of another.
+System: Spend 2 Motes while detailing the subject’s new memories and roll Manipulation +
+Performance, resisted by the target’s Willpower (both at difficulty 6). The subject’s memories
+can be rewritten based on the number of successes left after subtracting the result of the opposed
+Willpower roll:
+1 success: The events of a recent scene can be rewritten.
+2 successes: The events of a recent day can be rewritten.
+3 successes: A single pivotal memory in the subject’s life can be rewritten. Alternately, entire
+weeks of the subject’s past can be written so long as they’re not crucial to the substance of her
+life or identity.
+4 successes: A major feature of the subject’s life can be rewritten (such as who they’re married
+to, where they grew up, or whether the Solar is a hated enemy or their childhood friend).
+5+ successes: The subject can be given an entirely new history.
+Terrible Sun King Condemnation (•••)
+Resonance: Lore, Presence
+The Solar castigates her enemy as a foe to Creation and villain in the eyes of all upright
+individuals, crushing them beneath the weight of her disdain and casting a pall over them which
+becomes obvious to everyone they meet.
+System: The Solar spends 2 Motes and rolls Charisma + (Presence or Performance) against a
+difficulty of the target’s Willpower rating. The target may attempt to rebut the Solar’s words by
+spending a point of Willpower and making a (Charisma or Manipulation) + (Empathy,
+Linguistics, Presence, or Socialize) roll of his own, at a difficulty of the Solar’s Willpower. If he
+neglects to do so, or fails to gain more successes than the Solar, then he is condemned and
+accursed. Everyone who meets the target knows instinctively that he is a wretch and a scoundrel;
+the difficulty of all his social rolls increase by +2, and people distrust him on general principle.
+This condemnation lingers for the Solar’s Essence rating in weeks. She can extend this by one
+additional week per extra Mote spent to activate this Charm.
+Supernal Effect: While Terrible Sun King Condemnation is in effect, the target is also
+considered a creature of darkness if they were not one already. This additional effect only
+activates if the Solar truly considers the individual to be villainous, wicked, or loathsome,
+however; while she can ruin reputations on a whim, the Exalt cannot brand anyone as
+metaphysically evil simply for the sake of convenience.
+You Can Be More (•••)
+Resonance: Empathy, Linguistics, Performance
+Drawing someone aside, the Solar speaks with eloquence and conviction of the wonders she’s
+seen and the potential for the world to be something more and better than what it is. Her words
+are seeds brimming with Essence, and may take root in the soul of the listener, blossoming into
+wisdom and power.
+System: The Solar spends 2 Motes when making an attempt to instill a temporary Intimacy into
+someone (see p. XX). If the attempt succeeds, a true Intimacy rather than a temporary Intimacy
+is formed. Antagonists will generally keep this Intimacy permanently unless the events of the
+story convince them to abandon it. Protagonists can reject the formation of this Intimacy by
+spending 3 Willpower. If a protagonist has more than her maximum allotment of Intimacies at
+the end of a story, she must choose which Intimacies to discard until she is back down to her
+normal number of Intimacies.
+An individual can’t be targeted with this Charm more than once per story.
+Twilight Charms
+Anodyne of Celestial Dreaming (•)
+Resonance: Empathy, Medicine, Occult
+The Exalt may journey into her patient’s mind, thereby confronting and defeating injuries to her
+psyche and demons that haunt her dreams.
+System: Spend 2 Motes while sitting beside a sleeping patient to descend into the depths of her
+mind. Once within, the Solar may examine her patient’s mind with Perception + Medicine
+against a difficulty of the patient’s Willpower to determine the presence and nature of any
+Derangements, as well as to detect if her memories or personality have been tampered with by
+hostile magic. Such altered thoughts or memories (as those created with Hypnotic Tongue
+Technique or Memory-Reweaving Discipline) can be corrected with a difficulty (patient’s
+Willpower) Intelligence + Medicine roll. Each such treatment takes one hour. Derangements may
+be exorcised with another such roll. This ends the treatment, awakening the Solar from her trance
+and creating a hostile spirit which immediately attacks her.
+Spirit of Madness
+Aptitudes: Attack, frighten, convince others to give up on the patient from whom
+the spirit originated.
+Expertise: 8; Utility: 3
+Base Damage: 2L
+Defense: 6; Soak: 1
+Resolve: 9; Essence: 1
+Health: –0x5/-2x5/Incap
+Powers
+The following powers are permanently active:
+Homeward Bound: The spirit can always sense the location of the person it was
+excised from. If it can gain access to them while they are asleep, it may spend one
+hour re-insinuating itself into their mind, restoring their Derangement.
+Savage Spirit: The spirit always initiates violence, no matter how well prepared
+others are for its appearance.
+The following powers are limited. The spirit of madness may use precisely one of
+the powers listed below during each round:
+Principle of Motion: The spirit of madness makes one extra attack at the end of
+the turn, after all other characters have acted.
+Dematerialize: The spirit of madness may, with three turns of intense
+concentration, become dematerialized. It can only use this power once per week,
+and may reflexively resume a materialized state at any time. It cannot dematerialize
+during the scene of its creation.
+Burning Eye of the Deliverer (•)
+Resonance: Awareness, Investigation, Lore, Occult
+The Solar’s searing gaze burns through supernatural deceptions and cuts through to the truth.
+System: The character may spend 1 Mote to pierce supernatural disguises and transformations
+for the rest of the scene. If another character is using magic to appear to be someone or
+something she is not, the Solar automatically sees through their disguise. This pierces deceptions,
+not attempts at hiding. Thus, it could see through Flawlessly Impenetrable Disguise, but not
+Vanishing From Mind’s Eye Method. Burning Eye of the Deliverer sees the true face of Lunars
+in a form from their shapeshifting library (though it detects nothing out of place if they are
+wearing any of their true forms), and will detect spirits possessing a person.
+Chaos-Resistance Preparation (•)
+Resonance: Craft, Lore
+The Solar’s works and blessings provide protection from the corrosive touch of the Wyld.
+System: Anything the Solar makes is eternally immune to being transformed or tainted by
+exposure to the Wyld. The Solar may also lay her hand on an object, spend 1 Mote, and roll
+(Intelligence + Lore) against difficulty 7. The object is protected from the Wyld for one month
+per success.
+Alternately, the Solar may construct a vessel designed to offer protection from the Wyld,
+spending 1 Mote at the beginning of each session of working to construct it and increasing the
+difficulty of all rolls to make the vessel by 1. “Vessels” may be containers such as crates, jars, or
+barrels designed to hold other goods (which are protected while inside), vessels such as wagons
+or ships (which protect the people and goods within), or clothes or barding for animals (which
+protect those who wear them). Such protections remain efficacious for a number of years equal
+to the Solar’s Essence rating, after which they are merely ordinary crates, wagons, and clothes.
+Supernal Effect: Blessings of protection granted with this Charm last for one year per success
+rather than one month. Protective vessels retain their potency for a number of centuries equal to
+the Solar’s Essence rating, rather than years.
+Crafty Observation Method (•)
+Resonance: Investigation
+The Solar may observe a scene to its minutest detail in a matter of seconds.
+System: Reflexively spend 1 Mote to compress a scene’s worth of observation into the time it
+takes to draw in a deep breath, allowing for such feats as a reflexive Perception + Investigation
+roll while running through a room at a full sprint.
+Essence-Lending Method (•)
+Resonance: Empathy, Lore
+By touching another Exalt or other supernatural being, the Solar may grant them a gift of her
+Essence.
+System: Spend an action touching another character and spend as many Motes as desired. The
+recipient gains those Motes if they are able.
+This Charm’s cost does not count against the Exalt’s Motes-per-turn limit.
+Ghost-Eating Technique (•)
+Resonance: Occult
+The Solar wields the ancient art of destroying the eternal. This was the dread Charm which slew
+the enemies of the gods and made of them the Neverborn.
+System: When the Solar slays a god, elemental, ghost, demon, or other sort of spirit, the player
+can reflexively roll Wits + Occult (difficulty 4 + the target’s Essence rating). Success tears the
+spirit’s Essence apart, preventing them from ever reforming and destroying them forever. The
+Solar gains 3 Motes on the spot.
+Supernal Effect: The Solar is a godslayer. If she wishes it to be so, any spirit that looks upon
+her knows, beyond a shadow of a doubt, that they behold a being capable of casually ending their
+existence. When her caste mark shines, she cannot hide this knowledge even if she wishes to.
+When she ends a being’s existence forever with Ghost-Eating Technique, a shockwave ripples
+out that causes all spirits that witness the destruction to lose 3 Resolve for the rest of the story as
+the outer fragments of their power are drawn out and sucked into the momentary void the Solar’s
+act has left in the substance of the universe. The Solar, in turn, gains an additional Mote of
+Essence if any bystanders are affected in this way. Spirits cannot be traumatized in this fashion
+more than once per story.
+Material Exegesis Prana (•)
+Resonance: Occult
+The Solar steeps the air in her lungs in a boiling cauldron of divine authority, then speaks a short
+phrase of resonant power which bestows substance to the unreal and solidity to the divine.
+System: Spend a turn formulating the phrase and speaking it. Any spirit who hears the Solar
+utter this phrase may repeat it himself, drawing upon its power to immediately materialize and
+remain in that state for up to the next (Solar’s Essence rating) days without paying any of the
+normal costs of the Materialize power, or indeed needing to possess that power at all. However,
+repeating the phrase also creates a temporary Intimacy of reverence for the Solar that lasts for the
+rest of the story.
+Supernal Effect: Spirits must make a difficulty 9 Willpower roll not to repeat the Solar’s words
+of power upon hearing them.
+Order-Affirming Blow (•)
+Resonance: Lore
+Taking up the foundational principles of Creation in her fist, the Solar wields causality,
+mathematics, history, and law as hammer and chisel, shattering the corrosive dreams of the
+Wyld, the warping effects of sorcery, and the entangling threads of engineered destiny and
+leaving behind only the original form of a child of Creation.
+System: Spend 2 Motes, 1 Willpower, strike the target, and roll Intelligence + Lore against
+difficulty 9. Each success removes one distinct change on the target imposed by the Wyld or
+transformative magic such as a sorcerous working or the Lunar Charm Blood-Reshaping
+Technique. Alternately, this Charm can be used to knock the influence of one instance of
+Sidereal Astrology or Getimian Alchemy off of a target (if aimed against a Resplendent Destiny,
+that destiny is destroyed and the Sidereal gains a point of Paradox. If the same is done to a
+Getimian, her current Alchemy formula is disrupted and loses its power for the rest of the story.)
+Spirit-Detecting Glance (•)
+Resonance: Occult
+The character may attune her senses to otherworldly emanations, glimpsing the ghosts as they
+haunt their graves and the gods in their temples. Having seen such spirits, she may also strike
+them.
+System: Spend 1 Mote. The Solar may see dematerialized beings and the entrance of spirit
+sanctums for the rest of the scene. She may also physically interact with dematerialized beings,
+including attacking them.
+Terrestrial Circle Sorcery (•)
+Resonance: Occult
+The Solar has been initiated into the practice of sorcery. She can cast Terrestrial Circle spells and
+enact sorcerous workings. Purchase of this Charm grants one shaping ritual and one Terrestrial
+Circle spell.
+System: See Chapter Eleven for rules on playing a sorcerer.
+All-Encompassing Sorcerer’s Sight (••)
+Resonance: Occult
+The Solar attunes her senses to the subtle flows of Essence itself, sensing its active
+manifestations in the form of what mortals call magic.
+System: The Solar can roll Perception + Occult against difficulty 7 to survey the Essence of the
+world around her. Depending on the number of successes rolled and the presence of anything
+interesting to detect, she might uncover things like the radiance of a nearby Manse or Demesne, a
+subtle but active spell or sorcerous working, or the fact that a ferocious amount of Essence was
+spent in the area sometime recently. She can also discern particular profiles, flavors, or “colors”
+of Essence if she has encountered them before, and thus might use this Charm to track a missing
+Circlemate by the trail of his expended Essence.
+Celestial Circle Sorcery (••)
+Resonance: Occult
+The Solar has been initiated into the mighty workings of the Celestial Circle of sorcery. She can
+cast Celestial Circle spells. Purchase of this Charm grants one shaping ritual and one Celestial
+Circle spell.
+System: See Chapter Eleven for rules on playing a sorcerer.
+A Solar must have Essence 3+ to purchase this Charm.
+Chaos-Repelling Pattern (••)
+Resonance: Lore
+The Solar draws a fortifying pattern of Essence to protect her from hostile curses and
+transformations.
+System: Whenever the character is the subject of any supernatural power that seeks to transform,
+infect, taint, transport, or control her body or spirit, or to alter her destiny or her place in the
+world (such as by magically altering her Backgrounds), she may reflexively spend 1 Mote and
+roll Wits + Occult against difficulty 7. Success shatters the hostile magic, protecting the Solar
+completely, and immunizes her against repeated attempts to exert the same sort of influence for
+the rest of the scene.
+Contagion-Curing Touch (••)
+Resonance: Medicine
+Even in the absence of proper medicines, the Solar may use the purity of her Essence to burn out
+the most persistent and powerful of diseases.
+System: The Solar needs merely lay her hands on a patient, spend 1 Mote, and roll Intelligence +
+Medicine. The difficulty is 6 for serious mundane illnesses, 7 for normally-incurable mundane
+diseases such as cancer or leprosy, 8 for supernatural maladies, and 9 for the Great Contagion.
+Success immediately burns out the disease, leaving the patient cured.
+Supernal Effect: The Solar may spend 3 Motes and make an Intelligence + Medicine roll to
+banish a particular disease or malady. If she succeeds, then for the rest of the scene, anyone
+touched by the radiance of her anima banner is cured of that illness.
+Craftsman Needs No Tools (••)
+Resonance: Craft
+The Solar is a genius with her hands, able to improvise whatever works of craftsmanship she
+may need in even the most adverse of circumstances. Give her a cave and a box of scraps, and
+she can make just about anything.
+System: The Solar can work ten times faster than normal when creating, modifying, or repairing
+something. By spending 1 Mote, she can forego any need for tools until she stops working, as
+well.
+Supernal Effect: If working in relative seclusion without distractions from the outside world,
+the Solar may not only waive the Essence cost to work without tools, she may dream up a dozen
+or so assistants, up to hundred unskilled laborers, and specialized machinery such as cranes oxdrawn plows from the depths of her anima to assist her with her work. This allows her to work
+twenty times faster than normal, and to undertake projects that should be impossible for a lone
+craftswoman to attempt. These phantoms vanish if the world intrudes on the Solar’s labor-trance
+to any greater degree than, say, a Circlemate stepping in to leave her a cup of tea and some
+lunch.
+Heaven-Turning Calculations (••)
+Resonance: Lore
+Though she may not be the strongest, fastest, or most skilled, the Solar can make up for all other
+deficiencies with her lightning acumen and precise analytical abilities.
+System: Reflexively spend 1 Mote to substitute Intelligence in place of any other Attribute, or
+Lore in place of any other Ability for the next (1 + Essence) turns, or (1 + Essence) minutes
+outside of combat. Alternately, by spending 1 Mote and 1 Willpower, the Exalt can roll
+Intelligence + Lore in place of another specific Attribute + Ability pool for that duration.
+Supernal Effect: The Solar is connected, in the depths of her soul, to the wellspring of all
+knowledge. By meditating for an hour and descending deep into the archive of human
+accomplishment, she may make an Intelligence + Lore roll to retrieve a desired knowledge-based
+Ability (difficulty 6), or skill-based (difficulty 8). She gains a number of dots in the retrieved
+Ability equal to the successes rolled (to a maximum of 5) until she next sleeps or meditates.
+Incalculable Flowing Mind (••)
+Resonance: Investigation, Lore
+The Solar encounters an obstacle or mishap, but thanks to her canny foresight, has already
+anticipated such difficulties in advance and planned for them accordingly.
+System: Once per scene, the Solar may reflexively spend 1 Mote to re-roll a failed or botched
+roll, keeping the preferred result. Her player must describe how the Solar anticipated the
+difficulty that faces her and planned ahead for it in advance. Alternately, the player can spend 1
+Willpower to retroactively declare that the Solar brought along some useful bit of equipment (or
+performed a useful bit of research), and has had it with them all along, so long as this isn’t
+clearly in violation of the established scene. For example, a Solar might have smuggled a knife
+or set of lockpicks into a high-society gala, but she definitely hasn’t been toting around a grand
+daiklave unnoticed and unremarked all evening.
+Supernal Effect: When the player spends Willpower to retcon the scene, she may cite one or
+more of the Solar’s Backgrounds and call upon some truly implausible or significant bit of
+foresight: she had one of her Contacts stow her faithful yeddim Familiar within the grounds, or
+courier she hired with her Resources arrives at that moment and delivers her grand daiklave.
+Irresistible Questioning Technique (••)
+Resonance: Investigation
+The Solar focuses her Essence into an interrogatory beam, compelling answers from those she
+puts to the question.
+System: The Solar may ask someone a question, spend 1 Mote, and make a contested roll of
+Charisma + Investigation against their Willpower (both at difficulty 6). If the Solar gains more
+successes, the target is compelled to answer honestly. Their only alternatives if they cannot or
+will not do so are to flee from the Solar’s presence or attack her to make her shut up and stop
+interrogating them. If they can do neither (for example, because they are tied to a chair), they
+must answer.
+Supernal Effect: The Solar may use this Charm at no cost whenever interrogating someone who
+is unable to leave her presence (for example, a prisoner in a jail cell, or someone whose throat
+she is holding a sword to).
+Wound-Mending Care Technique (••)
+Resonance: Medicine
+The Solar’s ministrations grant health and hardiness with a speed and efficiency unknown to
+mortal medicine.
+System: After a mere scene of treating and ministering another character, the Solar may spend 2
+Motes and roll Intelligence + Medicine against difficulty 6. Her patient heals one lethal or two
+bashing damage per success, or one aggravated damage per two successes.
+Supernal Effect: The Solar is the archetypal healer behind every prayer ever uttered by the sick
+and the dying, the deliverer of woes. The difficulty of all Medicine rolls are permanently lowered
+by –2, but moreover, if the Solar arrives with the intent to render aid (medical or otherwise), she
+needs only say something along the lines of “I’m here to help,” and anyone who hears her is able
+to perfectly and unerringly gauge the sincerity and intent of her words, even if they don’t speak
+the language she utters them in.
+All-Knowing Enlightened Sovereign (•••)
+Resonance: Lore
+The Solar closes her eyes and aligns her perceptions with the cumulative wisdom of the cosmos
+as a whole. Her insight momentarily touches on the vast annexes of Heaven, the drifting
+memories of the dead, and even the dread secrets of the lords of Hell. In that moment, no insight,
+no leap of understanding, is beyond her grasp.
+System: Using this Charm requires at least a minute of undisturbed concentration and the
+expenditure of 3 Motes, 1 Willpower. The Solar may make an Intelligence + Lore roll to recall a
+fact as though she were consulting a library containing the accumulated lore of all that is,
+regardless of the particulars of her own education and knowledge-base. The difficulty is set by
+the obscurity of the knowledge sought. The more successes rolled, the more detailed the answer
+the Solar gains.
+All-Knowing Enlightened Sovereign is of great use in probing topics of scholarly interest, but
+cannot return more than the vaguest hints if the Solar attempts to use it to uncover a highly
+specific fact, such as another character’s personal secrets or the answer to a mystic riddle,
+regardless of the successes rolled. Its purview is unveiling the secrets of history, the cosmos, and
+natural law, not the secrets of Ragara Jonin’s infidelity.
+This Charm inflicts one point of Limit, and cannot be used more than once per story.
+Dogstar Ruminations (•••)
+Resonance: Lore
+Sage-emperors returned from their long slumber, the Solars’ great beards have shattered their
+stone tables. In their great and terrible throes, they may call upon the forces of doom in order to
+save their world. Through this Charm, also sometimes known as God-King’s Shrike, the Solar
+realizes that a certain calamity must happen, and her consciousness is recognized, in turn, by the
+universe.
+System: The Solar must spend a full week contemplating and researching a region’s history,
+climate, geography, and so on before using this Charm. Select a foe within the region who will
+be harmed by this disaster, spend 5 Motes, 2 Willpower, and roll Intelligence + Lore against difficulty 9. One success means the Solar has foreseen a serious natural disaster such as a flash
+flood, wildfire, or earthquake. Three successes means she has foreseen a catastrophic disaster
+such as a tsunami, an earthquake that cracks the mountains, or the eruption of a city-destroying
+volcano. Five successes means the Solar has foreseen one of the seven great dooms: a star falls
+and annihilates the region; a behemoth rises from its slumber and plows through her foe’s cities;
+an army of the dead spills from its shadowland during Calibration to wreak havoc; and so on.
+The Solar decides what region to research and pronounce doom upon, but the Storyteller decides
+the nature of the doom she divines based on the result of the roll. The Solar may show mercy at
+any point before the cataclysm manifests itself by enacting a counter-omen that indefinitely
+forestalls the catastrophe, which she also uncovered during the course of her research. This omen
+is always simple enough to bring about without the need of a dice roll, should the Solar choose to
+do so.
+Using this Charm causes the Solar to gain two points of Limit. It may not be used again until the
+Solar has experienced Limit Break.
+Emerald Induction Technique (•••)
+Resonance: Occult
+The Solar fortifies her Essence and will through countless hours of painstaking study and
+practice of various spiritual disciplines, becoming a puissant master of the mystic arts thereby.
+System: Upon purchasing this Charm, the Solar lowers the difficulty of all shape sorcery rolls
+by–1.
+Supernal Effect: The Solar gains an additional control spell.
+Instant Treatment Methodology (•••)
+Resonance: Medicine
+The Solar becomes capable of blindingly swift medical treatment, able to cycle through an entire
+field hospital in under ten minutes while providing world-class care.
+System: Spend 1 Mote. For the rest of the scene, the Solar can complete any medical assessment
+or treatment she undertakes, regardless of its complexity, in no more than a minute at most; most
+treatments take mere seconds.
+Judge’s Ear Technique (•••)
+Resonance: Awareness, Empathy, Investigation
+None can lie to the canny Chosen of the Sun without their deceit being known. Some distinct
+sensation alerts the Solar to attempted deception – a sour taste or smell, perhaps, or a ringing in
+her ears.
+System: Spend 1 Mote. For the rest of the scene, whenever someone knowingly lies to the Solar,
+she recognizes the lie immediately for what it is.
+Supernal Effect: The Solar is a master of the nuances of truth and deceit, and can construct
+detailed psychological profiles from the lies people tell. When she catches someone in a lie with
+Judge’s Ear Technique, this counts as them having revealed themselves, and she can attempt to
+intuit their intentions, lowering the difficulty of her attempt by –2 (see p. XX).
+Legendary Scholar’s Curriculum (•••)
+Resonance: Lore
+By putting a mortal through a dedicated training regimen, the Solar can fill him with wisdom to
+rival the sage-kings of old. In little more than a week, a Solar with this Charm can transform a
+group of poor farmers into world-class physicians or savants.
+System: The Solar dedicates herself to educating a group of students, subjecting them to daily
+lectures and demonstrations of her knowledge and expertise, which take up at least one hour
+every day over the course of two weeks. She can dedicate her efforts to the training of a group of
+up to Size (current Essence rating, maximum 5) at a time. While she’s actively training a group
+of students, her maximum Mote pool is reduced by one. She can reclaim this capacity by
+abandoning her students’ training, but if she does this and returns to their tutelage later, she must
+start their training over from scratch.
+After two weeks, ignorant peasants gain an Expertise pool of 5 and an Aptitude for one of the
+following: Scholarship, medicine, skilled craftsmanship, the occult, or investigation. They also
+become literate. Already-competent ministers, savants, physicians, and so on instead gain an
+Expertise pool of 7. Experts in the Solar’s class advance to an Expertise pool of 9. A group of
+students may be run through this training regimen repeatedly to hone them from total ignorance
+to Legendary Scholars, or to branch them out into multidisciplinary mastery, if the Solar has
+sufficient time and inclination.
+If a protagonist partakes of Legendary Scholar training, then after two weeks of training they
+may purchase one dot of Bureaucracy, Investigation, Linguistics, Lore, Medicine, or Occult as
+though it were a Favored Ability.
+Solar Circle Sorcery (•••)
+Resonance: Occult
+The Solar has grasped the workings of the all-powerful Solar Circle of sorcery. She can cast
+Solar Circle spells. Purchase of this Charm grants one shaping ritual and one Solar Circle spell.
+System: See Chapter Eleven for rules on playing a sorcerer.
+A Solar must have Essence 5+ to purchase this Charm.
+Wholeness-Restoring Meditation (•••)
+Resonance: Medicine
+Such is the Solar’s genius that her medical care can cure the incurable, or mend permanent
+maiming or ailments.
+System: The Solar may spend several hours treating an untreatable patient, then spend 2 Motes
+and roll Intelligence + Medicine against difficulty 9. Success cures her patient any congenital
+disease, defect, or disorder; or repairs any one physical debility, such as blindness, a weak heart,
+a missing limb, or a damaged spine. If the Solar possesses Craft rated at 3+, she may accomplish
+this through the construction of a wondrous prosthesis that in all respects works as well as a true
+part of the patient’s body, and reduce the Charm’s cost to 1 Mote. Otherwise, her Essence and
+medical expertise promote the regrowth, realignment, or regeneration of the patient’s body.
+Supernal Effect: Such is the Solar’s genius that she can move beyond repairing the human form,
+and craft improvements to it. The Solar may devise and execute a medical procedure requiring a
+fully stocked surgical theater and 18 hours of uninterrupted labor; even Instant Treatment
+Methodology can’t lower her working time below 6 hours. She then rolls Intelligence +
+Medicine against difficulty 9. Failure inflicts four levels of aggravated damage upon the patient,
+while a botch kills them outright; success, on the other hand, bestows them with some posthuman biological feature, such as wings, the ability to digest rocks, or altered anatomy allowing
+the beneficiary to climb walls. In game terms, they gain up to the Solar’s Essence rating in the
+Uncanny Background.
+Wyld-Shaping Technique (•••)
+Resonance: Lore
+This is the legendary Charm by which the Solar Exalted once dreamed forth new worlds to
+conquer. Now that they have returned, they may do so again. The Solar strides deep into the
+lands of chaos and imposes her dreams upon the inchoate stuff of the Wyld, forcing it to conform
+to her demands.
+There are few more potent miracles known to the Exalted than Wyld-Shaping Technique… and
+few more dangerous.
+System: This Charm can only be used in a powerfully Wyld-tainted area of Creation, or at the
+world’s margins where the fabric of the real spills out into the unformed madness beyond. The
+Solar casts her will into the teeth of the Wyld and forces it to yield up her desires.
+Wyld-Shaping technique is an extended roll of (Solar’s Essence rating), made at one-hour
+intervals. The Solar must pay 5 Motes before making each roll. When she runs out of time,
+Essence, or decides she is finished, she may cash in her successes to enact a miracle of creation,
+or else may release the Charm’s power and allow the Wyld to resume its natural courses if she is
+not satisfied with the successes she’s gained. A botch at any point causes the Charm to run
+dangerously wild. If the Exalt is lucky this will only conjure forth a savage behemoth, a realityshredding storm that engulfs miles of Creation, or a hostile warband of the Fair Folk. Profound
+transformation by the hostile Wyld is almost guaranteed without protective miracles in such
+circumstances.
+The difficulty of the Essence roll is determined by what the Solar is trying to create.
+Wealth (difficulty 6): The Solar forces the Wyld to shower her with treasure and riches which
+are not, in and of themselves, particularly useful. The Solar might create heaps of silver coins,
+bags of precious gems, or beautiful artworks and tapestries. One success is enough to make a
+single mortal wealthy enough to live comfortably for the rest of their days. Three successes is
+enough to fund any sort of ambitious business venture such as the building of a Directionspanning road, the construction of a fleet of ships, or the outfitting of an army. Five successes
+conjures enough wealth to found a nation upon. The problem of transporting such treasure is left
+up to the Solar’s ingenuity. The Solar cannot create jade currency.
+Great Works (difficulty 6): The Solar summons buildings, roads, aqueducts, and other
+infrastructure into existence. One success may create a simple keep, rustic town, or rough road.
+Three successes can make a powerful fortress, modest city, or wide, well-constructed road. Five
+successes conjures up either an interconnected array of useful structures — a palace and
+surrounding fortified city with road networks — or else one incredible structure, such as a truly
+unassailable fortress, enormous city, or massive series of viaducts. These works are still located
+within the Wyld unless a subsequent use of Wyld-Shaping Technique is used to stabilize the
+land. Wyld-Shaping Technique doesn’t create manses.
+Demesne (difficulty 7): The Solar concentrates geomantic Essence until a place of power forms
+beneath her. The resulting Demesne has a rating equal to the successes spent on it. It is still
+located within a Wyld-tainted landscape, however, unless Wyld-Shaping Technique is later used
+again to stabilize the region.
+Land (difficulty 7): The Solar conjures forth vast tracts of new landscape and adds them to
+Creation. If used in a Wyld-tainted area deep within Creation, Wyld-Shaping Technique cleanses
+the Wyld energies and stabilizes everything within 25 miles per success spent. If used to dredge
+new lands from the borders of chaos, the Solar creates hundreds of square miles of new lands
+roughly according to her vision. One success creates hard, barren lands which are hostile to any
+sort of useful cultivation and filled with deadly dangers. Three successes creates a frontier of
+adventure filled with useful resources or the potential for developed cultivation, but first
+requiring conquest and taming. Five successes creates a gentle landscape of abundant natural
+resources, fertile lands, or natural mineral wealth which might be extracted with only modest
+development. The land is always congruent with the general character of the nearby Poles, so
+tropical jungles cannot be conjured from the uttermost North, though alpine forests could.
+If the Solar wishes the land to already feature inhabitants, towns, fortresses, and the like, who are
+not familiar with her or innately inclined to trust or like her, increase the difficulty to 8.
+Upon enacting this form of Wyld-Shaping, a region ceases to harbor the power of the Wyld, and
+cannot be transformed any further with Wyld-Shaping Technique.
+People (difficulty 8): The Solar creates useful, skilled human beings from nothing. They come
+into being knowing who she is and possessing some manner of Intimacy of positive regard and
+loyalty toward her, although this is no more robust than any other Intimacy if she subsequently
+gives them reason to dislike her. The Solar conjures a group of people whose Size is equal to the
+successes spent. Those created are either a medley of the dominant ethnotypes of the direction
+where she’s working, or appear to hail from whatever land the Solar does, as she desires. Again,
+the task of leading them out of the Wyld is left up to the Solar’s resourcefulness.
+Prodigies (difficulty 9): The Solar creates magical prodigies. This mode of Wyld-Shaping
+doesn’t make Manses or Artifacts; rather, it creates objects with unusual or impossible
+properties, or fixed locations which perform useful magical functions. Generally, prodigies are
+things like frozen flames or glass spheres containing a single suspended moment of time: little
+impossibilities which might be used in the creation of Artifacts, offered as bribes to gods or
+sorcerers, and other miscellany. The Solar may make a number of portable prodigies equal to the
+successes rolled, or may expend three successes at a time for a truly impressive oddment worthy
+of being used for making a 4 or 5-dot Artifact. Alternately, she may create ongoing works of
+magic equivalent to a localized sorcerous working, such as a factory that creates an iron golem
+once a week, or a grotto where pink crystals grow into reflections of the dreams of those who
+sleep within. One success produces a magical phenomenon equal to a Terrestrial Circle working,
+three successes equals a Celestial Circle working, and five successes is roughly equivalent to a
+localized Solar Circle working. Ongoing splendors soon weaken and lose most of their
+miraculous properties if the region is stabilized through further uses of Wyld-Shaping
+Technique; the First Age Solars were forever forced to build new locations from which to
+harvest useful impossibilities as the borders of Creation expanded and obsoleted their old works.
+Things created with Wyld-Shaping Technique do not have the same intrinsic stability as the
+original heartlands of Creation. If they are not routinely exposed to real people, places, and
+things from Creation proper, they tend to lose their reality and slowly revert back into pure
+possibility. Thus, it is important to import real people to explore and settle Wyld-Shaped lands,
+or garrison and tend to Wyld-Shaped prodigies and outposts, lest they simply vanish after a few
+months or years of neglect. Wyld-Shaped wealth, in particular, doesn’t tend to stick around if
+simply left in a vault and not actively spent and traded by real people in real markets.
+Supernal Effect: The Solar’s Essence rolls to use Wyld-Shaping Technique are immune to the
+rule of 1s, and count 10s as two successes. By paying 7 Motes instead of 5, she may add one
+extra die to a Wyld-Shaping roll.
+Night Charms
+Dust Motes Whirling (•)
+Resonance: Athletics
+The Solar fades easily into the chaos of combat by outpacing the tempo of her foes. When they
+look up from their frustrated blows, she is nowhere to be found.
+System: If an attack directed against the Solar before her turn fails to strike her, it does not
+prevent her from reflexively moving to another zone that round. She may also do so even if an
+attack against her does succeed (Essence rating) times per battle.
+Easily Overlooked Presence Meditation (•)
+Resonance: Stealth
+The Solar can blend into any crowd, becoming impossible to discern or spot.
+System: Pay 1 Mote and roll Wits + Stealth (difficulty 5). For a number of hours equal to the
+successes rolled, it’s impossible to specifically notice the Solar’s presence so long as she’s not
+doing anything to stand out from the movement or activities of the people around her. The eye
+slides right off of her without noticing anything unusual or suspicious about her, even if the
+observer is watching for her specifically. There must be at least a two dozen other people present
+for the Solar to hide among in order to use this Charm.
+Falling Icicle Strike (•)
+Resonance: Stealth, Thrown
+Those who cannot see the Solar coming for their life also cannot survive her displeasure.
+System: The Solar may reflexively spend 1 Mote when launching an unexpected attack against a
+target. The final damage of the attack is doubled after soak. By spending 1 Willpower when
+activating this Charm, the Solar ensures that the target’s death makes no noise and will not be
+discovered for at least the next few minutes, if that is at all possible. The Solar could hurl a knife
+into a guard’s body in such a way that he falls behind some bushes or a carriage and isn’t missed
+for a few minutes, for example, but couldn’t hurl a knife into a prince’s throat in the middle of a
+speech and keep his death secret from the crowd of people staring directly at him — at best, it
+might look for a few moments as though the man is leaning over to consider his next words.
+Supernal Effect: The Solar may obscure any death she directly causes at no cost, even without
+inflicting it via Falling Icicle Strike. Even in the midst of battle, it may not be immediately
+apparent that the leader of the raiding band she’s fighting is dead after the Solar beheads him, for
+example — his followers might simply think they’ve lost track of him in the chaos for a few
+moments.
+Graceful Crane Stance (•)
+Resonance: Athletics
+The Solar becomes near-weightless, and enjoys perfect balance.
+System: The character needs never roll to maintain her balance, no matter how precarious her
+footing, and may stand or run upon even the weakest or most insubstantial of surfaces, such as
+falling leaves, individual threads, drops of rain, or even the surface of water. Reflexively
+spending 1 Mote allows her to run and stand upon walls or even to cling to ceilings for the rest of
+the scene.
+Supernal Effect: The Solar also permanently lowers the difficulty of all Dexterity + Athletics
+rolls by three.
+Proof-Eating Palm (•)
+Resonance: Larceny
+The Solar may easily conceal anything she has on her which she ought not to have, producing it
+later at her convenience.
+System: The Exalt can perfectly hide anything she can carry in one hand which might
+conceivably be concealed inside of a long coat, even if she’s not wearing a long coat. Indeed,
+even if strip-searched by a team of experts, the Solar’s contraband will not be found. When she
+has need of a concealed object, she may reflexively bring it to hand: it could be that it drops into
+place from a sleeve; or maybe she plucks it from concealment in a nearby potted plant; or
+perhaps she simply produces it with a magician’s flourish from Elsewhere. She can
+simultaneously conceal up to (1 + her Larceny rating) objects with this Charm.
+Reed in the Wind (•)
+Resonance: Athletics
+The Solar yields in the face of deadly attacks, presenting no solid target for her foes to inflict
+calamitous damage against. Her grace ensures she can suffer no worse than mere bruises and
+nicks.
+System: Reflexively spend 1 Mote. For (2 + Essence rating) rounds, attacks directed against the
+Solar by both protagonists and antagonists do not add threshold successes to their damage if she
+attempts to Dodge them.
+Sensory Acuity Prana (•)
+Resonance: Awareness
+By focusing Essence into her awareness of the world, the Solar’s senses become impossibly,
+superhumanly sharp. She can hear a person’s heartbeat from rooms away, read a sheet of paper
+by letting her fingers trail across the ink on it, and count the hairs on a fly’s legs from across a
+room.
+System: The Solar must spend a turn in concentration to activate or banish this Charm. While it
+is active, the difficulty of all Perception rolls drops by –3, to a minimum of difficulty 3. Since
+Sensory Acuity Prana sharpens the Solar’s senses indiscriminately, few of the Chosen leave it
+active at all times, having no desire to smell the odor of every midden heap they pass in
+superhuman detail.
+Shadow-Crossing Leap (•)
+Resonance: Stealth
+Just when it seems certain that the Solar’s hiding place will be discovered, it becomes clear that
+she foresaw this turn of events and has already stealthily relocated to somewhere else.
+System: (Essence rating) times per scene, when another character enters a zone where the Solar
+is hiding in concealment and makes a Perception + Awareness roll to spot her, she may
+reflexively declare that she already snuck away, and is in an adjacent zone. The classic use for
+this Charm is to sneak into the room the interloper just came from, but it can also be used to
+backtrack, vanish into the rafters, and for many other purposes. The Solar may ignore any
+problems that would normally arise from complex movement or the like when exploiting this
+Charm.
+Supernal Effect: When this Charm activates, the character can move up to two zones, and gains
+an extra turn at the end of the round after all other characters have acted, though they cannot
+move into a different zone on this turn.
+Shadow Feint Concealment (•)
+Resonance: Stealth
+The Solar’s opponent swings a halberd at her face. She ducks, a blur of steel obscures her for but
+a heartbeat… and then she is gone.
+System: Once per scene, when the Solar is the target of an attack which fails to strike her, she
+may reflexively make a Dexterity + Stealth roll to enter concealment. The difficulty is 6 if the
+attack occurs in a dim, shadowy environment with lots of hiding places, 7 if in a well-lit but
+cluttered area, and 8 if the Solar is in plain view with little to nothing in the way of good hiding
+spots.
+Supernal Effect: The Solar may use Shadow Feint Concealment (Essence rating) times per
+scene, and lowers its difficulty by –1.
+Shadow Over Water (•)
+Resonance: Athletics
+The Solar is elusive as a shadow upon the surface of a running stream, confounding all attempts
+to strike her.
+System: Reflexively spend 1 Mote to activate this Charm. For next (1 + Essence rating) rounds,
+each result of 1 rolled on attacks against the Solar by a protagonist subtracts one from that
+attack’s base damage while this Charm is active, if she attempts to Dodge the attack. Attacks
+aimed at her by antagonists which she attempts to Dodge instead increase their damage by one
+point per three successes rolled rather than the usual two. Finally, all group attacks that the Solar
+attempts to Dodge while this Charm is active do not add Size to their Expertise pool or base
+damage.
+This Charm’s duration is (3 + Essence rating) rounds if the Solar is not wearing armor.
+Soaring Crane Leap (•)
+Resonance: Athletics
+Essence surges through the Solar’s legs, propelling her effortlessly through the air.
+System: The Solar’s jumping distance and height is tripled. By reflexively spending 1 Mote, the
+Solar may increase her jumping distance or height tenfold. In combat, she can easily relocate to
+zones above her without recourse to complex movement.
+Supernal Effect: The character always lands on her feet, is permanently immune to falling
+damage, and this Charm’s more powerful mode is always on without the need of an Essence
+cost.
+Drifting Leaf Elusion (••)
+Resonance: Athletics
+The Solar, finely attuned to danger, moves to avoid it at the last moment as a matter of bonedeep reflex. Even if it appears the Solar has been struck down, it may be revealed that she is safe
+after all, having faded away from the blow with nothing left to spare.
+System: If an attack directed at the Solar generates fewer successes than her Athletics rating, she
+increases her soak against it by +2 dice.
+Evidence-Banishing Method (••)
+Resonance: Larceny
+Whatsoever the Solar does, she leaves no evidence of her activities behind.
+System: Reflexively spend 1 Mote immediately after committing some sort of crime or other
+questionable act for which punishment or retribution might befall the Exalt if anyone links it
+back to her. No evidence which links her back to the act can be discovered with Investigation
+rolls. The only thing this Charm won’t cover up are the memories of eyewitnesses.
+Supernal Effect: The Solar even vanishes from the memories of those who directly witnessed
+her crime unless they succeed at a difficulty 9 Willpower roll at the time of this Charm’s
+activation. If they fail, then they’ll forget they saw anyone or anything at all if it’s remotely
+plausible that this might have been the case. If it’s obvious to everyone that they witnessed the
+crime, then they remember seeing someone, but can recall absolutely no identifying details. If
+they try to deduce the culprit’s identity through some baroque means such as figuring out who
+could have been present that isn’t otherwise accounted for, they will even generate false
+memories to exonerate the Solar.
+Foe-Scenting Method (••)
+Resonance: Awareness, Occult
+The Solar’s senses, attuned to the uncanny, immediately pick out Essence-users.
+System: Reflexively spend 1 Mote. For the rest of the next 24 hours, the Solar becomes aware
+when she stands in the presence of any supernatural being, though she doesn’t inherently know
+what sort of supernatural being any given individual may be. This Charm doesn’t detect
+dematerialized beings unless the Solar is able to perceive them at the time.
+Supernal Effect: By concentrating on an individual the Solar believes to be a supernatural
+entity, she may scrutinize that creature’s Essence for clues to its nature. Roll Perception + Occult
+against difficulty 8. Success causes the Solar to receive compelling clues. For example: “A
+deathly aura hangs about him.” Or: “A great hulking wolf-shadow looms above her.” If the Solar
+has encountered and scrutinized this sort of supernatural being in the past, then she can identify
+them as such. “He’s an Abyssal.” “She’s a Lunar.”
+Flawlessly Impenetrable Disguise (••)
+Resonance: Larceny, Performance
+The Solar becomes a master of disguise, able to appear as whoever or whatever she likes with
+only a few moments of preparation.
+System: The difficulty to see through any of the Solar’s disguise attempts is permanently set at
+9. By spending 1 Mote, the character can make her disguise absolutely perfect so long as she
+chooses to maintain it, even mimicking supernatural elements such as a god’s storm-lashed hair,
+a Dragon-Blooded’s aura of flames, or a ghost floating just off of the ground. These are tricks
+and cosmetic imitations, and won’t grant any special powers (the Solar isn’t really levitating, and
+the fire aura can’t burn things).
+Ghost-Walking Prana (••)
+Resonance: Stealth, Survival
+Wheresoever the Solar goes, she leaves no trace behind.
+System: Spend 1 Mote. This Charm lasts until the Solar stops to rest for at least an hour. Until
+then she leaves absolutely no evidence of her passage behind, making it impossible to track her
+using mundane effort. Those with supernaturally acute senses or supernaturally accurate tracking
+must still roll against difficulty 9 to follow the Solar’s trail.
+Lightning Speed (••)
+Resonance: Athletics
+The Solar moves with the speed of darting sunbeams, able to flash from place to place almost
+faster than the eye can follow.
+System: The difficulty of all actions to run someone down, get somewhere quickly, or jump a
+difficult gap are permanently lowered by two. By reflexively spending 1 Mote when she moves
+to an adjacent zone, the Solar may move two zones instead.
+Supernal Effect: The Solar moves with the speed and freedom of light itself; there’s nothing
+faster. The difficulty of all actions influenced by Lightning Speed are lowered by an additional –
+2. By spending 1 Mote, she may release her god-speed for the rest of the scene; each turn, she
+can reflexively move up to two zones.
+Mountain-Crossing Leap Technique (••)
+Resonance: Athletics
+Gathering all her power into her legs, the Solar propels herself into the air and over the horizon
+with a mighty leap.
+System: The Solar spends a moment concentrating and spends 2 Motes. Her player then rolls
+(Strength + Athletics) against a difficulty determined by the density and complexity of the
+Solar’s destination. Open farmland would be difficulty 5, while the middle of Nexus would be
+difficulty 8. The more successes rolled, the more accurately the Solar touches down exactly
+where she wants to land. This Charm can carry the Solar up to (Essence rating x 3) miles in a
+single leap. Everyone within the same zone as the Solar when she takes off or lands must make a
+Stamina + Resistance roll against difficulty 6 to avoid being knocked prone; they must climb
+back to their feet on their next turn, a form of complex movement that leaves them unable to
+move to another zone.
+Supernal Effect: The Solar may pay 1 additional Mote while soaring through the air with
+Mountain-Crossing Leap Technique, or indeed at any time when she is plummeting toward the
+ground from a great height for any reason, to wrap herself in a powerful corona of Essence.
+When she lands, this Essence-corona detonates, and she strikes the ground without suffering any
+injury whatsoever with the force of a runaway meteorite. Everyone and everything within the
+same zone or a directly adjacent zone of the Solar’s point of impact must soak (Essence rating x
+2) levels of bashing damage. If she lands in the middle of a battle group, she additionally rolls
+her Strength + Athletics against difficulty 4 and applies the successes as bashing damage to the
+group.
+Seasoned Criminal Method (••)
+Resonance: Larceny
+The Solar is a master of all criminal enterprise, able to trivially go where she will and take what
+she likes.
+System: Any career criminal the Solar meets instinctively recognizes her as a fellow member of
+the underworld, and furthermore, one who represents potential opportunities for enrichment and
+advancement rather than a potential threat or rival. This is a potent first impression, but won’t
+negate or erase any knowledge to the contrary that an individual might have (it won’t make them
+forget their boss telling them that the Solar is an enemy and should be killed on sight, for
+example).
+Surprise Anticipation Method (••)
+Resonance: Athletics
+A sixth sense warns the Solar of impending danger, making her impossible to take unaware so
+long as she hasn’t totally exhausted both body and spirit.
+System: The Solar may reflexively spend 1 Mote to automatically notice an ambush or other
+such unexpected attack, allowing her to defend against it as normal.
+Ten-Ox Meditation (••)
+Resonance: Athletics
+Essence burns and surges in the Solar’s muscles, granting strength beyond strength.
+System: The difficulty of feats of strength to lift or break something are lowered by –3. The
+Solar may reflexively spend 1 Mote to cause her unarmed attacks to gain a base damage of 7B
+for the rest of the scene.
+Supernal Effect: The Solar may spend 1 Mote to succeed at absolutely any feat of strength
+when using Ten-Ox Meditation involving objects up to the size of a tower. Ten-Ox Meditation’s
+enhancement to attack rolls still functions as normal.
+Bonfire Anima Wings (•••)
+Resonance: Athletics
+The Solar’s anima bears her aloft like a comet or a pair of angelic wings, allowing her to fly.
+System: Spend 3 Motes. For the rest of the scene, the Solar can fly. If activated at the apex of
+Mountain-Crossing Leap Technique, this Charm costs only 1 Mote. Even if her anima has
+otherwise faded from visibility, it streams out like a contrail behind her when she flies at
+maximum speed (Essence x 10 miles per hour), making her highly visible.
+Supernal Effect: The Solar may use this Charm for free whenever her anima is flaring.
+Clever Bandit’s Rook (•••)
+Resonance: Larceny
+The Solar is a master of all criminal enterprise, able to trivially go where she will and take what
+she likes.
+System: Spend 1 Mote to perform any of the following feats: Cause a lock to spring open, pass
+through a closed door or window without disturbing it, or attempt to steal an object in plain sight
+without anyone noticing the attempt.
+Supernal Effect: Once per session, shortly after leaving a location, the Solar may spend 2 Motes
+to retroactively declare that she successfully stole something without anyone noticing and that
+she has it on her right now. The object must have actually been there for her to steal it, but it
+otherwise doesn’t matter how implausible the theft is. Stealing Mask of Winters’s pants after he
+addressed the Circle from the battlements of Thorns is well within the Solar’s capabilities.
+Eye of the Unconquered Sun (•••)
+Resonance: Awareness
+The Solar’s eyes cut through all supernatural obscurity, unerringly sighting her foes.
+System: Reflexively spend 1 Mote to immediately defeat all forms of supernatural concealment,
+invisibility, and the like. Any character that is trying to hide from the Solar is immediately
+revealed to her senses.
+Supernal Effect: The Solar may spend 2 Motes when activating Eye of the Unconquered Sun to
+open her Caste Mark and unleash a flood of searing, all-revealing light. Any being within two
+zones of the Solar that is attempting to hide or conceal itself is outlined in brilliant white flames
+that shine through all covering and concealment, even through walls, revealing them to all
+characters present, not just the Solar. There’s nothing subtle about this display: the air quakes
+and seethes with golden light, shining through walls and obstacles to banish all shadows. This
+display lasts until the Solar wills it to end. All attempts to target an individual wrapped in white
+flames (which linger for as long as a marked individual stays in the Solar’s light) lower their
+difficulty by –1.
+Flow Like Blood (•••)
+Resonance: Athletics, War
+The Solar moves with an impossible fluid grace. Whenever it seems that an attack has struck her
+down, it becomes clear a moment later that this is not the case. Indeed, when her enemies
+surround her on all sides, their frenzied and futile offense merely opens them to her reprisal.
+System: Reflexively spend 1 Mote to activate this Charm. For the rest of the scene, all attacks
+which the Solar attempts to Dodge subtract one success from their total rolled, and the Solar’s
+Dodge value is increased by +1. If this would raise her Defense above 9, her attackers are forced
+to discard an additional success from their attacks.
+If the Solar successfully Dodges an attack while this Charm is active, then she may reflexively
+move into an adjacent zone she could reach without resorting to complex movement as she
+evades her enemies, even if she has already moved or been attacked this round.
+Supernal Effect: When the Solar takes advantage of the reflexive movement function of this
+Charm, she may momentarily atomize herself to pass through even solid walls in order to reach
+adjacent zones that would not otherwise be possible to access.
+Secret Police Indoctrination (•••)
+Resonance: Larceny
+By putting a mortal through a dedicated training regimen, the Solar can train him to undertake
+the necessary dirty-work of government. In little more than a week, a Solar with this Charm can
+transform a group of clueless farmhands into assassins, spies, torturers, and kidnappers with
+nerves of steel.
+System: The Solar dedicates herself to training a group of students, subjecting them to daily
+exercises and drills under her oversight, which take up at least one hour every day over the
+course of two weeks. She can dedicate her efforts to the training of a group of up to Size (current
+Essence rating, maximum 5) at a time. While she’s actively training a group of students, her
+maximum Mote pool is reduced by one. She can reclaim this capacity by abandoning her
+students’ training, but if she does this and returns to their tutelage later, she must start their
+training over from scratch.
+After two weeks, bumbling oafs gain an Expertise pool of 5 and an Aptitude for one of the
+following: Assassination, interrogation, intimidation, making people vanish, or spying. They also
+become familiar with a series of codes and ciphers of the Solar’s devising. Already-competent
+intelligence agents instead gain an Expertise pool of 7. Experts in the Solar’s class advance to an
+Expertise pool of 9. A group of students may be run through this training regimen repeatedly to
+hone them from total ignorance to Secret Police, or to branch them out into multidisciplinary
+mastery, if the Solar has sufficient time and inclination.
+If a protagonist partakes of Secret Police training, then after two weeks of training they may
+purchase one dot of Athletics, Awareness, Investigation, Larceny, Martial Arts, Presence,
+Stealth, or Thrown as though it were a Favored Ability.
+Seven Shadow Evasion (•••)
+Resonance: Athletics
+Letting her Essence instinctively carry her out of harm’s way, the Solar may dodge any single
+attack of which she is aware.
+System: Once per scene, when faced with an attack or similar form of danger, the Solar may
+declare that she perfectly dodges it. The attack fails to strike the Solar without any further dice
+rolls. This defense cannot be invoked against undodgeable or unexpected attacks.
+The Solar may reset the limitation of this Charm and make it available again by avoiding an
+attack by Dodging it without utilizing a perfect defense or by vanishing into concealment (see p.
+XX).
+Supernal Effect: The Solar repositions herself optimally after avoiding an attack. If she uses her
+next action to attack someone whose attack she dodged with Seven Shadow Evasion, that attack
+is made at –2 difficulty. If the target is a group, her attack ignores the Size bonus to its soak.
+Vanishing From Mind’s Eye Method (•••)
+Resonance: Stealth
+The Solar can still her Essence, vanishing from sight and awareness completely.
+System: By standing still in a shadowed place or obscure corner and remaining quiet, the Solar
+can become functionally invisible and impossible to notice so long as nobody’s actively
+watching her. This obscurity remains in place so long as she doesn’t move or make noise.
+Spending 1 Mote renders her invisible and impossible to notice for the rest of the scene, so long
+as she doesn’t make some sort of loud noise or take blatant action such as attacking or tipping
+over a bookshelf.
+Supernal Effect: The Solar’s invisibility is unimpeachable. Even if she makes loud noises or
+begins fighting, the invisibility granted by Vanishing From Mind’s Eye Method won’t break.
+Only her anima flaring will break the Charm. See page XX for rules with dealing with invisible
+people.
+Eclipse Charms
+Foul Air of Argument Technique (•)
+Resonance: Bureaucracy
+Simply by briefly conversing with someone involved, the Solar may embed her Essence in a
+bureaucracy or project like a curse, causing it to bog down in inefficiency, errors, and red tape.
+System: The character can spend 3 Motes to target a specific office or project with terrible
+inefficiency for the rest of the current story. Everyone involved in pushing the project forward
+increases the difficulty of all rolls to do so by +2. In narrative terms, the project is plagued with
+conflicts and inefficiency and grinds to a near-halt.
+Guarded Thoughts Meditation (•)
+Resonance: Awareness, Empathy, Resistance
+The Solar’s mind is a vault, holding her thoughts within like precious gems.
+System: Whenever someone attempts to read the Solar’s mind by any means, roll Perception +
+Awareness against difficulty 6. Success reveals not only the mind-reading attempt, but also who
+is responsible. The Solar may then pay 1 Mote to reflexively shield her thoughts, making them
+impossible to read for the rest of the scene. The Solar may also pre-emptively shield her thoughts
+by paying 1 Mote, even before anyone attempts to pry.
+Supernal Effect: The Solar’s secrets are her own, and Guarded Thoughts Meditation is always
+active at no cost.
+Insightful Buyer Technique (•)
+Resonance: Bureaucracy
+The Solar entangles her Essence with something she wishes to sell, transforming it into a subtle
+beacon that will, in time, bring a buyer into her presence.
+System: Spend 1 Mote while contemplating something the Solar owns and wishes to sell. In
+time, a buyer with both the interest and the resources to offer a reasonable price for the item will
+appear. If this is a mundane transaction for something such as a well-made sword or a horse, a
+buyer will appear almost immediately. For more exotic sales, like the command codes for a
+squadron of brass legionaries, it may take several days or weeks for the Solar to bump into a
+suitable buyer (largely to give the Storyteller time to craft an interesting story rather than having
+to pull something out of their ass on the spot), but the buyer will appear in time.
+Inverted Ego Mask (•)
+Resonance: Socialize
+The Solar builds up a wall of masks around the innermost truths of her heart, ensuring that none
+can discover who she really is unless she permits it.
+System: Any ordinary or supernatural attempt to discern the Solar’s Nature automatically fails,
+revealing whichever result she wishes to project in its place. This Charm’s effects are permanent.
+Supernal Effect: The Solar is an absolute cipher. Unless she willingly reveals information about
+herself, it is impossible to learn anything about the Solar’s identity, past, or innermost motives
+through mundane research or magical means of any sort. Another character can still attempt to
+speak to the Solar to convince her to open up, of course.
+Irresistible Salesman Spirit (•)
+Resonance: Bureaucracy
+The Solar focuses her Essence into the ultimate high-pressure sales pitch, capable of convincing
+almost anyone to buy almost anything, and for outrageous prices.
+System: After spending a few moments delivering her pitch, the Solar’s player spends 1 Mote
+and rolls Manipulation + Bureaucracy against a difficulty equal to the target’s Willpower. She
+can raise or lower the fundamental value of whatever she’s trying to buy, sell, barter, or bargain
+for in the target’s eyes by a factor of (successes rolled + 1). This Charm is equally as applicable
+to political favors as to financial transactions; a Solar who rolled five successes might convince
+the Despot of Gem to pay her six times as much silver as he’d initially considered in exchange
+for her help discovering who or what is murdering his supporters, for example.
+This Charm doesn’t force the target to accept a deal, only to re-evaluate its reasonable worth; it
+also doesn’t mystically enforce any agreements made under its auspices. Its enchantment fades
+after the Solar’s (Essence rating) hours, at which point the target may very well realize they’ve
+been swindled.
+Supernal Effect: If the target’s Resolve is equal to or lower than the Solar’s Essence rating, she
+may use this Charm to convince him that absolutely any price she cares to name is reasonable.
+Master Equestrian’s Techniques (•)
+Resonance: Ride
+The Solar exhibits the traits of a horseman of legend.
+System: This Charm conveys the following benefits:
+• All Ride rolls are made at –1 difficulty.
+• The Solar may whistle and spend 1 Mote, and any mount she owns, or which regards her with
+deep fondness even if she doesn’t own it, will appear within a matter of moments, ready to be
+mounted and ridden.
+• Any mount the Solar rides can race all out for 12 hours without tiring, and can move twice as
+fast as it would if bearing any other rider.
+• If an attack is directed at the Solar’s mount, it can add her Ride rating to its soak.
+Supernal Effect: The Solar may spend 1 Mote while riding a steed to grant it the power to
+gallop on air for the rest of the scene.
+Phantom Steed (•)
+Resonance: Ride
+Reaching deep within herself, the Solar finds a mount that expresses her innermost self and
+brings it forth into the world to serve her. Generally, her anima hardens into a golden horse to
+carry her into battle or to convey her along her way.
+System: Spend 1 Mote to solidify a mount out of the Solar’s anima for the rest of the scene.
+Should she dismount, it dissipates back into the pure Essence from which it came.
+Supernal Effect: The Solar may spend 1 Willpower to maintain the solidity of her Phantom
+Steed even while no longer in contact with it. Not only will the mount continue to exist, it can
+move of its own accord in response to the Solar’s will, as though she were riding, making rolls to
+maneuver with the Solar’s dice pool. The Phantom Steed always “knows” where the Solar is and
+how to find her, and is otherwise as “intelligent” as the Solar in carrying out the tasks the Solar
+assigns to it. The Solar doesn’t need to be able to see or communicate with her Phantom Steed to
+give it commands.
+Salty Dog Method (•)
+Resonance: Sail
+The Solar is an exemplar of nautical daring and perseverance.
+System: This Charm conveys the following benefits:
+• All Sail rolls are made at –2 difficulty.
+• Having stared the worst horrors of weather and the deeps directly in their dead and hateful
+eyes, the Solar has become inured to fear. The difficulty of all attempts to frighten her by
+supernatural means is increased by +1, and the first time in any given session that someone or
+something tries to terrify her in such a fashion and fails, she gains one point of Willpower.
+• The Solar can swim without it counting as complex movement, and may hold her breath for up
+to 15 minutes at a time. By spending 1 Mote, she can extend this to (Essence rating) hours, and
+also survive the crushing pressure of the deepest ocean trenches.
+• So long as she can see the sky and feel the wind against her skin, the Solar can spend 1 Mote to
+accurately predict the local weather over the next (Essence rating) days.
+Supernal Effect: The weather ever reflects the Solar’s mood. When she’s happy or content, it’s
+clear skies and warm sunshine. Her sorrows bring heavy rains, and her rages provoke violent
+storms. She can roll Willpower against difficulty 6 to still this effect for a day if she wishes.
+Subtle Speech Method (•)
+Resonance: Linguistics, Socialize
+The Solar becomes a master of hidden meaning, coding messages inside messages that only
+reveal themselves to those she wishes.
+System: Spend 1 Mote while speaking or composing a written work to embed a second, hidden
+message inside the statement or writing. This hidden message can only be discerned by those the
+Solar intends to address it to.
+Whirling Brush Method (•)
+Resonance: Lore, Linguistics
+Words pour through the Solar’s mind like a rushing river, leaving wisdom behind in their wake
+without consuming her precious time.
+System: Spend 1 Mote. For the rest of the scene, the Solar may read and absorb information as
+fast as she can track her eyes across the page. Books can be consumed in moments. Moreover,
+she can copy text by hand at lightning speed, transcribing an entire book in minutes, up to and
+including any diagrams or illustrations.
+Wyld Emissary’s Resolve (•)
+Resonance: Bureaucracy, Lore
+The Solar fixes the certainty of her existence upon a singular mission and then strides forth into
+the lands of chaos, protected from its transformative touch.
+System: The Solar envisions a distinct objective for herself with an attainable end-goal, such as
+“Sitting down with the Court of Laughing Eyes and hammering out a non-aggression treaty,” or
+“Returning home,” and then activates this Charm. Upon doing so, her maximum Mote pool
+capacity is reduced by one, but she gains complete protection from being transformed in mind,
+body, or spirit by the Wyld so long as she is acting in pursuit of her mission. If this Charm’s
+protection abates due to completion of her mission or the mission becoming impossible, the
+Solar may immediately select a new mission and reactivate Wyld Emissary’s Resolve, but each
+time she does this it increases the Mote pool reduction by one.
+Secondary activities such as traveling to the Court of Laughing Eyes, or preparing a meal or
+resting during that journey, are considered part of a mission, but when the Solar does anything
+completely unrelated to her mission (pursuing a beautiful faerie she saw in the forest), this
+Charm’s protection lapses. She may have multiple activations running concurrently to give her
+multiple missions to pursue for additional protection, but each mission inflicts its own
+(potentially mounting) Mote pool reduction.
+The Solar may voluntarily abandon this Charm at any time.
+Elusive Mount Technique (••)
+Resonance: Ride
+The Solar and her mount weave through the fury of battle with the grace of the wind and the
+shock of a thunderbolt. Her foes’ meager efforts cannot stop her.
+System: The Solar can always move on her turn while she is mounted, whether she has already
+been attacked that round or not. This Charm is disabled until after the end of her next turn if she
+suffers a blow which inflicts three or more levels of damage after soak.
+Indecent Proposal Method (••)
+Resonance: Socialize
+The Solar layers her words with formality and buttresses them with conditional necessity,
+allowing her to propose the shocking and the treasonous without causing dismay or alarm.
+System: Spend 1 Mote when making a proposal to another character. No matter what it is the
+Solar asks or advises, it is impossible for the target to become alarmed, angered, or disgusted as a
+consequence; whatever the Solar says seems to fall within a strange quirk of propriety or at the
+very least to plainly be a necessary evil, even if she is asking an Immaculate monk to salaciously
+abandon her vows or a loving father to slay his children. The target may well say no, but they
+won’t say it with heat and rancor and then report the Solar to the authorities or dash their tea in
+her face.
+Mastery of Small Manners (••)
+Resonance: Empathy, Socialize
+An instinctive facility for etiquette and social currents ensures that the Solar never commits faux
+pas or social gaffes when dealing with unfamiliar cultures or social situations.
+System: The Solar lowers the difficulty of all Socialize rolls by one, and cannot botch with when
+rolling it. Should she fail at any social roll, she may reflexively spend 1 Mote to attempt to re-roll
+it once.
+Supernal Effect: The Solar unfailingly gives excellent first impressions to all those she meets,
+lowering the difficulty of all social rolls against a character during the first scene she meets them
+in by one. Unless given some pressing reason to act otherwise, those who first encounter the
+Solar are inclined to regard her well and behave favorably toward her; in short, they like her.
+Orichalcum Letters of Marque (••)
+Resonance: Sail
+The Solar invites her vessel to partake of her legend, steeping its decks and sails in the power
+that once cast down the makers of the world.
+System: Upon credibly claiming a ship as her own — that is to say, coming to command its crew
+and having her orders obeyed — the Solar may spend 1 Mote, 1 Willpower to enchant the vessel.
+Those she has not formally accepted aboard suffer a –2 penalty to all actions while aboard her
+ship. Moreover, any spirit entered into the ranks of her crew may materialize reflexively and at
+no cost while aboard the ship. Creatures of darkness that she officially recognizes as crew are
+exempted from that status while serving her aboard the ship as well.
+Finally, if the Solar has an Intimacy toward the vessel, it counts as a sun-aspected Demesne
+equal to her Essence rating while she is aboard, which she owns and is attuned to. The Solar may
+only have one enchanted vessel at a time.
+Sagacious Reading of Intent (••)
+Resonance: Lore, Linguistics
+The Solar’s keen insight cuts through all attempts at dissembling, allowing her to easily decipher
+the intentions of others.
+System: The Solar needs only hear someone speak a few words or to read something they’ve
+written to make an attempt to read their intentions (see p. XX). Spending 1 Mote after a
+successful roll will also let the Solar read the target’s surface thoughts for a few moments.
+Supernal Effect: The Solar may continue reading a target’s thoughts for as long as he remains in
+her line of sight, rather than for only a few moments.
+Speed the Wheels (••)
+Resonance: Bureaucracy
+The Solar is like a saint of complex systems, leaving efficiency in her wake.
+System: When the Solar engages with bureaucracy or labyrinthine systems such as courts of law,
+corporate networks, or government offices, red tape parts before her like the Red Sea and she is
+able to proceed in a mere fraction of the normal time. Moreover, simply by briefly conversing
+with someone involved, she can spend 2 Motes to place her blessing upon a project such a
+certain magistrate investigation, bit of legislation, or attempt at reforming city government, and
+everyone involved in pushing the project forward reduces the difficulty of all rolls to do so by –
+2. In narrative terms, the project steams forward with uncanny speed and efficiency.
+Strange Tongue Understanding (••)
+Resonance: Linguistics
+The Solar is a master of tongues, able to understand and be understood despite any language
+barrier.
+System: The Solar can understand any language after a few minutes of exposure to it, and make
+herself understood after a few minutes more. Spending 1 Motes grants instant fluency for the rest
+of the scene, and makes the character sound like a native speaker.
+Supernal Effect: The Solar may spend 3 Willpower to permanently retain any language she
+learns with Strange Tongue Understanding.
+Storm-Weathering Essence Infusion (••)
+Resonance: Sail
+The Solar’s Essence bends the sympathies of wind and tide toward her, and permeates her vessel
+in a protective coating.
+System: Spend 1 Mote while commanding or aboard a sailing vessel, and roll Wits + Sail against
+difficulty 6. The ship enjoys favorable winds and cooperative currents for one day per success
+rolled, and if there is inclement weather, then the ship somehow manages to find calm patches
+that do not impair its progress. The Solar may also reflexively pay 2 Motes when the ship suffers
+any form of substantial harm such as being struck by a battle spell or being smashed against
+rocks. The ship miraculously escapes from what should have been serious damage without
+anything worse than some singed boards or scraped-off paint.
+Twisted Words Technique (••)
+Resonance: Linguistics
+The Solar places careful, subliminal emphasis on certain words, striking key points in a chosen
+listener or reader’s psyche. When that individual hears or reads her words, they awaken a deep
+well of feeling within him.
+System: Spend 1 Mote while making a verbal speech or composing a letter, pamphlet, essay,
+poem, or other such written work. The Exalt must have a specific target in mind for the speech or
+composition. When that person hears or reads the speech, they must succeed at a Wits +
+Linguistics roll against difficulty (4 + Solar’s Linguistics) or else immediately develop a
+temporary Intimacy of the Solar’s choosing. This Intimacy persists until the end of the current
+story. Protagonists may spend 3 points of Willpower to reject this Intimacy for the rest of the
+current story.
+Wise-Eyed Courtier Method (••)
+Resonance: Awareness, Socialize
+The Solar can quickly unravel the dynamics of any social situation she finds herself in by
+observing little more than word choice and body language.
+System: The Solar can analyze the relationship between any two characters by spending a
+moment observing them, then spending 1 Mote and rolling Perception + Socialize against
+difficulty 8. Even so much as one success not only reveals whether the two characters know one
+another, but also the depth and nature of that relationship (“They’re business partners, but they
+don’t advertise that relationship, and they don’t trust one another”).
+All-Seeing Master Procurer (•••)
+Resonance: Bureaucracy, Socialize
+Essence connecting her to the world around her, the Solar has learned to be all things to all
+people.
+System: By spending an hour in meditation and spending 3 Motes, the Solar may grant herself a
+dot of a social Background of her choice for the next 24 hours, letting her Essence lead her to the
+needed contacts, money, support, or whatever else.
+Supernal Effect: This Charm grants two dots of Backgrounds, which may be assigned to the
+same Background or separately.
+Asp Bites Its Tail (•••)
+Resonance: Presence, Socialize
+Such is the Solar’s assurance and bearing that she may effortlessly turn barbs and imprecations
+cast against her back on those so foolish as to slander her.
+System: When slighted, humiliated, or accused of wrongdoing, the player can reflexively spend
+1 Mote and roll Manipulation + Socialize against the accuser’s resisted Charisma + Socialize
+(both difficulty 6). Should the Solar gain more successes, then everyone present becomes
+convinced the aggressor was in fact the one who belittled, insulted, or implicated herself.
+Supernal Effect: When using this Charm, the Solar rolls against difficulty 5 and her aggressor
+against difficulty 7. Additionally, should she successfully turn the tables, the difficulty of all of
+her social rolls against that target for the rest of the scene drop by –2, while the difficulty of all
+social actions made by the individual who embarrassed himself are increased by +2.
+Cup Boils Over (•••)
+Resonance: Empathy, Linguistics
+The Solar composes a condemnation of purposeless existence, which is so profound that it
+strikes dead those with no bastion of ego to protect them against the Exalt’s words.
+System: Spend 3 Motes and roll Manipulation + Linguistics against a difficulty of a particular
+target’s Willpower rating in order to craft a condemnation of their specific life within the world.
+This condemnation can be verbal or written. Should a protagonist hear or read this condemnation
+while they have 0 Willpower points, their soul leaves their body, and they die soon after.
+Antagonists can be targeted at any time their Resolve is 3 or lower. The soul-eaten victims of the
+Fair Folk are also vulnerable to being destroyed by this Charm, as are artificial beings with no
+real personality.
+The Solar must be familiar enough with her target to be able to criticize their life in at least very
+broad strokes, and a condemnation devised with this Charm loses its potency after one month, as
+the events and circumstances of the target’s life cause her to no longer perfectly match the
+Solar’s critiques.
+Supernal Effect: When the target hears or reads the Solar’s condemnation, they lose a number
+of points of Willpower equal to the successes she rolled. If this reduces them to 0 Willpower or
+to Resolve 3 or less, Cup Boils Over knocks their soul off.
+Heart-Eclipsing Shroud (•••)
+Resonance: Empathy, Socialize
+As useful as it is to be herself, it sometimes suits a Solar’s purposes to be someone else. She
+devises another persona, feeding Essence into this identity until it takes on a reality of its own.
+System: Upon purchasing this Charm, design a second persona for the character. This identity
+has its own name, Nature, and Intimacies, which need have no connection with the Solar’s own.
+It also has its own memories, separate from those of the Solar, and a false history she devises,
+with false memories to uphold it.
+Each day, when the Solar awakens, her player decides which of her personas she is wearing. The
+Solar may voluntarily switch to a different persona at any time by spending a turn in
+concentration and spending 1 Mote, 1 Willpower. If a persona’s “appearance” varies
+significantly from the Solar’s own, the difficulty of any (Intelligence or Wits) + Larceny roll to
+construct a disguise to take on that appearance is reduced to 3, or 4 even in the near-total absence
+of useful props.
+This Charm may be purchased a number of times equal to the Solar’s Essence rating. All
+purchases past the first treat Heart-Eclipsing Shroud as a one-dot Charm.
+Supernal Effect: When designing a persona, the Solar may reallocate up to one dot in each of
+her Attribute categories (Physical, Social, Mental) so that, for example, a certain persona is less
+observant than she is but has a keener mind. She also transforms into a persona’s appearance
+upon assuming it rather than needing to don a disguise.
+Knowing the Soul’s Price (•••)
+Resonance: Empathy, Investigation, Socialize
+Everyone, no matter their integrity, no matter their morals, has a price for which they will bend
+to the Solar’s desires. This Charm cuts through to the soul’s innermost secrets, revealing that
+price.
+System: Spend 3 Motes and roll Perception + Empathy against a difficulty of the target’s
+Willpower. Success reveals the price that will cause the target to do what the Solar wants,
+whether it’s as simple as a sum of money or as daunting as the return of a dead loved one.
+Supernal Effect: Should the Solar accumulate five or more successes when using Knowing the
+Soul’s Price, she also gains an instinctive hunch where to start looking to find the price she’s
+uncovered, if she doesn’t have it already.
+Venomous Rumors Technique (•••)
+Resonance: Performance, Socialize
+Insinuating a thread of her Essence into ill-intended gossip, the Solar assures that her poison
+reaches every ear that might matter.
+System: Spend 2 Motes and roll Manipulation + Socialize against a difficulty of (4 + highest of
+the target’s Allies, Backing, Command, Influence, or Resources). While this Charm can’t ensure
+that everyone believes whatever terrible rumor the Solar wishes to spread, success does
+guarantee that within a day or two, everyone who matters has at least heard it.
+Supernal Effect: By spending 3 Motes rather than 2 when activating Venomous Rumors
+Technique, the Solar may define the scope of the damage her rumors inflict, causing the target to
+lose a dot of the Background she chooses to target. This can only damage social Backgrounds
+like Resources and Connections.
+Wise Minister Academy (•••)
+Resonance: Bureaucracy
+By putting a mortal through a dedicated training regimen, the Solar can prepare him to smoothly
+execute the running of a nation. In little more than a week, a Solar with this Charm can transform
+a group of drunken layabouts into respectable magistrates, ministers, couriers, and diplomats.
+System: The Solar dedicates herself to educating a group of students, subjecting them to daily
+lectures and rigorous testing under her oversight, which take up at least one hour every day over
+the course of two weeks. She can dedicate her efforts to the training of a group of up to Size
+(current Essence rating, maximum 5) at a time. While she’s actively training a group of students,
+her maximum Mote pool is reduced by one. She can reclaim this capacity by abandoning her
+students’ training, but if she does this and returns to their tutelage later, she must start their
+training over from scratch.
+After two weeks, ignorant peasants gain an Expertise pool of 5 and an Aptitude for one of the
+following: Bureaucracy, mercantilism, diplomacy, sailing, or message delivery. They also
+become literate. Already-competent ministers, diplomats, sailors, and so on instead gain an
+Expertise pool of 7. Experts in the Solar’s class advance to an Expertise pool of 9. A group of
+students may be run through this training regimen repeatedly to hone them from total ignorance
+to Wise Ministers, or to branch them out into multidisciplinary mastery, if the Solar has
+sufficient time and inclination.
+If a protagonist partakes of Wise Minister training, then after two weeks of training they may
+purchase one dot of Bureaucracy, Linguistics, Presence, Ride, Sail, or Socialize as though it were
+a Favored Ability.
