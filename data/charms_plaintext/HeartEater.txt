@@ -1,0 +1,1087 @@
+Basic Charms
+Excellence of the Bitter Heart: (Ability) (•)
+The Heart-Eater sharpens her Essence and aligns it with her actions, allowing her to cut the 
+world into the shape she desires by effort and will.
+System: Select any single Ability when purchasing this Charm. At any time, the player may 
+reflexively spend 1 Mote to add the Ability rating in dice to all rolls using this Ability for 
+(Essence rating + 1) turns in combat, or minutes outside of combat. If inside her Awakened 
+Essence Lair, the Exalt instead adds (Ability + Essence) dice.
+This Charm can be repurchased to unlock additional Abilities, but Essence must be spent to add 
+dice to each Ability separately. Heart-Eaters begin play with all versions of Excellence of the 
+Bitter Heart which correspond to their Eldritch and Favored Abilities.
+Anima Twining Charms
+Adaptive Coloration Halo (•)
+The Heart-Eater’s anima attunes itself to the Essence of those around her, taking on the 
+characteristics of another supernatural being.
+System: While twined with another Exalt, the Heart-Eater may choose to mask her anima banner 
+by making it appear identical that Exalt’s anima display (and, if applicable, duplicating their 
+caste mark or aspect markings).
+Anima Braiding Method (•)
+Reaching out to two allies, the Heart-Eater deftly twists their Essences together, allowing them to 
+share power with one another.
+System: The Heart-Eater may touch two other consenting Exalts, spend a turn in concentration, 
+and twine their animas together. Each enjoys not only his normal anima power, but also the 
+anima power of the Exalt to whom he’s been twined. This twining lasts for the rest of the scene, 
+or until they move more than one zone away from one another, whichever comes first. This 
+Charm may also be used to share a consenting Exalt’s anima power with a non-Exalted ally, but 
+this costs 1 Mote.
+Any Charms which upgrade the Heart-Eater’s anima twining capabilities also upgrade Anima 
+Braiding Method. For example, Memories of Other Heavens will allow the braided pair to 
+continue to benefit when in different buildings, and Manifold Anima Splendor will permit the 
+braiding of larger groups.
+Endurant Bonds of the Heart (•)
+The Heart-Eater learns to keep a sliver of borrowed Essence locked deep within herself, greatly 
+extending the duration of anima twining.
+System: The duration of anima twining is now (Essence rating) days, so long as the subject 
+remains within a mile of the Heart-Eater (and even that distance limitation can be ignored if she 
+also knows Memories of Other Skies). If the Heart-Eater has an Intimacy for the Exalt she’s 
+twined with, she can maintain the twining until she voluntarily decides to relinquish it.
+Light-Snuffing Gesture (•)
+The Heart-Eater’s anima subtly influences the world around her, muffling and strangling the 
+power of those she believes mean her ill.
+System: When she takes her turn each round, the Heart-Eater may reflexively select one enemy 
+she can perceive who hasn’t taken their turn yet. For the rest of the turn, that target’s anima 
+power is disabled. This also disables Dragon-Blooded anima flux.
+Memories of Other Heavens (•)
+The Heart-Eater learns to weave foreign bits of power deep into the cycling of her own Essence, 
+allowing her to “grab and go” when anima twining.
+System: The Heart-Eater continues to enjoy the benefits of anima twining even once her subject 
+is no longer within one zone of her, up to whatever her usual duration is for twining (by default, 
+one scene).
+Stolen Skies Attitude (•)
+With but a moment’s concentration and an occult gesture, the Heart-Eater may forcibly entangle 
+an unwilling target’s anima with her own.
+System: The Heart-Eater may anima twine with unwilling or unaware targets. If the target 
+doesn’t consent to the twining, the Heart-Eater may make an opposed roll of Charisma + 
+Empathy against the target’s Willpower (both at difficulty 6). If she gains more successes, the 
+Heart-Eater initiates anima twining whether the subject wants her to or not. If the target isn’t 
+aware she’s trying to twine with him (as is generally the case when neither of their banners are 
+manifested), then she is automatically successful without the need for a roll.
+Aurora-Limned Omens (••)
+When the Heart-Eater anima twines with another Exalt, she momentarily catches a glimpse of 
+the darkest recesses of his most hidden heart.
+System: Upon anima twining with someone, the Heart-Eater may make a reflexive, contested 
+roll of Perception + Empathy against the target’s Willpower (both at difficulty 6). Gaining more 
+successes allows her to learn the target’s darkest secret: whatever fact or knowledge the other 
+Exalt most wants to keep hidden from the world at large.
+Essence-Sharing Link (••)
+Through the refinements of this Charm, the Heart-Eater and her twining-mates may access one 
+another’s Essence.
+System: Any characters joined together through the auspices of the Heart-Eater’s anima twining 
+may spend Motes from one another’s pools whenever they please, so long as they’re within the 
+same zone. This does not require consent and cannot be refused or blocked so long as the twining 
+remains active. Essence-Sharing Link can’t draw Motes from the pool of an Anima-Trimming 
+Memento.
+Assume that antagonist Exalts have a number of available Motes equal to twice their Essence 
+rating. If they are hard-pressed, they may take Motes from the Heart-Eater in return, even though 
+antagonists do not themselves have or track Motes, because that lack is a narrative abstraction to 
+make them easier for Storytellers to manage; within the fiction of the story, they are still 
+spending Essence to power their endeavors.
+Manifold Anima Splendor (••)
+Ascending to mastery of her craft, the Heart-Eater may twine together multiple strands of anima 
+at once.
+System: The Heart-Eater may simultaneously benefit from anima twining with (Essence rating + 
+1) Exalts. This upgrade also applies to Anima Braiding Method, allowing her to link groups of 
+Exalts together, or extend an Exalt’s anima benefits to a group of un-Exalted allies (at a cost of 1 
+Mote per ally).
+Unwitting Bodyguard Assignment (••)
+The Heart-Eater deflects an attack with the shimmering curtain of her anima, passing its 
+consequences to someone she’s twined with.
+System: Reflexively spend 1 Mote when targeted by an attack to re-assign one of the HeartEater’s twining partners as its target. This ends the twining. Unwitting Bodyguard Assistant can’t 
+shunt attacks to a partner that isn’t in the same zone.
+Anima-Trimming Memento (•••)
+The Heart-Eater learns to snip off a bright contrail of power from an anima banner she has 
+twined with, tucking it away into the depths of her bitter heart to revisit in later days.
+System: The Heart-Eater may spend 1 Mote to “memorize” someone’s anima. At any time 
+henceforth, she can twine from that memory as though that person were present. The Heart-Eater 
+can “remember” a number of different anima powers equal to (1 + her Essence rating). If she 
+wishes to memorize a new twining partner while at her limit, she must choose to forget an old 
+memory first.
+A memorized partner can be used for any anima twining function, including counting as “a 
+consenting Exalt” for Anima-Braiding Method.
+Iron Orchid Halo (•••)
+While twining with another Exalt, the Heart-Eater may shelter herself behind their front-line 
+battle might.
+System: The Heart-Eater may reflexively spend 1 Mote to bend the currents of aggression 
+toward a twining partner within the same zone. The chosen partner may reflexively protect the 
+Heart-Eater (see p. XX) so long as they remain in the same zone and twined. If he refuses to 
+accept this Charm’s effects and opts not to protect the Heart-Eater, he is placed on the Litany of 
+Grudges and the Heart-Eater gains 2 Limit.
+Combat Charms
+Blameless Victim Posture (•)
+Regardless of the truth of the matter, the Heart-Eater twists the perceptions of those around her 
+so that when violence breaks out, she appears to be the victim of unwarranted aggression. Even 
+those who arrived to fight a duel with her may find themselves confused at why they are 
+needlessly attacking the Exalt once the first attack is made.
+System: At the very beginning of an exchange of violence, the Heart-Eater may reflexively pay 
+1 Mote and make a Manipulation + Socialize roll against difficulty 4. Anyone witnessing the 
+conflict whose Perception is lower than the successes she rolled believes that those fighting the 
+Heart-Eater started the fight, and did so without justifiable provocation. Even the Heart-Eater’s 
+opponents themselves may be affected by Blameless Victim Posture.
+Essence-Envenoming Feit (•)
+Everyone has secrets, things they keep bottled up on the inside. With but a touch, the Heart-Eater 
+may twist a target’s inner repressions and shames into a literal poison that eats him from the 
+inside-out.
+System: Reflexively spend 1 Mote upon touching or striking the target. He must soak one level 
+of automatic lethal damage each turn for a number of turns equal to the Heart-Eater’s 
+Appearance rating, while suffering a –2 penalty to all dice pools due to the excruciating pain of 
+the venom coursing through his body.
+The Heart-Eater must know some secret about the target that he does not wish to become public 
+knowledge, or else Essence-Envenoming Feit cannot catalyze.
+Hateful Bloody Expulsion (•)
+The Heart-Eater dredges up all the rancor she possesses and casts it forth by spitting a streamer 
+of boiling, poisonous blood at her enemies.
+System: Roll Dexterity + Presence to aim the attack. The bloody streamer has a base damage of 
+7L and can target enemies up to one zone away. Each expulsion inflicts one level of unsoakable 
+lethal damage to the Heart-Eater. If the target is on the Exalt’s Litany of Grudges, then the 
+attack’s damage is aggravated.
+Tender Killing Embrace (•)
+The Heart-Eater’s grasp is inescapable as iron and — at least to observers — tender as a lovers’ 
+reunion. By the use of this Charm, she may strike down her enemies in broad daylight with none 
+the wiser.
+System: The Heart-Eater locks herself in a deadly embrace with an opponent, immobilizing 
+savaging him. By reflexively paying 1 Mote upon landing a successful unarmed attack, the Exalt 
+locks herself and her target in place. Unless she voluntarily relinquishes the power of this Charm, 
+neither can move from the zone they currently occupy until the Heart-Eater has taken another 
+(Essence rating) turns. The initial attack inflicts lethal damage with a bonus to its base damage 
+equal to the Heart-Eater’s Essence rating, as do all subsequent unarmed attacks during the 
+duration of Tender Killing Embrace. 
+Attacking anyone other than her grappled target immediately ends Tender Killing Embrace. Each 
+time the Heart-Eater is struck by an attack, the duration of Tender Killing Embrace is cut short 
+by one round.
+Observers to misinterpret her aggressions as friendly or romantic overtures: she seems to be 
+throwing herself upon a paramour from whom she has been long parted, roughhousing with an 
+old friend, or swept up in a loving embrace, rather than engaged in the act of murder. They will 
+even misinterpret her victim’s screams for help as jokes or cries of ardor. This illusion breaks 
+immediately if the victim escapes from her grapple.
+Torn Flower Revelation (•)
+Upon confounding an attacker, the Heart-Eater strikes back with a blade of concentrated appeal, 
+slicing open her opponent’s perceptions and forcing him to see her in a positive and desirable 
+light.
+System: After being the target of an attack that fails to strike her, the Heart-Eater may 
+reflexively pay 1 Mote. Her attacker must then make a reflexive Wits + Socialize roll against 
+difficulty 9. Failure causes him to, in a moment’s startled clarity, re-evaluate the Heart-Eater’s 
+worth and meaning to him. He is forced to gain a positive temporary Intimacy of some kind 
+toward her, with a context decided by the target’s player, which might be anything from 
+admiration for a worthy foe to confused love. This temporary Intimacy lasts until the end of the 
+current story.
+Vicious Wounding Gesture (•)
+Upon wounding any of her adversaries, the Heart-Eater may clench her fist, sending a convulsive 
+surge of Essence through the injury and causing it to rupture in a spray of blood.
+System: After successfully inflicting damage on an opponent, reflexively spend 1 Mote and roll 
+a number of dice equal to the post-soak damage inflicted (difficulty 5). The resulting successes 
+must then be soaked as further damage of the same type.
+Walking on Light (•)
+The Heart-Eater’s footsteps strike motes of radiant luminance from the ground, clearing a path 
+before her wherever she wishes to go.
+System: If an attack directed against the Heart-Eater before her turn fails to strike her, it does not 
+prevent her from reflexively moving to another zone that round. She may also do so even if an 
+attack against her does succeed (Essence rating) times per battle.
+Bones of Pearl and Jade (••)
+The Heart-Eater’s Essence fortifies her body against injury, granting her flesh a measure of the 
+same inviolability as that which her Exaltation has imbued into the bones beneath.
+System: Reflexively spending 1 Mote allows the Heart-Eater to change her soak calculation to 
+(Stamina + Appearance + armor’s Soak value) for the rest of the scene.
+Death-Evading Glissade (••)
+The Heart-Eater senses the greatest point of tranquility in the storm of battle and moves to be 
+there, narrowly avoiding her foes’ aggressions.
+System: Reflexively spend 1 Mote to activate this Charm. For the next (Appearance rating) 
+rounds, all attacks directed at the Heart-Eater must discard one rolled success, and all attacks by 
+antagonists must roll one more success than they otherwise would before adding a point to the 
+attack’s damage (usually meaning that attacks must roll three successes per point of damage 
+added). Finally, all group attacks directed at the Exalt while this Charm is active do not add Size 
+to their Expertise pool or base damage.
+Paranoid Frenzy Eruption (••)
+When the Heart-Eater’s suspicion that the world is out to get her finally bears fruit, all of the 
+violent readiness she has stored up within bursts out in a shocking torrent, helping her get the 
+drop on her enemies.
+System: The Heart-Eater may reflexively spend 1 Mote to cut ahead and attack before any of her 
+opponents for the next (Appearance rating) rounds.
+Thousandfold Ribbons of Light (••)
+The Heart-Eater solidifies strands of her anima into gorgeous ribbons of coherent light, nimble as 
+the wind and sharp enough to split worlds.
+System: Reflexively spend 1 Mote. For the rest of the scene, the Heart-Eater may lash out with 
+her ribbons against targets up to one zone away, making Brawl, Martial Arts, or Melee-based 
+attacks which inflict a base damage of 6L. This damage is aggravated against anyone on her 
+Litany of Grudges.
+Unbridled Gala Aggression (••)
+The Heart-Eater may cast an illusion of peaceful elegance over the most furious carnage and 
+bloodshed. She may conceal a raging battle with a group of Dragon-Blooded as a ballroom dance 
+or a murderous pursuit as a good-natured footrace; only the participants see through to the truth.
+System: Reflexively spend 1 Mote to entangle a scene of violence in a concealing shroud of 
+Essence that weaves it into the normal goings-on of the world. Those not involved cannot 
+perceive the battle as anything alarming unless they suffer a direct injury from it. Essence-users
+can make a Perception + Awareness roll against difficulty 8 to see through the illusion if one of 
+their interests or allies is directly threatened, but are otherwise as blinded as the mortals around 
+them.
+Bright Claw (•••)
+The Heart-Eater concentrates her anima around one hand until it becomes a luminescent, deadly 
+claw, then lashes out at her enemy’s heart.
+System: Spend 1 Mote, 1 Willpower and make an unarmed attack. This attack inflicts 
+aggravated damage. If the target harbors strong positive feelings toward the Heart-Eater, the 
+attack’s base damage is 9A, and it is unblockable; antagonists reduce their Defense by –2. 
+Denying the truth of her betrayal is still effective, and so dodging isn’t penalized, but attempting 
+to dodge (or, for an antagonist, deciding not to suffer the –2 Defense penalty) also prevents the 
+attempted murder from negatively impacting the target’s feelings toward the Exalt. If the Exalt 
+kills a target with this Charm, she does so by ripping his heart out of his chest. If she chooses to 
+spend a turn eating the heart, she heals a number of levels of damage equal to the deceased’s 
+Essence rating.
+Heart-Eaters and Black Claw Style
+Canny observers may notice some unsettling similarities between the battle-arts of 
+the Heart-Eaters and Black Claw Style. It’s difficult to say whether this raises more
+uncomfortable questions about the true origins of that sinister Martial Arts style, or 
+about the nature of the Heart-Eaters’ ancient act of treachery.
+Flower Storm Tyrant (•••)
+For a moment, the Heart-Eater splits into a prismatic flurry of deadly blows and graceful slashes, 
+enshrouded in the fog of her anima. When she resolves back into herself, she does so alone 
+among the corpses.
+System: Reflexively spend 2 Motes, 1 Willpower. The Heart-Eater may take a second turn after 
+all other characters have acted, which must be used to launch an attack at a target of her choice. 
+She may not move on this turn. Anyone who attacks her in the space between her first turn and 
+her second automatically becomes a target of the second attack, in addition to her originallychosen target; roll a single attack against the highest Defense of any target involved.
+Alternately, spend 1 Mote and use the Heart-Eater’s turn to launch an attack against a battle 
+group. If successful, it adds (higher of Performance or Presence) successes to its damage roll.
+Heart With Teeth (•••)
+Matching the beat of her heart to that of someone trying to kill her, the Exalt falls into a rhythm 
+of perfectly matched violence, gracefully avoiding every killing blow and maneuvering herself 
+into the perfect position for a lethal response.
+System: Reflexively spend 1 Mote and 1 Willpower to activate this Charm. For the next 
+(Appearance rating) rounds, the Heart-Eater’s Dodge value may be calculated as (5 + higher of 
+Empathy or Socialize). If this would raise her Defense above 9, her attackers are forced to 
+discard one success from their attacks. Additionally, each result of 1 rolled on attacks against her 
+subtracts one from that attack’s base damage while this Charm is active.
+If the Heart-Eater successfully dodges an attack while using this Charm, then her next attack 
+against that opponent during the current scene is made at –1 difficulty.
+Roses of the Battlefield (•••)
+Shedding Essence along with her blood, the Heart-Eater brings forth a field of gorgeous flowers 
+in a multitude of soft pastel shades. Those who stand against her may either lay down their arms 
+in the face of beauty… or be destroyed by it.
+System: Upon suffering lethal or aggravated damage from any source, the Heart-Eater may 
+reflexively spend 1 Mote. Wherever her blood falls, multitudes of beautiful flowers immediately 
+spring forth, softly glowing in all the hues of the boreal lights. For the rest of the scene, anyone 
+who targets the Heart-Eater with an attack immediately provokes a storm of petals to rise up 
+from the flowers and whirl about him. These petals are razor-edged, forcing the aggressor to 
+soak the Heart-Eater’s Essence rating in levels of lethal damage. The flowers exhaust their 
+retributive strength after delivering a number of counterattacks equal to the Exalt’s Performance 
+rating (minimum 1), at which point the Charm deactivates.
+The Heart-Eater may have only one instance of Roses of the Battlefield active at a time, but after 
+the Charm ends, it can be reactivated during the same scene. This requires that she receive a 
+fresh injury to trigger it, however.
+Thousand Petals Evasion (•••)
+In the moment before an attack would strike her, the Heart-Eater erupts momentarily into 
+thousands of multihued petals, allowing the blow to pass harmlessly through her.
+System: Once per scene, when faced with an attack or similar form of danger, the Exalt may 
+declare that she perfectly dodges it. The attack fails to strike her without any further dice rolls. 
+This defense cannot be invoked against unexpected attacks.
+The Heart-Eater may reset the limitation of this Charm and make it available again by devouring
+someone’s heart with Bright Claw.
+Hardship-Overcoming Charms
+Ox-Body Technique (•)
+The Exalt’s body is fortified to withstand the rigors of a hostile world.
+System: The character permanently gains an additional set of (–0) and (–1) health levels.
+This Charm can be purchased a number of times equal to the higher of the character’s Stamina or 
+Appearance rating.
+Hunted Hare Method (•)
+The Heart-Eater’s Essence surges in response to danger, propelling her to safety.
+System: The Heart-Eater’s jumping distance and height is tripled. If leaping to escape from 
+danger, the Heart-Eater increases her jumping distance or height fivefold. In combat, she can 
+easily relocate to zones above her without recourse to complex movement.
+Killing Frontier Survival Exercise (•)
+The Heart-Eater fortifies herself to become a part of the harsh frontiers of her exile. Wild 
+predators avoid her. Savage landscapes reveal to her their hidden bounties.
+System: The Heart-Eater needs never make a Survival roll to remain safe, comfortable, and fed 
+in the wilderness. If she establishes an Awakened Essence Lair in a hostile environment, then 
+while inside of it she is completely immune to any resulting environmental damage such as 
+deadly cold, extreme heat, or even toxic fumes or lava flows.
+Nightmare-Seducing Smile (•)
+The Heart-Eater strives to fascinate the mercurial whims of the Wyld, convincing it to spare her 
+from its touch by captivating the tides of chaos with the glory of what she is rather than what she 
+might be.
+System: Upon activating this Charm, the Heart-Eater’s maximum Mote pool capacity is reduced 
+by one, but she gains complete protection from being transformed in mind, body, or spirit by the 
+Wyld. She may sustain Nightmare-Seducing Smile for a number of days equal to her Essence 
+rating, at which point she must make a difficulty 8 Appearance + Presence roll. Success grants 
+her another (Essence) rating days of protection, after which she has to roll again. Failure means 
+she cannot sustain the tension in her Essence any longer. The Charm immediately ends, and can’t 
+be reactivated for the rest of the current story.
+Sky-Witch’s Grace (•)
+The Heart-Eater can walk upon snow without disturbing its crust, or stand elegantly upon a 
+spiderweb. Her balance and poise are immaculate and flawless, preserving her dignity in any 
+situation.
+System: The character needs never roll to maintain her balance, no matter how precarious her 
+footing, and may stand or run upon even the weakest or most insubstantial of surfaces, such as 
+falling leaves, individual threads, drops of rain, or even the surface of water. Reflexively 
+spending 1 Mote allows her to run and stand upon walls or even to cling to ceilings for the rest of 
+the scene.
+Agony-Cherishing Clutch (••)
+Holding her pain tight to her spirit, the Exalt feeds her suffering to her bitter heart, nourishing 
+herself and escaping from its consequences.
+System: Reflexively gain 1 Limit to ignore all wound penalties for the rest of the scene.
+Paranoia Well Rewarded (••)
+The constant simmering tension that is the Heart-Eater’s eternal companion suddenly winds up 
+to a shrieking crescendo, sending her into high alert in the moment before true peril descends 
+upon her.
+System: The Heart-Eater automatically notices ambushes or other unexpected attacks, allowing 
+her to defend against them as normal. Each time this Charm forewarns her of such danger, she 
+gains 1 Limit.
+Sanctity of Self Assertion (••)
+The Heart-Eater asserts her fundamental right to exist in the face of a hostile universe, fortifying 
+herself with Essence.
+System: Whenever the character is the subject of any supernatural power that seeks to transform, 
+infect, taint, transport, or control her body or spirit, or to alter her destiny or her place in the 
+world (such as by magically altering her Backgrounds), she may reflexively spend 1 Mote and 
+roll Wits + Occult against difficulty 7. Success shatters the hostile magic, protecting the Solar
+completely, and immunizes her against repeated attempts to exert the same sort of influence for 
+the rest of the scene. If within her Awakened Essence Lair, this Charm costs no Motes and is 
+rolled against difficulty 6.
+Tarnished Chalice Preparation (••)
+Refining her bitterness into a transcendental flux within herself, the Heart-Eater may wield her 
+gall as a defense with which to burn out any lesser poison or malady.
+System: The Exalt may reflexively gain 1 Limit to neutralize any poison or disease.
+Regalia of Light and Shadow (•••)
+The Heart-Eater can put on a burst of speed, darting into the shadows in response to danger or 
+displaying the lost glory that was once her birthright.
+System: The Heart-Eater may pay 1 Mote to double her movement speed for the rest of the 
+scene. The difficulty of all actions to run someone down or get somewhere quickly are lowered 
+by two.
+If in danger, then on her turn she can spend 1 Mote, using her action to immediately flash to any 
+location within (Appearance rating) zones so long as it is a shaded or cluttered spot where she 
+might easily conceal herself. Once there, she can make a reflexive Stealth attempt to vanish, if 
+she wishes. This is super-fast movement, not teleportation: the Exalt has to actually be able to 
+reach the place she wants to go.
+Alternately, the Heart-Eater may spend 2 Motes on her turn to put on an identical burst of superspeed, save that it can terminate anywhere she wants within (Appearance rating) zones, she can 
+take one action of her choice upon getting there (such as making a speech or attacking), and a 
+vast unfolding lotus of multihued light erupts at the point of her departure, dazzling everyone in 
+the zone who fails to make a reflexive (Wits + Awareness) roll against difficulty 8 to look away 
+from its brilliance. Dazzled individuals suffer a –2 penalty to all actions for (Heart-Eater’s 
+Essence rating) turns.
+Shamming Hawk Draws the Snake (•••)
+The Heart-Eater substitutes grace for fortitude, dazzling the world to convince it that she is a 
+treasure which must be preserved. When nearly struck down regardless, her near-defeat 
+confounds her foes and puts them in her power.
+System: When unarmored, the Heart-Eater may calculate her soak pool as (Charisma + 
+Appearance + armor’s Soak value), but if she applies this calculation and suffers damage 
+regardless, she gains a point of Limit.
+Moreover, if the Heart-Eater is subjected to damage that would have filled her Incapacitated box 
+had she not soaked it, then she may reflexively spend 1 Mote to hurl herself to the ground, her 
+blood adorning her in an artistic arrangement, and appear to be very convincingly unconscious or 
+dead according to her preference. She then targets the enemy most directly responsible for her 
+“death” with an Appearance + Presence roll against difficulty (9 – target’s Empathy; in the case 
+of antagonists, just assign them an Empathy rating on the spot). Success causes them to, in a 
+moment of sudden horror, realize the magnitude of the crime they’ve just committed and the 
+scope of the beauty now removed from the world. They are forced to gain a temporary Intimacy 
+of some kind related to the Heart-Eater’s “defeat” or “demise,” either of sorrowful remorse for 
+what they’ve done, or infatuation with or admiration for the defeated Exalt (target player’s 
+choice). This temporary Intimacy lasts until the end of the current story.
+Mental and Utility Charms
+Acute Paranoia Principle (•)
+Cast adrift into a hostile world, the Heart-Eater sharpens her senses to impossible levels, the 
+better to watch for inevitable danger. She can hear a person’s heartbeat from rooms away, read a 
+sheet of paper by letting her fingers trail across the ink on it, and count the hairs on a fly’s legs 
+from across a room.
+System: The Exalt must spend a turn in concentration to activate or banish this Charm. While it 
+is active, the difficulty of all Perception rolls drops by –3, to a minimum of difficulty 3. When in 
+her Awakened Essence Lair, the Exalt may clearly hear anything said anywhere within the Lair, 
+even whispers.
+Auroral Phantasm Conjuration (•)
+When the Heart-Eater presents an artistic performance, recites a tale, or allows herself to be 
+swept up in her own passions while her anima is flaring, she calls forth beautiful, shimmering, 
+and clearly unreal shapes and sounds to accompany her words and actions. She might conjure 
+phantasmal backup singers to accompany a song, dream forth opponents to react to her shadowboxing, or punctuate an attempt to intimidate someone by having her anima curdle into a falling 
+sheet of dripping blood.
+System: This Charm is active whenever the Exalt’s anima is flaring. Creative use of Auroral 
+Phantasm Conjuration can lower the difficulty of some social actions by one when accompanied 
+by a dramatic stunt at the Storyteller’s discretion; it is otherwise simply a means of visual 
+emphasis and roleplaying.
+Hated Nemesis Pursuit (•)
+Once someone has wronged a Heart-Eater, they are never safe from her retribution. She may 
+track a miscreant anywhere across the face of the Earth.
+System: The Exalt may spend 1 Mote to perfectly track anyone on her Litany of Grudges for the 
+next 24 hours. No roll is needed.
+Heart-Splitting Blade (•)
+Sometimes it’s easier not to care. Sometimes it’s vital not to care. The Heart-Eater places a hand 
+over her heart, forges an invisible blade of her Essence, and in one excruciating moment, severs 
+a part of herself.
+System: Spend 1 Mote. The Heart-Eater immediately terminates one emotional connection of 
+her choosing. If hatred for someone was consuming her life, she no longer cares about him. If 
+she was afraid of a ghost, now she isn’t. If her love for someone was clouding her judgment, that 
+passion becomes ashes in an instant. This Charm can be used to destroy an Intimacy once per 
+story (the Exalt can gain a new one to replace it at the beginning of the next story), to instantly 
+destroy a condition of magical servitude such as that forged by Irresistible Succubus Style, or to 
+sever any other ongoing emotional manipulation effect.
+Lore-Gorging Glutton (•)
+It is unthinkable that an exile could linger long in any respectable library before being 
+discovered. The Heart-Eater learns to gobble down wisdom like a starved beast, and to digest it 
+in safety later.
+System: Gain 1 Limit. For the rest of the scene, the Heart-Eater may read and memorize
+information as fast as she can track her eyes across the page. Books can be consumed in 
+moments. The Exalt cannot actually understand or recall any data gained in this fashion until she 
+has returned to her Lair and slept for eight hours, giving the information a chance to unpack and 
+arrange itself in her mind.
+Never-Idle Worrier’s Crafts (•)
+The Heart-Eater lets the fears of a hostile tomorrow hurry her efforts today, speeding along her 
+efforts to create that which she needs or repair that which she depends on.
+System: The Heart-Eater can work three times faster than normal when creating, modifying, or 
+repairing something. While within her Lair, she may work five times faster than normal.
+Righteous Lion Defense (•)
+The Heart-Eater guards well her own heart, girding it in armor of Essence so that it becomes 
+inviolate.
+System: Any attempt to cause or force the Exalt to betray, undermine, or abandon her Intimacies 
+automatically fails.
+World-Interrogating Secret (•)
+The Heart-Eater smears her blood upon an inanimate object, briefly imbuing it with spiritual life
+so that she can question it before it falls back into eternal quiescence.
+System: Spend a turn anointing the object and suffer one level of lethal damage. The Heart-Eater 
+may then ask the object three questions, which it will answer to the best of its ability. Objects 
+only know about things that have happened in their immediate surroundings, which have 
+happened to them directly, or which concern their use, so asking a knife who used it to murder 
+Nellens Vandar (“a tall, severe-faced man in a slouch hat, who never picked me up before that 
+day”) or when it was last sharpened (“many years ago; I could do with it again, you know”) 
+would be profitable uses of this Charm, but asking it for advice on planning an assassination is 
+unlikely to produce profound insights (“you could try sticking me into someone’s heart!”).
+Mended Better Than New (••)
+The Heart-Eater anoints the wounded with her blood and Essence, restoring their health and 
+vigor with unnatural speed.
+System: After a mere scene of treating and ministering another character, the Heart-Eater may 
+spend 1 Mote, suffer one level of lethal damage, and roll Intelligence + Medicine against 
+difficulty 6. Her patient heals one lethal or two bashing damage per success. If in her Awakened 
+Essence Lair, she doesn’t need to suffer damage to use this Charm, instead conjuring the remnant 
+power of her blood up from the very wood and stones.
+The Heart-Eater may, upon healing someone with this Charm, learn exactly how her patient
+regards her: whether he thinks of her as a friend, enemy, or stranger; whether he harbors secret 
+longing for her; if he secretly resents or despises her; and so on. Alternately, she may forfeit this 
+insight to lower the difficulty of the healing roll to 5.
+Fearsome Affront Transcription (••)
+Recognizing the spidery touch of someone else’s fingers upon her mind, the Heart-Eater breaks 
+the offending digits and makes of them pens to scribe the trespass upon her heart.
+System: Reflexively gain 1 Limit in response to thought-altering or mind-controlling magic to 
+become immune to it for the rest of the scene. The responsible party’s name is immediately 
+enshrined on the Litany of Grudges.
+Nerve-Steadying Focus (••)
+The Heart-Eater reaches deep into the core of her Essence to fortify her will, and pays the price 
+for touching that defiled pool.
+System: Reflexively gain 1 Limit. For the rest of the scene, Willpower rolls are not subject to the 
+rule of 1s, and count results of 10 as two successes.
+Object-Awakening Anointment (••)
+The Heart-Eater smears her Essence-rich blood onto an object, granting it a ghastly parody of life 
+and animation. It then acts as she bids.
+System: Suffer one level of lethal damage to animate an object for the rest of the scene. Animate 
+objects can move and twist within reason: a chair could gallop, a door slam, a suit of armor jump 
+up and fight. Animated objects act with Expertise pools equal to three times the Exalt’s Essence 
+(maximum of 10) and Utility pools of 2. They have Aptitudes for “doing chores,” “obeying 
+instructions,” and “fighting to protect the master,” along with anything else their form might 
+suggest (such as “playing Gateway” for an animated Gateway board). Large objects also have an 
+Aptitude for “feats of strength.” Objects have a base damage of 0-1, and 0-2 soak, depending on 
+their sturdiness, and can suffer damage equal to the Exalt’s Essence rating before falling inert.
+If used within the Heart-Eater’s Awakened Essence Lair, the object remains animated for so long 
+as the Lair is empowered and the object stays within.
+Somnolent Lullaby (••)
+The Heart-Eater layers peaceful Essence into her voice, putting listeners to sleep.
+System: The Heart-Eater sings, spends 1 Mote, then rolls Charisma + Performance against 
+difficulty 6. Anyone who listens to her song for at least five consecutive minutes must make a 
+Willpower roll, also at difficulty 6, and gain more successes than the Exalt did or fall asleep for 
+one hour per success by which the Heart-Eater won the contested roll. He cannot be roused by 
+anything shy of a cacophonous sound or being physically shaken or injured.
+Within the Heart-Eater’s Lair, it takes only a full turn of singing before Somnolent Lullaby takes 
+effect.
+Cunning Witch Studies (•••)
+The Heart-Eater plumbs the fractured depths of her past-life memories, dredging up scraps and 
+bright dregs of knowledge about the finer points of sorcery. This allows her to optimize its 
+practice.
+System: Upon purchasing this Charm, the Heart-Eater lowers the difficulty of all shape sorcery 
+rolls by–1.
+Fortuitous Omen Insight (•••)
+In the depths of her Lair, the Heart-Eater may sink into contemplation of one who has wronged 
+her and offer up a sacrifice of Essence to the forbidden darkness of the cosmos. In return, it 
+grants her the secret key to her foe’s heart.
+System: While in the Heart-Eater’s Awakened Essence Lair, spend 3 Motes and roll Perception 
++ Occult against a difficulty of the target’s (Manipulation + Socialize). The target must be 
+someone named on the Heart-Eater’s Litany of Grudges. Success reveals a prize the target will 
+give anything to attain. This may be as simple as a certain sum of money or as daunting as 
+bringing a loved one back from the dead. The Heart-Eater is in no way guaranteed to be able to 
+provide the price for which the target will betray all he holds dear. But she at least knows that 
+price.
+Knight-Forging Enchantment (•••)
+Given a mortal’s heart, the Exalt may imbue it with some of her blood and power and return it as 
+a talisman of terrible strength, making him into her ardent knight.
+System: The Heart-Eater may respond to a mortal’s declaration of love, admiration, devotion, or 
+friendship by kissing him upon the hand, forehead, lips, or chest and spending 3 Motes. The 
+mortal feels an immediate surge of power and affirmational pleasure. In his dreams during the 
+next seven nights, he finds himself tutored by nameless phantoms in the arts of protecting and 
+promoting the interests of the Exalt. He gains an Expertise pool of 9 dice, and aptitudes in 
+“Defending the Heart-Eater,” “Acting as the Heart-Eater’s companion,” and “Amusing the 
+Heart-Eater with artistic performances.” This pool only functions when performing those 
+Aptitudes; otherwise, he retains his normal Expertise pool.
+If a mortal protagonist Knight-Forging Enchantment’s dream training, then after seven nights 
+they may purchase three dots of the Physical Attributes, Appearance, Wits, Awareness, 
+Athletics, Brawl, Melee, Presence, Performance, or Socialize as though they were Favored 
+Attributes or Abilities. These dream-granted dots only apply when working to defend the HeartEater, promote her interests, or do her bidding. This Charm can be used on the same mortal 
+protagonist repeatedly.
+An enchanted knight can be further enhanced so that his phantom dots become applicable in all 
+situations. This requires him to permit the Heart-Eater to anoint his forehead with an occult sign, 
+scribed in her blood (she must suffer a level of lethal damage and spend another 1 Mote in the 
+process). This also binds his soul to the Heart-Eater. He now loves her unconditionally and 
+permanently, gaining an inviolable Intimacy to that effect; this bond can only be superseded by 
+effects that could force a character to violate his Nature.
+Staring Into Darkness (•••)
+The Heart-Eater sinks into the deepest threads of her chronic anxiety, nesting her consciousness 
+at the point where raw nerves touch the cosmic truths of a universe full of hostile blades. 
+Through such heightened tension, she gains the ability to pick out the presence of potential 
+enemies.
+System: Reflexively spend 1 Essence. Until the sun next rises or sets, the Heart-Eater becomes 
+aware when she stands in the presence of any supernatural being, though she doesn’t inherently 
+know what sort of supernatural being any given individual may be. She also doesn’t know who
+in her presence is a supernatural entity, simply that someone is. If used in the presence of other 
+known supernatural beings (i.e. her Circlemates), she may learn to filter them out so they don’t 
+blind this Charm with false positives.
+Lair Charms
+Border-Sealing Edict (•)
+The Heart-Eater makes an arcane gesture whose meaning has long-since been lost. All exits from 
+her Lair cease to exist.
+System: While within her Awakened Essence Lair, the Exalt spends 1 Mote and a turn making a 
+gesture. Until she uses this Charm again or dies, all of her Lair’s possible exits vanish, and its 
+boundaries become indestructible, at least from the inside. The Lair can still be entered, although 
+whatever means was used to do so vanishes as soon as the intruder steps inside of a sealed Lair.
+Cradle of Wood and Waves (•)
+The Heart-Eater may claim a moving vehicle for her Awakened Essence Lair, such as a 
+conestoga wagon, or a cabin or hold in a ship.
+System: This Charm permanently expands the range of spaces that might be claimed as a Lair.
+In combination with Deadly Witch Labyrinth, it could facilitate the claiming of an entire 
+merchantman or other large ship.
+Dry Eyes Unblinking (•)
+The Heart-Eater learns to do without the false panacea of sleep, preferring to keep her eyes on 
+the door so that her enemies may not catch her unawares, even within her hidden sanctuary.
+System: While within her Awakened Essence Lair, the Heart-Eater does not need to sleep and 
+never suffers penalties due to fatigue.
+Enduring Home Reassurance (•)
+The Heart-Eater may enact a more powerful consecration upon her Awakened Essence Lair, 
+making it last far longer without the need for active renewal.
+System: By spending a point of Willpower while establishing or renewing a Lair, the HeartEater causes it to endure for a year rather than 28 days.
+Final Bolthole Technique (•)
+In extremis, the Heart-Eater may sacrifice her very lair to save herself from defeat, leaving its 
+mystic connections to collapse behind her even as she is carried to safety.
+System: When the Heart-Eater’s Incapacitated health box should be marked off with damage 
+while within her Lair, she may reflexively sacrifice her connection to her Lair to initiate an 
+escape. She does not mark down any damage from the attack or injury that should have felled 
+her, and is instantly shunted into the geomancy of Creation, to be deposited at the edge of a 
+nearby place of power.
+Home Secret Home (•)
+The Heart-Eater may take special care when first anointing or renewing her Lair, scribing sacred 
+blood-sigils on all of its entrances which hide it from the eyes of strangers.
+System: When establishing or renewing an Awakened Essence Lair, the Heart-Eater may suffer 
+one additional level of lethal damage to hide the location from the world. If the Lair is an entire 
+structure, then strangers simply overlook its basic presence. If it’s a smaller part of a larger 
+building, such as a wing of a Manse, then uninvited guests can’t find any doors or other means of 
+entry. Someone who knows where the Lair is and has business with its occupant (such as a 
+landlord seeking rent) can make a difficulty 8 Perception + Awareness roll to find the occulted 
+location. Otherwise, nobody can find the Lair unless they witness the Heart-Eater entering it or 
+she has invited them inside.
+Split Heart Gambit (•)
+Dividing her focus, the Heart-Eater expands the range of her territory.
+System: The Heart-Eater may claim up to two separate Awakened Essence Lairs at the same 
+time, though maintaining upkeep on them both may prove to be a drain upon her resources. At 
+Essence 4+, she may maintain up to three Lairs with this Charm.
+Deadly Witch Labyrinth (••)
+The Heart-Eater can claim an enormous space as an Awakened Essence Lair.
+System: The Exalt may claim spaces up to the size of a palace, sprawling manor estate, entire 
+farm, cottage and a few acres of surrounding land, modestly large cave system, or entire Manse
+as her Lair. Doing so takes a week of attunement, and costs four levels of lethal damage and 5 
+Motes. Overwriting an active Lair with a new one of this size ups the cost to 8 Motes and 3 
+Willpower.
+Renewing the Lair’s power takes an entire day of work, two levels of lethal damage, and 3 
+Motes.
+Entangling Clutter Offensive (••)
+Those who fight a Heart-Eater within her Lair find that the very environment strives to confound 
+them and to aid its mistress. Their feet trip over rug-creases and stray books, their hips bash 
+against furniture as they attempt to dodge, and anything from billowing curtains to reflected 
+beams of sunlight foul their sight when trying to aim at the Exalt.
+System: All attacks directed at the Heart-Eater within her Lair increase their difficulty by one. If 
+this would raise an attack’s difficulty above 9, it loses one success. Anyone fighting the HeartEater in her Lair also lowers their Defense by one.
+Environmental Interposition Defense (••)
+The Heart-Eater may call upon her bond with her Lair to protect herself. Blows that would 
+shatter her bones or split her flesh instead provoke eruptions of paper from nearby bookshelves, 
+or pulverize floorboards several feet away.
+System: The player may reflexively spend 1 Mote, 1 Willpower after the character is struck by 
+an attack, but before damage is rolled. The Heart-Eater negates the damage roll and suffers no 
+damage; instead, her Lair suffers the damage on her behalf. This Charm can only be used when 
+inside the character’s Awakened Essence Lair, and can only be used once in each zone of the 
+Lair without first making repairs to the area. Alternately, the Exalt may invoke this Charm at no 
+Mote or Willpower cost, instead destroying her connection to her Lair altogether to power its 
+activation.
+Home and Halberd (••)
+The Heart-Eater connects herself to every element of her Lair, gaining absolute sovereignty over 
+it.
+System: The character spends 1 Mote and winds the Essence of her Awakened Essence Lair 
+through her heart. So long as she continues to commit her attention to the attunement, she can 
+simultaneously perceive everything happening in the Lair, although without much focus; or can 
+focus in on events in one particular location in great detail, at the cost of shutting everything else 
+out while doing so. She can also control all of the Lair’s windows, doors, and locks. The Exalt 
+suffers a –2 penalty to all other actions than controlling her lair while this Charm is active. Its 
+effects last until she releases her concentration upon it.
+Invisible Scenery Spirit (••)
+The Heart-Eater blends her anima into her Lair, becoming indistinguishable from it.
+System: By standing still and silent within the confines of her Awakened Essence Lair, the 
+Heart-Eater becomes functionally invisible and impossible to notice. This obscurity remains in 
+place so long as she doesn’t move or make noise. Spending 1 Mote allows her to slowly move 
+about unnoticed for the rest of the scene, so long as she doesn’t make some sort of loud noise or 
+take blatant action such as attacking or slamming a door.
+Sanctuary of Blood and Souls (••)
+The Heart-Eater’s wounds recover at a vastly accelerated rate when she rests within her 
+Awakened Essence Lair.
+System: So long as she takes no strenuous activity, the Heart-Eater heals all bashing damage or 
+one level of lethal damage per 30 minutes of rest within her Lair. An hour of rest mends one 
+level of aggravated damage.
+Forging the Final Refuge (•••)
+The Heart-Eater reaches into her chest or down her own throat and draws out her red and 
+dripping heart. Embedding it into the substance of her Awakened Essence Lair, she transforms it 
+into a place of profound power.
+System: This Charm is a ritual taking fifteen minutes to perform, during which the Heart-Eater 
+creates a secure hiding place somewhere in her Lair (such as beneath its floorboards), 
+consecrated with blood and protected by whispered spells, and then extracts her heart and seals it 
+up within the hidey-hole. This costs 5 Motes, 1 Willpower, and inflicts three levels of unsoakable 
+aggravated damage.
+The Heart-Eater’s lair immediately becomes a Demesne with a rating equal to her Essence 
+rating. The Lair is no longer subject to decay, and does not need ritual maintenance to extend its 
+duration. It will last forever, so long as the Exalt’s heart remains embedded within it.
+Searching the Lair for the Heart-Eater’s heart is a difficult process, requiring 15 successes on an 
+extended Perception + Investigation roll against difficulty 9, made at one-hour intervals. Anyone 
+who gains control of the Exalt’s heart may compel her obedience to any commands they issue, or 
+may strike her instantly dead by destroying the heart.
+The Exalt may reclaim her heart by swallowing it. If the heart is taken from its hiding place, the 
+Lair is stripped of all benefits bestowed by this Charm.
+Infinite Retribution Salon (•••)
+The Heart-Eater intwines her killing intent into her Lair, such that it strikes back at anyone who 
+dares to strike her.
+System: Spend 1 Mote reflexively to activate this Charm. Until the end of the round, the HeartEater’s lair responds to every attack against her by launching a reflexive counterattack after the 
+attack resolves. This takes the form of furniture flying across the room, heavy books leaping off 
+of shelves, knives flying out of the kitchen, and so on. Each counterattack is made with a pool of 
+the Heart-Eater’s (Manipulation + Presence) and inflicts a base damage of 4B or 4L, depending 
+on the nature of the attack. Because these attacks are made by the Lair and not the Heart-Eater, 
+they cannot be enhanced by Charms. Infinite Retribution Salon can only be used in the HeartEater’s Awakened Essence Lair.
+Ritual Bloodletting Circle (•••)
+Before she settles down for the night, the Heart-Eater bleeds in a circle around herself and 
+charges the space with Essence, forging a brief connection to her Awakened Essence Lair.
+System: Suffer one level of unsoakable lethal damage to use this Charm. When the Heart-Eater 
+is inside of this consecrated circle, which may be large enough to encompass the middle of a 
+zone (generally, the space around a bed, campfire, or sleeping roll), she is considered to be 
+within her Awakened Essence Lair. If she sleeps in the circle, she may regain Willpower.
+Exposing a fragment of her Lair to the world leaves the Heart-Eater feeling intensely vulnerable. 
+If anyone witnesses her within her circle of consecrated blood, she immediately gains a point of 
+Limit and places them on the Litany of Grudges.
+Refuge Charms
+The following Charms may only be learned and used if the Heart-Eater knows the Charm 
+Forging the Final Refuge.
+Entrancements of the Heart (•)
+The Heart-Eater refines the interplay of her heart and hearth, enchanting her Lair and making it 
+into a place that beguiles and enslaves those who accept her hospitality.
+System: This Charm permanently improves Forging the Final Refuge. An Awakened Essence 
+Lair enhanced with that Charm becomes layered with subtle fascinations. Those who partake of 
+its hospitality by eating a meal or sleeping within its boundaries must succeed at a Willpower roll 
+against difficulty (4 + the Exalt’s Essence rating), or else fall prey to a compulsion to linger in 
+the Lair as long as the Heart-Eater wishes them there, and to assent to her requests while under 
+her roof. Protagonists may shake off this influence for a scene by spending 2 Willpower, while 
+antagonists must reduce their Resolve by 2 for the rest of the story to do the same.
+Guarding the Heart (•)
+The Heart-Eater refines the interplay of her heart and hearth, fortifying her Lair against both 
+discovery and attack.
+System: This Charm permanently improves Forging the Final Refuge. An Awakened Essence 
+Lair enhanced with that Charm gains increases the difficulty of all rolls to locate or break into it 
+by the Heart-Eater’s Essence rating, and its interior is filled with magical traps which are 
+difficulty (4 + Heart-Eater’s Essence rating) to avoid, inflicting a base damage of her Essence 
+rating.
+Maze of the Heart (•)
+The Heart-Eater refines the interplay of her heart and hearth, expanding the scope of her 
+Awakened Essence Lair.
+System: This Charm permanently improves Forging the Final Refuge. An Awakened Essence 
+Lair enhanced with that Charm becomes bigger on the inside, growing new rooms and 
+appointments according to the Heart-Eater’s will and desire. These unreal spaces are always 
+stylistically congruent with the rest of the Lair, having the same general architectural style, types 
+of furnishings, and the like, but may otherwise occupy any configuration or contents that strike 
+the Exalt’s fancy. They may increase the Lair’s size by up to three times its original scope and 
+are utterly inaccessible from outside of the Lair.
+If the Heart-Eater also knows Split Heart Gambit, she may use these internal additions to connect 
+her disparate Lairs together, creating doors and hallways that connect one Lair to another 
+regardless of the space between.
+Voice of the Heart (•)
+The Heart-Eater refines the interplay of her heart and hearth, granting her Lair a mind and a 
+voice.
+System: This Charm permanently improves Forging the Final Refuge. An Awakened Essence 
+Lair enhanced with that Charm becomes aware and communicative. It knows everything that 
+transpires within its various rooms and spaces, and can understand the Heart-Eater’s words and 
+communicate with her by whispering in her ear wherever in the world she may be.
+Social Charms
+Acorn-Coveting Fascination (•)
+The Heart-Eater may imbue an object or idea with her Essence, and thence beguile anyone into 
+doing almost anything to possess it.
+System: The Heart-Eater spends 1 Mote to invest a mystical allure into a service or item, then 
+roll (Manipulation or Appearance) + Empathy against a difficulty equal to the target’s Willpower 
+to convince them that they need it. She can raise or lower the fundamental value of whatever 
+she’s trying to sell in the target’s eyes by a factor of (1 + successes rolled), to a bare minimum of 
+making worthless objects seem to be worth Resources •. This Charm can also increase the 
+market value of the Heart-Eater’s services, or those of others. 
+Acorn-Coveting Fascination doesn’t force the target to accept a deal, only to re-evaluate its 
+reasonable worth; it also doesn’t mystically enforce any agreements made under its auspices. Its 
+enchantment fades after the Heart-Eater’s (Essence rating) hours, at which point the target may 
+very well realize they’ve been swindled.
+Cold Light of the Heavens (•)
+When the Heart-Eater’s anima is flaring, her eyes glow with an otherworldly and terrible 
+radiance, and deep shadows draw themselves across her features. She seems taller, grander, and 
+cloaked in all the forgotten fears of childhood.
+System: The Heart-Eater permanently reduces the difficulty of all intimidation attempts while 
+her anima is flaring by two.
+Joyous Exhalation (•)
+Drawing up refined Essence from her lungs to her mouth, the Heart-Eater exhales a gleaming, 
+nacreous cloud of slightly hallucinogenic bliss. Those who breathe it in become cheerily 
+incoherent, distracted by pleasant thoughts and visions, and highly vulnerable to suggestion.
+System: The Exalt spends 1 Mote and exhales a cloud that envelops everyone within the same 
+zone. Those affected become euphoric and highly suggestible for the rest of the scene; they must 
+spend one point of Willpower to avoid going along with any pleasant-sounding suggestion that 
+doesn’t violate their Nature. While they can fight back if attacked, they won’t initiate any 
+aggressive actions of their own accord, and suffer –1 die to all combat rolls. Essence-users can 
+make a Willpower roll against difficulty (4 + Heart-Eater’s Charisma) to throw off the Joyous 
+Exhalation’s influence. Those who need not breathe are immune to it.
+Smile-Restoring Instinct (•)
+The Heart-Eater becomes intensely sensitive to rejection, mistrust, or any other tiny signals of 
+social disapproval, and instinctively grasps exactly the right thing to say to put things to rights.
+System: Spend 1 Mote to re-roll any Empathy, Presence, Performance, or Socialize roll, keeping 
+the preferred result.
+Smooth Words Style (•)
+The Heart-Eater instinctively picks just the right words for any situation.
+System: By spending 1 Mote, the Heart-Eater’s words become impossible to ignore, and she 
+reduces the difficulty of all social rolls by –2 (to a minimum of 3) for the rest of the scene. This 
+Charm is always active inside of her Lair.
+Storming the Unguarded Moment (•)
+The Heart-Eater learns to judge the perfect moment and the right thing to say to shock genuine 
+emotional responses out of others.
+System: Upon asking a question, the Exalt may spend 1 Mote and make an opposed 
+(Manipulation or Appearance) + (Empathy or Presence) roll, resisted by the target’s Willpower.
+If she gains more successes than the target, he is startled into giving an honest and unguarded 
+answer. This Charm can’t be used to tactically interrogate a target about secret information, only 
+to ask how he feels about things and to get an unfiltered and unguarded response.
+Underworld Brotherhood Recognition (•)
+The Heart-Eater wraps the truth of her wretchedness about her like a shawl, kindling recognition 
+in other criminals and outlaws.
+System: Any career criminal the Exalt meets instinctively recognizes her as a fellow member of 
+the underworld, and furthermore, one who represents potential opportunities for enrichment and 
+advancement rather than a potential threat or rival. This is a potent first impression, but won’t 
+negate or erase any knowledge to the contrary that an individual might have (it won’t make them 
+forget their boss ordering them to kill the Heart-Eater, for example).
+Uneven First Meeting Benefit (•)
+The Heart-Eater makes herself compelling and yet intimidating to strangers, who are drawn to 
+her and confounded by her so long as she remains an enigma.
+System: The Heart-Eater enjoys a –2 difficulty reduction on all social actions directed at anyone 
+who knows nothing about her. Knowing the Exalt’s address, profession, name, social circle, 
+reputation, or any other distinguishing feature beyond appearance (“that’s the woman who was 
+seen leaving the prince’s room after he was murdered!”) voids the benefits granted by this 
+Charm.
+Dissemblance-Severing Eye (••)
+The Heart-Eater shapes her paranoia into a blade that cuts through all pretense, laying bare 
+others’ intentions toward her.
+System: The Heart-Eater may pay 1 Mote to instantly read someone’s intentions without waiting 
+for him to reveal himself (see p. XX). Success reveals what the subject wants to get out of the 
+current interaction. If their goal or intention is hostile toward or contemptuous toward the HeartEater, they are automatically added to the Litany of Grudges. Accepting 1 Limit after a 
+successful roll will also let the Heart-Eater read the target’s surface thoughts for the next 
+(Essence rating) minutes.
+Flower-Cutting Kiss (••)
+The Heart-Eater focuses upon a person’s most deeply-held convictions or passions and, with a 
+kiss, smothers them to cold ashes.
+System: The Heart-Eater kisses her target (as formally, chastely, or passionately as she likes)
+and spends 1 Mote. She must select one of the target’s Intimacies and make a contested roll of 
+Wits + Empathy against the target’s Willpower, both at difficulty 6; if the Heart-Eater gains 
+more successes, that Intimacy is cast into doubt for the rest of the current story.
+Flower-Cutting Kiss does not grant the Heart-Eater knowledge of a person’s Intimacies. She 
+must learn that information on her own. She can use this Charm to blindly guess at the presence 
+of an Intimacy, but if she erroneously targets an Intimacy that does not exist, she immediately 
+becomes aware of her error and gains 2 Limit.
+Forked Tongue Denouncement (••)
+The Heart-Eater rebukes and reviles someone else, enumerating his flaws and failings, his 
+disagreeable features, and the reasons why he is without worth or value to the world. Imbuing 
+her words with Essence, they resonate unpleasantly against the target’s soul, convincing listeners 
+that all she says is true.
+System: The Heart-Eater spends 2 Motes and rolls Manipulation + (Presence or Socialize) 
+against a difficulty of the target’s (Charisma + Presence or Influence, whichever is highest) 
+rating. The target may attempt to rebut the Heart-Eater’s condemnation by spending a point of 
+Willpower and making a (Charisma or Manipulation) + Presence roll of his own, at a difficulty 
+of the Heart-Eater’s (Appearance + Socialize). If he neglects to do so, or fails to gain more 
+successes than the Heart-Eater, then the condemnation sticks. Nobody who hears him being 
+reviled will do anything at all to help or support him for a number of weeks equal to the number 
+of successes by which the Heart-Eater won the roll unless induced to do so by force.
+Fracture-Lines of the Heart (••)
+Observing someone in a social milieu for a few moments, the Heart-Eater gains an instinctive 
+understanding of the stress points of their psyche, and intuits exactly the right thing to say to 
+provoke a flood of emotion.
+System: After observing someone talking for a minute or so, the Heart-Eater may roll Perception 
++ Empathy against difficulty (4 + target’s Manipulation). Success allows her to decode the 
+target’s emotional makeup. She may then, at any point during the same scene, spend 1 Mote and 
+use an action to tell the target something perfectly calibrated to break him. The target is 
+immediately consumed with either all-consuming rage or crushing sorrow, and must spend 1 
+Willpower per turn to retain their composure. He must spend a total amount of Willpower equal 
+to the successes on the Heart-Eater’s roll to ride out the storm; otherwise the berserk meltdown 
+or sobbing collapse is merely delayed.
+Gentle Iron Whispers (••)
+Using only smiles, fast-talk, a bit of banter, and the target’s undivided attention, the Heart-Eater 
+may bypass the target’s conscious mind to implant a command deep into his subconscious.
+System: Spend 2 Motes and roll (Manipulation or Appearance) + (Etiquette or Performance) 
+against a difficulty of the target’s Willpower rating. One or two successes will allow the HeartEater to command her target to do anything that doesn’t seem tremendously unusual or out of 
+character. With three or four successes, she can command the target to do anything that doesn’t 
+endanger himself or a loved one. With five or more successes, the target will risk his life and the 
+lives of others at the Exalt’s command. The target will be aware his actions are unusual and 
+inexplicable afterwards, unless the Heart-Eater spends an additional 1 Willpower. In this case, 
+the target will rationalize his actions to the best of his ability.
+Gentle Iron Whispers cannot hypnotize a target into harming or killing himself, compel him into 
+certain death, or force him to betray his Nature, unless it is applied while within the HeartEater’s Awakened Essence Lair, in which case the target can be made to betray his Nature, but 
+not to throw his life away. Protagonists targeted by this Charm may spend 1 Willpower to escape 
+its effects for a scene if they can cite an Intimacy that it is forcing them to act against. Spending a 
+number of points of Willpower equal to the Heart-Eater’s Essence rating breaks the Charm’s 
+hold.
+Heart-Stirring Performance (••)
+Making a speech or musical performance, the Heart-Eater instinctively matches her words and 
+notes to the deepest needs of those around her, affirming the truth of their lives and the empty 
+ache of their souls. They are both renewed of mind and spirit, and greatly inclined to see the 
+Exalt as a source of affirmational truths.
+System: Spend 2 Motes and roll (Manipulation or Appearance) + Performance (difficulty 6). If 
+successful, then everyone who witnesses the Heart-Eater’s performance gains 1 Willpower point, 
+so long as this wouldn’t raise their current Willpower above either their maximum, or the 
+number of successes she rolled to activate Heart-Stirring Performance. For the next (Essence 
+rating) days, anyone who gains Willpower from the performance is strongly inclined to believe 
+that anything the Heart-Eater tells them is true; should it come down to a matter of mechanics, 
+she lowers the difficulty of Manipulation rolls against them by two.
+A character can’t gain Willpower from from Heart-Stirring Performance more than once per day.
+Passions Well Consummated (••)
+The Heart-Eater entwines the powers of love and lust and forges of them silken chains with 
+which she binds herself to another.
+System: This Charm may be activated when the Heart-Eater achieves a moment of romantic or 
+sexual intimacy with another character. While torrid lovemaking will certainly qualify, it’s not 
+required. All it takes is a moment of romantic or physical connection: lingering close-range eye 
+contact; fingers meeting across a table and sparking a mutual smile; a joke, laughter, and the 
+click of mutual attraction.
+Spend 1 Mote and roll Appearance + Empathy against a difficulty of the paramour’s Willpower. 
+Success makes the Heart-Eater and her partner intensely susceptible to one another’s suggestions 
+for the next (successes rolled) weeks; each must pay 1 Willpower per scene not to immediately 
+acquiesce to any suggestion the other makes. Each point of Willpower spent in this fashion 
+reduces the remaining duration of the Charm’s effects by one week.
+There are several restrictions to Passions Well Consummated. First, it can’t push someone into 
+violating their Nature. Second, it can’t be used to demand a renewal or deeper commitment to 
+romantic or sexual intimacy. Third, in order to use it, the connection must be genuine and 
+reciprocal; in other words, the Heart-Eater can’t deploy this Charm through cynical seduction of 
+someone she holds in contempt. Its power comes from her bitter heart. She has to actually care
+to activate Passions Well Consummated. Should she, for any reason, cease caring after the 
+Charm takes effect, then it loses its power over her… but not over her paramour.
+Threat-Assessing Glance (••)
+The Heart-Eater can unravel the interactions of others with a bit of focused scrutiny, as well as 
+whether they mean her ill.
+System: The Exalt can analyze the relationship between any two characters by spending a turn 
+observing them, then spending 1 Mote and rolling Perception + Empathy against difficulty 8. 
+Even so much as one success not only reveals whether the two characters know one another, but 
+also the depth and nature of that relationship (“They’re coworkers, and also in a relationship, but 
+are both hiding that”). If they’re currently plotting something against the Heart-Eater together, 
+she immediately becomes aware of that fact, gains 1 Limit, and adds the conspirators to the 
+Litany of Grudges.
+Blossoming Flowers of Light (•••)
+The Heart-Eater speaks with passion and conviction, wrapping her words in a gleaming shell of 
+Essence. She plants them like seeds in her target’s mind, trusting that they will grow into the 
+blossoms she desires.
+System: The Heart-Eater spends 2 Motes when making an attempt to instill a temporary 
+Intimacy into someone (see p. XX). If the attempt succeeds, a true Intimacy rather than a 
+temporary Intimacy is formed. Antagonists will generally keep this Intimacy permanently unless 
+the events of the story convince them to abandon it. Protagonists can reject the formation of this 
+Intimacy by spending 3 Willpower. If a protagonist has more than her maximum allotment of 
+Intimacies at the end of a story, she must choose which Intimacies to discard until she is back 
+down to her normal number of Intimacies.
+An individual can’t be targeted with this Charm more than once per story.
+Heart-Eating Bewitchment (•••)
+The Heart-Eater floods a target’s soul with beauty, addicting him to her presence and making 
+him her worshipful lackey.
+System: Spend 2 Motes and roll Appearance + Performance (difficulty of the target’s 
+Willpower). Success transforms the target into the Heart-Eater’s obedient servant. The more 
+successes rolled, the longer the target’s servitude lasts, as per the chart below:
+Result Duration
+Botch Subject cannot be targeted by this Charm for the rest of the story.
+Failure Subject cannot be targeted by this Charm again in the current scene.
+1 One hour
+2 One day
+3 One week
+4 One month
+5 One year
+Each point of Willpower the target spends to resist this Charm negates one success on the HeartEater’s roll, and can potentially drive the effect down to a “botch” result. Antagonists instead 
+lower their Resolve for the rest of the story. Targets with a positive Intimacy toward the HeartEater can spend Willpower to deny their servitude for a scene, but this does not reduce the 
+Charm’s duration so long as the Intimacy persists.
+Memory-Correcting Measures (•••)
+In response to someone else’s statement, the Heart-Eater smiles and corrects them: “No, don’t 
+you remember? It went like this…” Once she’s finished speaking, their memories agree with her 
+assertion. If standing in her Lair, she can simply narrate new memories to overwrite the target’s 
+current recollections even without them granting her a prompt.
+System: Spend 2 Motes while detailing the subject’s new memories and roll Manipulation + 
+Presence, resisted by the target’s Willpower (both at difficulty 6). The subject’s memories can be 
+rewritten based on the number of successes left after subtracting the result of the opposed 
+Willpower roll:
+1 success: The events of a recent scene can be rewritten.
+2 successes: The events of a recent day can be rewritten.
+3 successes: A single pivotal memory in the subject’s life can be rewritten. Alternately, entire 
+weeks of the subject’s past can be written so long as they’re not crucial to the substance of her 
+life or identity.
+4 successes: A major feature of the subject’s life can be rewritten (such as who they’re married 
+to, where they went to school, or whether the Solar is a hated enemy or their childhood friend).
+5+ successes: The subject can be given an entirely new history.
+Passion-Stoking Oratory (•••)
+Seizing up the mingled passions and tempers of a group of people, the Heart-Eater braids their 
+emotions together into an all-consuming gestalt and directs them as she sees fit. This can 
+paralyze a mob with shared regret or sorrow, or transform a salon into an impromptu riot: the 
+Exalt has only to craft the necessary emotions, and then suggest a direction for them to move in.
+System: Spend 2 Motes and roll Charisma + Performance against difficulty 6. Everyone present 
+whose Willpower or Resolve rating is equal to or less than the number of successes rolled is 
+swept up in the emotion staged by the Heart-Eater, and may be directed at either nothing in 
+particular or at a course of the Exalt’s choosing.
+Radiant Queen of Hearts (•••)
+The Heart-Eater wraps herself in the tenor of all things aspirational and noble. Those who behold 
+her see that she embodies all that they value in the world and all that affirms their own values. It 
+becomes unthinkable to oppose or attack her.
+System: The Heart-Eater spends 2 Motes. For the rest of the scene, whenever anyone seeks to 
+oppose her in any respect, either socially or physically, they must make a Willpower roll against 
+a difficulty of the Exalt’s (Appearance + [higher of Empathy or Socialize]) or else abort their 
+action and bow their head in shame at their own perfidity. Affected characters may still defend 
+against the Heart-Eater’s attacks, but lower their Defense by –1.
+Rumors Like Scattered Leaves (•••)
+Tying a packet of infectious Essence into her words, the Heart-Eater murmurs a scandalous 
+rumor in a packed room. Someone hears it. Someone repeats it. Soon, everyone’s heard it from 
+someone.
+System: Spend 2 Essence and roll Manipulation + Socialize against a difficulty of (3 + the most 
+relevant Background of whoever the rumor’s about, such as Influence or Connections). While 
+this Charm can’t ensure that everyone believes whatever terrible rumor the Exalt wishes to 
+spread, success does guarantee that within a day or two, everyone who matters has at least heard
+it.
+Venomous Smile Riposte (•••)
+The Heart-Eater may effortlessly seize upon a social thrust directed against her and plant it back 
+in the chest of the one who tilted against her. Forgetting the attempted barb will prove much 
+more difficult.
+System: When slighted, humiliated, or accused of wrongdoing, the Exalt reflexively gain 1 Limit
+and roll (Manipulation or Appearance) + Socialize against the accuser’s resisted Manipulation + 
+Presence (both difficulty 6). Should the Heart-Eater gain more successes, then everyone present 
+becomes convinced the aggressor was in fact the one who belittled, insulted, or implicated 
+herself. The aggressor goes onto the Litany of Grudges either way.
+Spiritual Charms
+Terrestrial Circle Sorcery (•)
+The Heart-Eater has been initiated into the practice of sorcery. She can cast Terrestrial Circle 
+spells and enact sorcerous workings. Purchase of this Charm grants one shaping ritual and one 
+Terrestrial Circle spell.
+System: See Chapter Eleven for rules on playing a sorcerer.
+Witch Eyes Technique (•)
+The Heart-Eater attunes herself to those precincts of reality set apart from the mundane, and the 
+power that dwells within them.
+System: The Heart-Eater can roll Perception + Occult against difficulty 7 to survey the Essence 
+of the world around her. Depending on the number of successes rolled and the presence of 
+anything interesting to detect, she might uncover things like the radiance of a nearby Manse or 
+Demesne, a subtle but active spell or sorcerous working, or the fact that a ferocious amount of 
+Essence was spent in the area sometime recently. She can also discern particular profiles, flavors, 
+or “colors” of Essence if she has encountered them before, and thus might use this Charm to 
+track a missing Circlemate by the trail of his expended Essence.
+Celestial Circle Sorcery (••)
+Resonance: Occult
+The Heart-Eater has been initiated into the mighty workings of the Celestial Circle of sorcery. 
+She can cast Celestial Circle spells. Purchase of this Charm grants one shaping ritual and one 
+Celestial Circle spell.
+System: See Chapter Eleven for rules on playing a sorcerer.
+Essence-Devouring Repast (••)
+When the Heart-Eater visits destruction upon anything touched by eternity, she may rend apart 
+the fabric of its being and consume its power, adding it to her own.
+System: When the Exalt slays a spirit, demon, or ghost, the player can opt to roll Manipulation + 
+Occult (difficulty 6). Doing so prevents the being from ever returning or reforming, and grants 
+the Heart-Eater 2 Motes on the spot. She may also enact this Charm upon slaying another Exalt, 
+gaining 5 Motes from doing so.
+Furthermore, the Heart-Eater can reflexively spend 1 Mote to gain the ability to see and strike 
+intangible beings for the rest of the scene.
+Spirit-Subverting Poison (••)
+The Heart-Eater entices a spirit with a display of power, and then, outwitting it, binds it to 
+become her creature by imbuing it with a corrosive spiritual toxin.
+System: The Heart-Eater spends a turn attracting a god, ghost, elemental, or demon’s attention, 
+during which time it can sense the powerful bounty of her Essence. She may then offer up a 
+contest of wits in which, if the spirit wins, she will grant it a portion of her power. If the spirit 
+accepts, the two enter into an extended contested roll of Wits + (Lore, Presence, Performance, or 
+Socialize), both at difficulty 6. This generally takes the form of a competition of riddles, 
+storytelling, dance, or some other form of skill. The first to gain two more successes than the 
+opponent wins. If the spirit is triumphant, the Heart-Eater loses 1 Mote and suffers one level of 
+unsoakable lethal damage as the spirit forcibly tears free its prize, increasing its Resolve by 1 for 
+the rest of the story. If the Heart-Eater is triumphant, then she tricks the spirit into believing it 
+has won when it has not. She still surrenders 1 Mote, but converts it into a hidden catalytic 
+poison which hollows out the spirit and makes it subservient to her will. The spirit must now 
+obey her every command for 28 days.
+If she takes the spirit back to her Awakened Essence Lair, any time it spends in the Lair does not 
+count toward the time of service it owes her, though it must still obey her within the Lair.
+Stealth and Disguise Charms
+Crowd-Joining Evasion (•)
+Stealing a tiny bit of Essence from a large gathering, the Heart-Eater weaves herself into the mob 
+and effectively vanishes, unable to be picked out of the people surrounding her.
+System: Spend 1 Mote and roll Appearance + (Socialize or Stealth) against difficulty 5. Until the 
+Exalt moves out of the crowd she’s hiding in, or the group disperses, it’s impossible to 
+specifically notice the Exalt so long as she’s not doing anything brazenly attention-grabbing like 
+attacking people or waving a sword around. The eye slides right off of her without noticing 
+anything unusual or suspicious, even if the observer is watching for her specifically, or was 
+following her at the time she activated the Charm. This Charm offers no concealment if the Exalt 
+is completely alone, or with only a handful of other people around.
+Milieu-Blending Camouflage (•)
+Heart-Eaters know that safety and not being picked out from a crowd are one and the same. 
+Stranded in a place or scene where she doesn’t fit in, the Exalt weaves a modest veil of illusion 
+that makes her seem a part of the local scene.
+System: The Heart-Eater may spend 1 Mote to cloak herself in a modest illusion for the rest of 
+the scene. Wherever she is, she looks and sounds like she fits in. This can modify her apparent 
+age, ethnicity, clothing, accent, and in extreme cases gender, and will even unconsciously pepper 
+her speech with local or in-scene idioms, though she doesn’t gain the ability to speak or 
+understand any new languages.
+Rare Flower Revelation (•)
+Upon being found out during a failed attempt at hiding herself, sneaking about, or doing 
+something underhanded, the Heart-Eater strikes in the moment of her discoverer’s surprise, 
+lancing through to pierce his heart with the concentrated force of her desirability.
+System: After failing at a Stealth or Larceny attempt, the Heart-Eater may reflexively pay 1 
+Mote. The individual who caught her must then make a reflexive Wits + Awareness roll against 
+difficulty 9. Failure causes him to, in the midst of the shocking discovery of her presence or 
+duplicity, realize that she is someone he has waited all his life to find. He is forced to gain a 
+positive temporary Intimacy of some kind toward her, with a context decided by the target’s 
+player, ranging from bemused camaraderie to romantic infatuation. This Intimacy remains until 
+the end of the current story.
+Dazzling Auroral Haze (••)
+The Heart-Eater feeds Essence into her anima, expanding it into a blinding, kaleidoscopic fog 
+that transforms her surroundings into a bright supernatural haze in which she might move about 
+undetected.
+System: The Exalt spends 2 Motes and makes an Appearance + Stealth roll against difficulty 6. 
+Her anima manifests and fills an area up to three zones around her, centered on the Heart-Eater. 
+Attempting to pinpoint her location within the moving, churning glare requires a Perception + 
+Awareness roll against difficulty (5 + Heart-Eater’s Essence, maximum 9) that must garner more 
+successes than she did on this Charm’s activation roll. A failure means that character treats her as 
+invisible, with results detailed on page XX.
+Dazzling Auroral Haze lasts for as long as the Heart-Eater’s anima remains manifest. Its center 
+moves with her. As such, it’s a powerful Charm, but one that draws an enormous amount of 
+unwanted attention.
+Going to Ground (••)
+The Heart-Eater may blend her Essence into a surface or item, sinking into a wall, floor, tree, or 
+at least person-sized object and hiding perfectly within. She remains aware of her surroundings 
+while immersed in her hiding place.
+System: Spend 1 Mote to merge with an object or surface, which must be at least as large as the 
+character. Any serious disruption to the Exalt’s hiding place (cutting down a tree, smashing a 
+wall) ejects her, and she suffers a –2 penalty to her actions for a minute afterwards due to 
+disorientation. Otherwise, she may voluntarily emerge from hiding whenever she likes. The 
+Exalt gains 1 Limit upon using this Charm for the first time in a session, as she is swept by a 
+deep sense of the world’s bristling animosity and revulsion at her joining with it.
+If used within the Heart-Eater’s Awakened Essence Lair, this Charm doesn’t cause Limit gain.
+Anima-Drowning Panic (•••)
+A Heart-Eater’s anima is one of the most gorgeous displays to be found in the natural or 
+supernatural world: a gently shimmering curtain of constantly evolving colors, working through 
+all the hues of night, the vibrant shades of electricity, the greens and blues of the rolling deeps. It 
+is also a betrayal, signaling her presence to whoever or whatever waits out there to kill her. And 
+so, with a panicked effort, the Heart-Eater may escape from the light that wells up from her soul.
+System: The Exalt may reflexively gain 1 Limit to smother her anima display, or 2 Limit to pass 
+her anima to someone else, causing them to become the source for its radiance. If she sends her 
+anima to another character, it only stays there until it goes out naturally, or until the Heart-Eater 
+spends Motes again, at which point it will return to her if still visible.
+This Charm can prematurely cancel Dazzling Auroral Haze, or even pass its benefits over to 
+someone else.
+Drawn Into Darkness (•••)
+The Heart-Eater may drag her victims away into the shadows, never to be seen again.
+System: The Exalt may reflexively spend 1 Mote when launching an unexpected attack against a 
+target, ensuring that her ambush makes no noise, prevents her target from making noise, and 
+alerts no-one who was not directly observing the victim at the moment of the attack. So long as 
+she continues spending 1 Mote at the beginning of each subsequent turn, and the victim cannot 
+get to a different zone, the attack remains occluded: nobody can notice it is happening. If she 
+kills her target or renders him unconscious, she may spend 1 final Mote to cause herself and the 
+body to return to the shadows, underbrush, or some other form of concealment, where she can 
+send her victim back to her Lair or simply cram him into some odd corner where finding him 
+requires five cumulative successes on an extended difficulty 9 Investigation roll.
