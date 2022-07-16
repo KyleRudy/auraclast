@@ -31,14 +31,15 @@ public class Program
             var path = Path.Join(output, name + ".csv");
             using var outputFs = new FileStream(path, FileMode.Create);
             using var outputWriter = new StreamWriter(outputFs);
-            outputWriter.WriteLine("Splat,Category,Name,Dots/Xp,Type,Resonance,Flavor,System");
+            outputWriter.WriteLine("Splat,Category,Name,Dots/Xp,Essence,Type,Resonance,Flavor,System");
             foreach(var val in vals)
             {
-                outputWriter.WriteLine("{0},{1},{2},{3},{4},{5},{6},{7}",
+                outputWriter.WriteLine("{0},{1},{2},{3},{4},{5},{6},{7},{8}",
                     StringToCSVCell(val.Splat),
                     StringToCSVCell(val.Category),
                     StringToCSVCell(val.Name),
                     val.Dots,
+                    val.Essence,
                     StringToCSVCell(val.Type),
                     StringToCSVCell(string.Join(",", val.Resonance)),
                     StringToCSVCell(val.Flavor),
@@ -51,6 +52,7 @@ public class Program
                         "(enhancement)",
                         StringToCSVCell(enh.Name),
                         enh.Cost,
+                        val.Essence,
                         string.Empty,
                         string.Empty,
                         string.Empty,
@@ -63,7 +65,7 @@ public class Program
     }
 
     // from https://stackoverflow.com/questions/6377454/escaping-tricky-string-to-csv-format
-    public static string StringToCSVCell(string str)
+    private static string StringToCSVCell(string str)
     {
         bool mustQuote = (str.Contains(",") || str.Contains("\"") || str.Contains("\r") || str.Contains("\n"));
         if (mustQuote)

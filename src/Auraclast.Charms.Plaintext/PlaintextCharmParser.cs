@@ -21,6 +21,7 @@ public class PlaintextCharmParser
     private static Regex _captureResonance = new Regex(RESONANCE_CAPTURE, RegexOptions.Compiled);
     private static Regex _captureSystem = new Regex(SYSTEM_CAPTURE, RegexOptions.Compiled);
     private static Regex _captureEnhancement = new Regex(ENHANCEMENT_CAPTURE, RegexOptions.Compiled);
+    private static Regex _captureEssence = new Regex(ESSENCE_CAPTURE, RegexOptions.Compiled);
 
     private const string CATEGORY_CAPTURE = "^(.{0,40}) Charms$"; // the 40 character limit is a total hack
     private const string NAME_CAPTURE = "^(.+)\\((•+)\\)\\s*$";
@@ -30,6 +31,7 @@ public class PlaintextCharmParser
 
     private const string SYSTEM_CAPTURE = "^System:\\s*(.+)$";
     private const string ENHANCEMENT_CAPTURE = "^(.+) \\(([0-9]+)xp\\):\\s*(.+)";
+    private const string ESSENCE_CAPTURE = "^A.+must have Essence ([0-9])\\+ to purchase this Charm.";
 
     private delegate void StageParser(string line, ParserState state);
 
@@ -199,35 +201,54 @@ public class PlaintextCharmParser
 
     private void StageFour(string line, ParserState state) 
     {
-        var match = _captureEnhancement.Match(line);
-        if(match.Success)
-        {
-            // we've transitioned to a new enhancement
-            var name = match.Groups[1].Captures[0].Value;
-            var xp = int.TryParse(match.Groups[2].Captures[0].Value, out int val) ? val : 0;
-            state.Enhancements.Add(new CharmEnhancement { Name = name, Cost = xp, System = match.Groups[3].Captures[0].Value });
-            state.Stage = 5;
-        }
-        else
-        {
-            state.Charm.System = ExtendTextBlock(state.Charm.System, line);
+        if(TryGetEssenceRequirement(line, out var ess)) {
+            state.Charm.Essence = ess;
+        } else {
+            var match = _captureEnhancement.Match(line);
+            if(match.Success)
+            {
+                // we've transitioned to a new enhancement
+                var name = match.Groups[1].Captures[0].Value;
+                var xp = int.TryParse(match.Groups[2].Captures[0].Value, out int val) ? val : 0;
+                state.Enhancements.Add(new CharmEnhancement { Name = name, Cost = xp, System = match.Groups[3].Captures[0].Value });
+                state.Stage = 5;
+            }
+            else
+            {
+                state.Charm.System = ExtendTextBlock(state.Charm.System, line);
+            }
         }
     }
 
     private void StageFive(string line, ParserState state) 
     {
-        var match = _captureEnhancement.Match(line);
-        if(match.Success)
-        {
-            // we've transitioned to a new enhancement
-            var name = match.Groups[1].Captures[0].Value;
-            var xp = int.TryParse(match.Groups[2].Captures[0].Value, out int val) ? val : 0;
-            state.Enhancements.Add(new CharmEnhancement { Name = name, Cost = xp, System = match.Groups[3].Captures[0].Value });
+        if(TryGetEssenceRequirement(line, out var ess)) {
+            state.Charm.Essence = ess;
         }
-        else
-        {
-            var last = state.Enhancements.Last();
-            last.System = ExtendTextBlock(last.System, line);
+        else {
+            var match = _captureEnhancement.Match(line);
+            if(match.Success)
+            {
+                // we've transitioned to a new enhancement
+                var name = match.Groups[1].Captures[0].Value;
+                var xp = int.TryParse(match.Groups[2].Captures[0].Value, out int val) ? val : 0;
+                state.Enhancements.Add(new CharmEnhancement { Name = name, Cost = xp, System = match.Groups[3].Captures[0].Value });
+            }
+            else
+            {
+                var last = state.Enhancements.Last();
+                last.System = ExtendTextBlock(last.System, line);
+            }
+        }
+    }
+
+    private bool TryGetEssenceRequirement(string line, out int Essence) {
+        var match = _captureEssence.Match(line);
+        if(match.Success) {
+            return int.TryParse(match.Groups[1].Captures[0].Value, out Essence);
+        } else {
+            Essence = default;
+            return false;
         }
     }
 }
