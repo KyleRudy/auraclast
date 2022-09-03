@@ -1,0 +1,53 @@
+<script>
+    import Rating from "./Rating.svelte"
+    export let values = 
+        {   Archery: {name: "Archery", value: 0, minimum: 0, type: "_", validTypes: ["_", "c", "f"], description:"Archery is used to shoot bows, crossbows, and firewands. In general, it’s the default “ranged attack” Ability for anything that isn’t obviously Thrown. If, somehow, you gain the power to turn into a dragon and shoot fireballs out of your mouth, you’re probably aiming them with Archery."},
+            Athletics: {name: "Athletics", value: 0, minimum: 0, type: "_", validTypes: ["_", "c", "f"], description:"Athletics is the Ability of actively using your physique to do things. It’s the Ability of gymnastics, acrobatics, feats of strength, footraces, swimming... and dodging. In EXD, Athletics has absorbed the Dodge Ability found in First, Second, and Third Editions."},
+            Awareness: {name: "Awareness", value: 0, minimum: 0, type: "_", validTypes: ["_", "c", "f"], description:"This is what you roll to spot stuff. Usually paired with Perception."},
+            Brawl: {name: "Brawl", value: 0, minimum: 0, type: "_", validTypes: ["_", "c", "f"], description:"Punching! Also kicking. Sometimes grappling. Occasionally biting. If you use a weapon but still fundamentally attack by punching (such as with katars, aka “punch daggers”) you still use Brawl."},
+            Bureaucracy: {name: "Bureaucracy", value: 0, minimum: 0, type: "_", validTypes: ["_", "c", "f"], description:"Understanding, navigating, or designing complex systems to get things done."},
+            Craft: {name: "Craft", value: 0, minimum: 0, type: "_", validTypes: ["_", "c", "f"], description:"I’ve collapsed this one down to just one Ability for the sake of everyone’s sanity. Is it particularly realistic that being a talented blacksmith also makes you a master painter and carpenter? No. Is it worth making this Ability five times as complicated as any of the others to stop that? Also no. Do I expect you to just, you know, self-police what your character can and can’t do with Craft according to your character concept? It would be nice."},
+            Empathy: {name: "Empathy", value: 0, minimum: 0, type: "_", validTypes: ["_", "c", "f"], description:"The Ability to understand what other people are thinking and feeling, and respond to them appropriately... or to viciously turn that understanding against them. One of the ugliest lessons young Dynasts learn growing up is that it’s very possible for someone to perfectly understand you without liking you in the slightest."},
+            Investigation: {name: "Investigation", value: 0, minimum: 0, type: "_", validTypes: ["_", "c", "f"], description:"Fantastic clues and how to find them. This is the Ability that figures stuff out."},
+            Larceny: {name: "Larceny", value: 0, minimum: 0, type: "_", validTypes: ["_", "c", "f"], description:"Crime: the Ability."},
+            Linguistics: {name: "Linguistics", value: 0, minimum: 0, type: "_", validTypes: ["_", "c", "f"], description:"This version of Linguistics tracks eloquence with words. It’s used for written social influence, as well as highly-rehearsed deliveries and poetry composition. It does not have anything to do with number of languages known. Characters must have at least Linguistics • to be literate."},
+            Lore: {name: "Lore", value: 0, minimum: 0, type: "_", validTypes: ["_", "c", "f"], description:"Knowledge of history, art, culture, and so on. The business of savants and academics."},
+            MartialArts: {name: "Martial Arts", value: 0, minimum: 0, type: "_", validTypes: ["_", "c", "f"], description:"Formal systems of combat, often unarmed or utilizing exotic weapons. The gateway to powerful supernatural combat styles that can be shared by different supernatural beings. Only needs to be purchased once to cover all styles the character means to practice."},
+            Medicine: {name: "Medicine", value: 0, minimum: 0, type: "_", validTypes: ["_", "c", "f"], description:"Does what it says on the tin."},
+            Melee: {name: "Melee", value: 0, minimum: 0, type: "_", validTypes: ["_", "c", "f"], description:"The Ability of hitting people with swords until they stop being alive."},
+            Occult: {name: "Occult", value: 0, minimum: 0, type: "_", validTypes: ["_", "c", "f"], description:"Knowledge of the supernatural world. Useful knowledge about gods, ghosts, the Fair Folk, and the nature and behavior of Essence."},
+            Performance: {name: "Performance", value: 0, minimum: 0, type: "_", validTypes: ["_", "c", "f"], description:"Song, dance, oratory. Emotional self-expression intended for an audience."},
+            Presence: {name: "Presence", value: 0, minimum: 0, type: "_", validTypes: ["_", "c", "f"], description:"Impassioned or rational argument; or projecting force of personality; or personal appeal. In in doubt, this is your default Ability for talking to people."},
+            Resistance: {name: "Resistance", value: 0, minimum: 0, type: "_", validTypes: ["_", "c", "f"], description:"Enduring hardship, resisting disease and poison. Usually rolled with Stamina."},
+            Ride: {name: "Ride", value: 0, minimum: 0, type: "_", validTypes: ["_", "c", "f"], description:"The Ability of controlling a mount effectively."},
+            Sail: {name: "Sail", value: 0, minimum: 0, type: "_", validTypes: ["_", "c", "f"], description:"The Ability of operating a ship and knowing how to operate at sea."},
+            Socialize: {name: "Socialize", value: 0, minimum: 0, type: "_", validTypes: ["_", "c", "f"], description:"Etiquette. The Ability of operating correctly in formal social environments. This is what you use at a salon, a party, or a formal dinner. The weapon of politicians."},
+            Stealth: {name: "Stealth", value: 0, minimum: 0, type: "_", validTypes: ["_", "c", "f"], description:"Not being seen."},
+            Survival: {name: "Survival", value: 0, minimum: 0, type: "_", validTypes: ["_", "c", "f"], description:"Not starving to death or getting mauled by wild animals in the forest. Also, animal training."},
+            Thrown: {name: "Thrown", value: 0, minimum: 0, type: "_", validTypes: ["_", "c", "f"], description:"Hucking stuff at people. This is the default Ability for ranged attacks that come from your hands."},
+            War: {name: "War", value: 0, minimum: 0, type: "_", validTypes: ["_", "c", "f"], description:"The Ability of commanding troops, devising strategies, and figuring out how the other general is planning to fuck you and what to do about it."},
+        };
+    
+</script>
+
+<ul class="abilities">
+    {#each Object.entries(values) as [key, value]}
+        <Rating rating={value} />
+    {/each}
+</ul>
+
+<style>
+    ul {
+        list-style: none;
+        padding-left: 0;
+        padding-inline-start: 0;
+    }
+    li {
+        list-style: none;
+    }
+    @media (max-width: 810px) {
+		ul.attributes li {
+			grid-column: 1 / 3;
+		}
+	}
+</style>
